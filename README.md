@@ -13,6 +13,7 @@ Try to solve every day!!!
 2. [205. Isomorphic Strings](easy/isomorphic_strings_205.py)
 2. [392. Is Subsequence](easy/Is_Subsequence_392.py)
 2. [724. Find Pivot Index](easy/find_pivot_index_724.py)
+2. [21. Merge Two Sorted Lists](easy/merge-two-sorted-lists_21.py)
 
 ### Medium Tasks
 
