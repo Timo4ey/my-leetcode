@@ -14,6 +14,7 @@ Try to solve every day!!!
 2. [392. Is Subsequence](easy/Is_Subsequence_392.py)
 2. [724. Find Pivot Index](easy/find_pivot_index_724.py)
 2. [21. Merge Two Sorted Lists](easy/merge-two-sorted-lists_21.py)
+2. [206. Reverse Linked List](easy/reverse-linked-list_206.py)
 
 ### Medium Tasks
 
