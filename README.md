@@ -15,6 +15,7 @@ Try to solve every day!!!
 2. [724. Find Pivot Index](easy/find_pivot_index_724.py)
 2. [21. Merge Two Sorted Lists](easy/merge-two-sorted-lists_21.py)
 2. [206. Reverse Linked List](easy/reverse-linked-list_206.py)
+2. [876. Middle of the Linked List](easy/middle-of-the-linked-list_876.py)
 
 ### Medium Tasks
 
