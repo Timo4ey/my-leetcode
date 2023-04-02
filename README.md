@@ -18,5 +18,6 @@ Try to solve every day!!!
 2. [876. Middle of the Linked List](easy/middle-of-the-linked-list_876.py)
 
 ### Medium Tasks
+1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
 
 ### Hard Tasks
