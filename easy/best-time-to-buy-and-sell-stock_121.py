@@ -5,6 +5,8 @@ class List(list):
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         minimum = float('inf')
+        # https://stackoverflow.com/questions/34264710/what-is-the-point-of-floatinf-in-python
+        # thanks this question 
         maximum = 0
         for i in range(len(prices)):
             result = prices[i] - minimum
