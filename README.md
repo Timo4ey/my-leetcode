@@ -16,6 +16,8 @@ Try to solve every day!!!
 2. [21. Merge Two Sorted Lists](easy/merge-two-sorted-lists_21.py)
 2. [206. Reverse Linked List](easy/reverse-linked-list_206.py)
 2. [876. Middle of the Linked List](easy/middle-of-the-linked-list_876.py)
+2. [121. Best Time to Buy and Sell Stock](easy/best-time-to-buy-and-sell-stock_121.py)
+3. [409. Longest Palindrome](easy/longest-palindrome_409.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
