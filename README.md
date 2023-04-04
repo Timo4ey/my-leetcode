@@ -18,8 +18,10 @@ Try to solve every day!!!
 2. [876. Middle of the Linked List](easy/middle-of-the-linked-list_876.py)
 2. [121. Best Time to Buy and Sell Stock](easy/best-time-to-buy-and-sell-stock_121.py)
 3. [409. Longest Palindrome](easy/longest-palindrome_409.py)
+4. [589. N-ary Tree Preorder Traversal](easy/n-ary-tree-preorder-traversal_589.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
+5. [102. Binary Tree Level Order Traversal](medium/binary-tree-level-order-traversal_102.py)
 
 ### Hard Tasks
