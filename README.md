@@ -19,6 +19,8 @@ Try to solve every day!!!
 2. [121. Best Time to Buy and Sell Stock](easy/best-time-to-buy-and-sell-stock_121.py)
 3. [409. Longest Palindrome](easy/longest-palindrome_409.py)
 4. [589. N-ary Tree Preorder Traversal](easy/n-ary-tree-preorder-traversal_589.py)
+2. [704. Binary Search](easy/binary-search_704.py)
+2. [278. First Bad Version](easy/first-bad-version_278.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
