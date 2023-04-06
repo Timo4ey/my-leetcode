@@ -25,5 +25,6 @@ Try to solve every day!!!
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
 5. [102. Binary Tree Level Order Traversal](medium/binary-tree-level-order-traversal_102.py)
+4. [98. Validate Binary Search Tree](medium/validate-binary-search-tree_98.py)
 
 ### Hard Tasks
