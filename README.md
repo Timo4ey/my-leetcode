@@ -21,6 +21,8 @@ Try to solve every day!!!
 4. [589. N-ary Tree Preorder Traversal](easy/n-ary-tree-preorder-traversal_589.py)
 2. [704. Binary Search](easy/binary-search_704.py)
 2. [278. First Bad Version](easy/first-bad-version_278.py)
+2. [509. Fibonacci Number](easy/fibonacci-number_509.py)
+2. [70. Climbing Stairs](easy/climbing-stairs_70.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
