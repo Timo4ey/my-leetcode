@@ -23,6 +23,7 @@ Try to solve every day!!!
 2. [278. First Bad Version](easy/first-bad-version_278.py)
 2. [509. Fibonacci Number](easy/fibonacci-number_509.py)
 2. [70. Climbing Stairs](easy/climbing-stairs_70.py)
+2. [844. Backspace String Compare](easy/backspace-string-compare_844.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
