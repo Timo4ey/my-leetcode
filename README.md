@@ -24,6 +24,8 @@ Try to solve every day!!!
 2. [509. Fibonacci Number](easy/fibonacci-number_509.py)
 2. [70. Climbing Stairs](easy/climbing-stairs_70.py)
 2. [844. Backspace String Compare](easy/backspace-string-compare_844.py)
+2. [242. Valid Anagram](easy/valid-anagram_242.py)
+3. [26. Remove Duplicates from Sorted Array](easy/remove-duplicates-from-sorted-array_26.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
