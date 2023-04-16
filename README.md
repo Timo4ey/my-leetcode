@@ -26,6 +26,8 @@ Try to solve every day!!!
 2. [844. Backspace String Compare](easy/backspace-string-compare_844.py)
 2. [242. Valid Anagram](easy/valid-anagram_242.py)
 3. [26. Remove Duplicates from Sorted Array](easy/remove-duplicates-from-sorted-array_26.py)
+3. [2614. Prime In Diagonal](easy/prime-in-diagonal_2614.py)
+4. [2605. Form Smallest Number From Two Digit Arrays](easy/form-smallest-number-from-two-digit-arrays_2605.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
