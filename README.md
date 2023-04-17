@@ -28,6 +28,8 @@ Try to solve every day!!!
 3. [26. Remove Duplicates from Sorted Array](easy/remove-duplicates-from-sorted-array_26.py)
 3. [2614. Prime In Diagonal](easy/prime-in-diagonal_2614.py)
 4. [2605. Form Smallest Number From Two Digit Arrays](easy/form-smallest-number-from-two-digit-arrays_2605.py)
+4. [2586. Count the Number of Vowel Strings in Range](easy/count-the-number-of-vowel-strings-in-range_2586.py)
+
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
