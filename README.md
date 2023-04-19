@@ -32,10 +32,12 @@ Try to solve every day!!!
 4. [2570. Merge Two 2D Arrays by Summing Values](easy/merge-two-2d-arrays-by-summing-values_2570.py)
 4. [2574. Left and Right Sum Differences](easy/left-and-right-sum-differences_2574.py)
 4. [1768. Merge Strings Alternately](easy/merge-strings-alternately_1768.py)
+4. [2562. Find the Array Concatenation Value](easy/find-the-array-concatenation-value_2562.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
 5. [102. Binary Tree Level Order Traversal](medium/binary-tree-level-order-traversal_102.py)
 4. [98. Validate Binary Search Tree](medium/validate-binary-search-tree_98.py)
+4. [2640. Find the Score of All Prefixes of an Array](medium/find-the-score-of-all-prefixes-of-an-array_2640.py)
 
 ### Hard Tasks
