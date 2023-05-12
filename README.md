@@ -35,6 +35,7 @@ Try to solve every day!!!
 4. [2562. Find the Array Concatenation Value](easy/find-the-array-concatenation-value_2562.py)
 4. [2037. Minimum Number of Moves to Seat Everyone](easy/minimum-number-of-moves-to-seat-everyone_2037.py)
 4. [917. Reverse Only Letters](easy/reverse-only-letters_917.py)
+4. [27. Remove Element](easy/remove-element_27.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
