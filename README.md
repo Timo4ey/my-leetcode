@@ -43,5 +43,6 @@ Try to solve every day!!!
 4. [98. Validate Binary Search Tree](medium/validate-binary-search-tree_98.py)
 4. [2640. Find the Score of All Prefixes of an Array](medium/find-the-score-of-all-prefixes-of-an-array_2640.py)
 4. [2610. Convert an Array Into a 2D Array With Conditions](medium/convert-an-array-into-a-2d-array-with-conditions_2610.py)
+4. [49. Group Anagrams](medium/group-anagrams_49.py)
 
 ### Hard Tasks
