@@ -36,6 +36,9 @@ Try to solve every day!!!
 4. [2037. Minimum Number of Moves to Seat Everyone](easy/minimum-number-of-moves-to-seat-everyone_2037.py)
 4. [917. Reverse Only Letters](easy/reverse-only-letters_917.py)
 4. [27. Remove Element](easy/remove-element_27.py)
+4. [66. Plus One](easy/plus-one_66.py)
+4. [485. Max Consecutive Ones](easy/max-consecutive-ones_485.py)
+5. [219. Contains Duplicate II](easy/contains-duplicate-ii_219.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
