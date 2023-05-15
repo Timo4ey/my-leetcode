@@ -39,6 +39,10 @@ Try to solve every day!!!
 4. [66. Plus One](easy/plus-one_66.py)
 4. [485. Max Consecutive Ones](easy/max-consecutive-ones_485.py)
 5. [219. Contains Duplicate II](easy/contains-duplicate-ii_219.py)
+4. [14. Longest Common Prefix](easy/longest-common-prefix_14.py)
+4. [575. Distribute Candies](easy/distribute-candies_575.py)
+4. [1572. Matrix Diagonal Sum](easy/matrix-diagonal-sum_1572.py)
+4. [1351. Count Negative Numbers in a Sorted Matrix](easy/count-negative-numbers-in-a-sorted-matrix_1351.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
@@ -47,5 +51,6 @@ Try to solve every day!!!
 4. [2640. Find the Score of All Prefixes of an Array](medium/find-the-score-of-all-prefixes-of-an-array_2640.py)
 4. [2610. Convert an Array Into a 2D Array With Conditions](medium/convert-an-array-into-a-2d-array-with-conditions_2610.py)
 4. [49. Group Anagrams](medium/group-anagrams_49.py)
+4. [347. Top K Frequent Elements](medium/top-k-frequent-elements_347.py)
 
 ### Hard Tasks
