@@ -43,6 +43,9 @@ Try to solve every day!!!
 4. [575. Distribute Candies](easy/distribute-candies_575.py)
 4. [1572. Matrix Diagonal Sum](easy/matrix-diagonal-sum_1572.py)
 4. [1351. Count Negative Numbers in a Sorted Matrix](easy/count-negative-numbers-in-a-sorted-matrix_1351.py)
+4. [125. Valid Palindrome](easy/valid-palindrome_125.py)
+4. [344. Reverse String](easy/reverse-string_344.py)
+4. [283. Move Zeroes](easy/move-zeroes_283.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
