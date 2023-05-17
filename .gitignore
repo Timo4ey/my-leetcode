@@ -2,3 +2,4 @@ tests.py
 medium/-------------------two-sum-ii-input-array-is-sorted_167.py
 medium/------------------longest-zigzag-path-in-a-binary-tree_1372.py
 easy/----------------defuse-the-bomb_1652.py
+.vscode/
