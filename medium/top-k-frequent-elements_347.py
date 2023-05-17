@@ -19,6 +19,7 @@ from collections import Counter
 class List(list):
     pass
 
+
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         d:Counter = Counter(nums)

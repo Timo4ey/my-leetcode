@@ -2,8 +2,6 @@
 
 # Note that you must do this in-place without making a copy of the array.
 
- 
-
 # Example 1:
 
 # Input: nums = [0,1,0,3,12]
@@ -13,13 +11,11 @@
 # Input: nums = [0]
 # Output: [0]
 # ---------------------------------------Runtime 183 ms Beats 31.9% Memory 17.9 MB Beats 12.54%---------------------------------------
-
-
 class List(list):
     pass
 
 
-# My solution 
+# My solution
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
         if sum(nums) == 0:
