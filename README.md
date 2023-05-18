@@ -46,6 +46,8 @@ Try to solve every day!!!
 4. [125. Valid Palindrome](easy/valid-palindrome_125.py)
 4. [344. Reverse String](easy/reverse-string_344.py)
 4. [283. Move Zeroes](easy/move-zeroes_283.py)
+4. [1700. Number of Students Unable to Eat Lunch](easy/number-of-students-unable-to-eat-lunch_1700.py)
+4. [20. Valid Parentheses](easy/valid-parentheses_20.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
