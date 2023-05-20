@@ -49,6 +49,7 @@ Try to solve every day!!!
 4. [1700. Number of Students Unable to Eat Lunch](easy/number-of-students-unable-to-eat-lunch_1700.py)
 4. [20. Valid Parentheses](easy/valid-parentheses_20.py)
 4. [1047. Remove All Adjacent Duplicates In String](easy/remove-all-adjacent-duplicates-in-string_1047.py)
+4. [1544. Make The String Great](easy/make-the-string-great_1544.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)

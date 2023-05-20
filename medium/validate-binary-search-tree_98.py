@@ -14,20 +14,20 @@ class Solution:
     
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
         # stock behaves like stack (last in first out) 
-        stock = []
+        stack = []
         # prev it's the previous node
         prev = None
 
         # while root and stock are not empty
-        while root or stock:
+        while root or stack:
             # while root is not empty
             while root:
                 # add in stock nodes until root is not run out
-                stock.append(root)
+                stack.append(root)
                 # goint left until left is not None
                 root = root.left
             # getting the last element
-            root = stock.pop()
+            root = stack.pop()
             # prev bigger or equal current val so return false
             if prev and root.val <= prev.val:
                 return False
