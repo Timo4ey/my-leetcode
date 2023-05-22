@@ -60,5 +60,6 @@ Try to solve every day!!!
 4. [49. Group Anagrams](medium/group-anagrams_49.py)
 4. [347. Top K Frequent Elements](medium/top-k-frequent-elements_347.py)
 4. [151. Reverse Words in a String](medium/reverse-words-in-a-string_151.py)
+4. [1209. Remove All Adjacent Duplicates in String II](medium/remove-all-adjacent-duplicates-in-string-ii_1209.py)
 
 ### Hard Tasks
