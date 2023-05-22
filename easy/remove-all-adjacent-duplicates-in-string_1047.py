@@ -23,7 +23,7 @@
 
 from functools import reduce
 
-# My solution 
+# My solution 1
 class Solution:
     def removeDuplicates(self, s: str) -> str:
         stack = list(s)
@@ -44,7 +44,19 @@ class Solution:
 
         return ''.join(stack)
 
+# My solution 2
+class Solution:
+    def removeDuplicates(self, s: str) -> str:
+        stack = []
 
+        for c in s:
+            if stack and stack[-1][0] == c:
+                stack[-1][1] += 1
+            else:
+                stack.append([c, 1])
+            if stack[-1][1] == 2:
+                stack.pop()
+        return ''.join([c for c, i in stack])
 
 # Solution @lee215
 class Solution:
