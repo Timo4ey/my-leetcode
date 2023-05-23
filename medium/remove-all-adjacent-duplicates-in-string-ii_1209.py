@@ -26,7 +26,7 @@
 # Input: s = "pbbcggttciiippooaais", k = 2
 # Output: "ps"
 
-# ---------------------------------------Runtime 130 ms Beats 33.71%% Memory 21.1 MB Beats 24.42%---------------------------------------
+# ---------------------------------------Runtime 130 ms Beats 33.71% Memory 21.1 MB Beats 24.42%---------------------------------------
 
 # My solution 1
 class Solution:
