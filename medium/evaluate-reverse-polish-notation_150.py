@@ -32,16 +32,16 @@
 # ---------------------------------------Runtime 81 ms Beats 44.69% Memory 16.8 MB Beats 10.31%---------------------------------------
 
 # My Solution
-from operator import mul,truediv, sub, add
+from operator import mul, truediv, sub, add
 
 
 class Solution:
     def evalRPN(self, tokens: list[str]) -> int:
         symb = {
-            '+': add
-            , '-': sub
-            , '*': mul
-            , '/': truediv
+            '+': add,
+            '-': sub,
+            '*': mul,
+            '/': truediv
         }
         stack = []
         for x in tokens:

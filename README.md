@@ -50,6 +50,7 @@ Try to solve every day!!!
 4. [20. Valid Parentheses](easy/valid-parentheses_20.py)
 4. [1047. Remove All Adjacent Duplicates In String](easy/remove-all-adjacent-duplicates-in-string_1047.py)
 4. [1544. Make The String Great](easy/make-the-string-great_1544.py)
+4. [338. Counting Bits](easy/counting-bits_338.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
@@ -62,5 +63,6 @@ Try to solve every day!!!
 4. [151. Reverse Words in a String](medium/reverse-words-in-a-string_151.py)
 4. [1209. Remove All Adjacent Duplicates in String II](medium/remove-all-adjacent-duplicates-in-string-ii_1209.py)
 4. [150. Evaluate Reverse Polish Notation](medium/evaluate-reverse-polish-notation_150.py)
+4. [739. Daily Temperatures](medium/daily-temperatures_739.py)
 
 ### Hard Tasks
