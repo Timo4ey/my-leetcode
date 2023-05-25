@@ -25,7 +25,7 @@
 # ---------------------------------------Runtime 113 ms Beats 36.42% Memory 24.2 MB Beats 13.27%---------------------------------------
 
 # My solution
-# Time complexety O(n)
+# Time complexity O(n)
 
 class Solution:
     def countBits(self, n: int) -> list[int]:
