@@ -52,6 +52,7 @@ Try to solve every day!!!
 4. [1544. Make The String Great](easy/make-the-string-great_1544.py)
 4. [338. Counting Bits](easy/counting-bits_338.py)
 4. [746. Min Cost Climbing Stairs](easy/min-cost-climbing-stairs_746.py)
+4. [35. Search Insert Position](easy/search-insert-position_35.py)
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
