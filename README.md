@@ -55,6 +55,11 @@ Try to solve every day!!!
 4. [35. Search Insert Position](easy/search-insert-position_35.py)
 4. [69. Sqrt(x)](easy/sqrtx_69.py)
 4. [268. Missing Number](easy/missing-number_268.py)
+4. [326. Power of Three](easy/power-of-three_326.py)
+4. [231. Power of Two](easy/power-of-two_231.py)
+4. [342. Power of Four](easy/power-of-four_342.py)
+4. [1346. Check If N and Its Double Exist](easy/check-if-n-and-its-double-exist_1346.py)
+4. []()
 
 ### Medium Tasks
 1. [142. Linked List Cycle II](medium/linked-list-cycle-ii_142.py)
