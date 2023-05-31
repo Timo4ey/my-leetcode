@@ -74,5 +74,6 @@ Try to solve every day!!!
 4. [150. Evaluate Reverse Polish Notation](medium/evaluate-reverse-polish-notation_150.py)
 4. [739. Daily Temperatures](medium/daily-temperatures_739.py)
 4. [167. Two Sum II - Input Array Is Sorted](medium/two-sum-ii-input-array-is-sorted_167.py)
+4. [15. 3Sum](medium/3sum_15.py)
 
 ### Hard Tasks
