@@ -24,35 +24,28 @@
 # Input: nums = [0,0,0]
 # Output: [[0,0,0]]
 # Explanation: The only possible triplet sums up to 0.
-# ---------------------------------------Runtime 8213 ms Beats 5.57% Memory 477.4 MB Beats 5.16%---------------------------------------
+# ---------------------------------------Runtime 6037 ms Beats 10.37% Memory 21.6 MB Beats 5.16%---------------------------------------
 # My Solution 1
 # Time complexity O(n2)
 
-
 class Solution:
-    def threeSum(self, nums: list[int]) -> list[list[int]]:
-        length = len(nums)
-        ans = []
-        temp_list = []
-        tmp_dict = dict()
 
+   def threeSum(self, nums: list[int]) -> list[list[int]]:
+        lenght = len(nums)
+        ans = {}
         nums.sort()
-        for i in range(length):
-            j, k = i + 1, length - 1
+        for i in range(lenght):
+            j, k = i + 1, lenght - 1
             while j < k:
                 guess = [nums[i], nums[j], nums[k]]
                 _sum = sum(guess)
                 if _sum == 0:
-                    temp_list.append(guess)
+                    ans[tuple(set(guess))] = guess
                 if _sum > 0:
                     k -= 1
                 else:
                     j += 1
-
-        for i in temp_list:
-            tmp_dict[tuple(set(i))] = i
-        ans = list(tmp_dict.values())
-        return ans
+        return list(ans.values())
 
 # ---------------------------------------Runtime 2223 ms Beats 33.75% Memory 20.6 MB Beats 24.60%---------------------------------------
 # My Solution 2
