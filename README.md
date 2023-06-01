@@ -75,5 +75,7 @@ Try to solve every day!!!
 4. [739. Daily Temperatures](medium/daily-temperatures_739.py)
 4. [167. Two Sum II - Input Array Is Sorted](medium/two-sum-ii-input-array-is-sorted_167.py)
 4. [15. 3Sum](medium/3sum_15.py)
+4. [33. Search in Rotated Sorted Array](medium/search-in-rotated-sorted-array_33.py)
+4. [153. Find Minimum in Rotated Sorted Array](medium/find-minimum-in-rotated-sorted-array_153.py)
 
 ### Hard Tasks
