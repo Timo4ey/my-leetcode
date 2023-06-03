@@ -59,6 +59,7 @@ Try to solve every day!!!
 4. [231. Power of Two](easy/power-of-two_231.py)
 4. [342. Power of Four](easy/power-of-four_342.py)
 4. [1346. Check If N and Its Double Exist](easy/check-if-n-and-its-double-exist_1346.py)
+4. [350. Intersection of Two Arrays II](easy/intersection-of-two-arrays-ii_350.py)
 4. []()
 
 ### Medium Tasks
