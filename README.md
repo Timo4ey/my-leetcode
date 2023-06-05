@@ -61,6 +61,7 @@ Try to solve every day!!!
 4. [1346. Check If N and Its Double Exist](easy/check-if-n-and-its-double-exist_1346.py)
 4. [350. Intersection of Two Arrays II](easy/intersection-of-two-arrays-ii_350.py)
 4. [1437. Check If All 1's Are at Least Length K Places Away](easy/check-if-all-1s-are-at-least-length-k-places-away_1437.py)
+4. [1337. The K Weakest Rows in a Matrix](easy/the-k-weakest-rows-in-a-matrix_1337.py)
 4. []()
 
 ### Medium Tasks
