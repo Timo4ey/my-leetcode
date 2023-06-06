@@ -33,3 +33,18 @@ class Solution:
             if len(set(s[i:i + k])) >= k:
                 res += 1
         return res
+
+# ---------------------------------------Runtime 39 ms Beats 75.88% Memory 16.3 MB Beats 46.15%---------------------------------------
+
+# My solution 2
+# Time complexity O(n)
+class Solution:
+    def countGoodSubstrings(self, s: str) -> int:
+        k: int = 3
+        res: int = 0
+        for i in range(len(s) - k + 1):
+            sub_array = s[i:i + k]
+            if sub_array[0] != sub_array[1] and sub_array[0] != sub_array[-1]\
+                    and sub_array[-1] != sub_array[1]:
+                res += 1
+        return res
