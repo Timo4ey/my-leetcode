@@ -1,6 +1,7 @@
 # https://leetcode.com/problems/isomorphic-strings/
 # My solution
 
+
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
         if len(set(s)) != len(set(t)):
@@ -16,33 +17,30 @@ class Solution:
         return True
 
 
-
 # NeetCode's solution
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
         mapSt, mapTs = {}, {}
 
-        for c1, c2 in zip(s,t):
-            if ((c1 in mapSt and mapSt[c1] != c2) or 
-                (c2 in mapTs and mapTs[c2] != c1)):
+        for c1, c2 in zip(s, t):
+            if (c1 in mapSt and mapSt[c1] != c2) or (
+                c2 in mapTs and mapTs[c2] != c1
+            ):
                 return False
             mapSt[c1] = c2
             mapTs[c2] = c1
         return True
 
 
-
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     solution = Solution()
     s = "abcdefghijklmnopqrstuvwxyzva"
     t = "abcdefghijklmnopqrstuvwxyzck"
     s = "bbbaaaba"
-    t = "aaabbbba" # false
+    t = "aaabbbba"  # false
     # s = "aba"
     # t ="aab" # false
-    print(solution.isIsomorphic(s,t))
-
+    print(solution.isIsomorphic(s, t))
 
 
 # class Solution:
@@ -55,14 +53,15 @@ if __name__ == '__main__':
 #             return True
 #         return False
 
+
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
         if len(s) != len(t):
             return False
         for i in range(1, len(s)):
-            if  s[i - 1] == s[i] and t[i-1] != t[i]:
+            if s[i - 1] == s[i] and t[i - 1] != t[i]:
                 return False
-            elif s[i - 1] != s[i] and t[i-1] == t[i]:
+            elif s[i - 1] != s[i] and t[i - 1] == t[i]:
                 return False
             else:
                 continue

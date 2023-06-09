@@ -27,6 +27,7 @@
 # My solution
 # Time complexity O(n)
 
+
 class Solution:
     def countBits(self, n: int) -> list[int]:
         store = []
@@ -34,15 +35,16 @@ class Solution:
         for i in range(n + 1):
             store.append(str(bin(i)))
         for x in store:
-            output.append(x.count('1'))
+            output.append(x.count("1"))
         return output
 
 
 # Solution @jeffwei
 
+
 class Solution:
     def countBits(self, num: int) -> list[int]:
         counter = [0]
-        for i in range(1, num+1):
+        for i in range(1, num + 1):
             counter.append(counter[i >> 1] + i % 2)
         return counter

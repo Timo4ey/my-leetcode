@@ -4,7 +4,7 @@
 # Find a contiguous subarray whose length is equal to k that has
 # the maximum average value and return this value. Any answer with a
 # calculation error less than 10-5 will be accepted.
- 
+
 # Example 1:
 
 # Input: nums = [1,12,-5,-6,50,3], k = 4
@@ -16,6 +16,7 @@
 # Output: 5.00000
 
 # ---------------------------------------Runtime 1162 ms Beats 87.53% Memory 28.5 MB Beats 24.18%---------------------------------------
+
 
 # My solution
 # Time complexity O(n)

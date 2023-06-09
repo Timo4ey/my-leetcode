@@ -11,7 +11,9 @@ class ListNode:
         self.val = val
         self.next = next
 
-# My solution 
+
+# My solution
+
 
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
@@ -21,7 +23,7 @@ class Solution:
         while head is not None:
             values.append(head.val)
             head = head.next
-        
+
         values.reverse()
         obj = ListNode(values[0])
         head_obj = obj
@@ -29,11 +31,12 @@ class Solution:
             new_obj = ListNode(values[i])
             obj.next = new_obj
             obj = new_obj
-            
+
         return head_obj
 
 
-# Solution Neetcode . Recursion 
+# Solution Neetcode . Recursion
+
 
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
@@ -41,7 +44,7 @@ class Solution:
 
         if not head:
             return None
-        
+
         new_head = head
         if head.next:
             new_head = self.reverseList(head.next)
@@ -52,6 +55,7 @@ class Solution:
 
 
 # Solution PratikSen07
+
 
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
@@ -68,4 +72,6 @@ class Solution:
             # Assign curr to prev, next to curr...
             prev = curr
             curr = next
-        return prev       # Return the prev pointer to get the reverse linked list...
+        return (
+            prev  # Return the prev pointer to get the reverse linked list...
+        )

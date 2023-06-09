@@ -7,7 +7,7 @@
 # There will not be any division by zero.
 # The input represents a valid arithmetic expression in a reverse polish notation.
 # The answer and all the intermediate calculations can be represented in a 32-bit integer.
- 
+
 # Example 1:
 
 # Input: tokens = ["2","1","+","3","*"]
@@ -32,17 +32,12 @@
 # ---------------------------------------Runtime 81 ms Beats 44.69% Memory 16.8 MB Beats 10.31%---------------------------------------
 
 # My Solution
-from operator import mul, truediv, sub, add
+from operator import add, mul, sub, truediv
 
 
 class Solution:
     def evalRPN(self, tokens: list[str]) -> int:
-        symb = {
-            '+': add,
-            '-': sub,
-            '*': mul,
-            '/': truediv
-        }
+        symb = {"+": add, "-": sub, "*": mul, "/": truediv}
         stack = []
         for x in tokens:
             if x in symb:

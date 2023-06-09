@@ -12,7 +12,7 @@ class Solution:
             return min(l1 & l2)
         if l1_min > l2_min:
             l1_min, l2_min = l2_min, l1_min
-        return int(f'{l1_min}{l2_min}')
+        return int(f"{l1_min}{l2_min}")
 
 
 # Solution rock
@@ -25,6 +25,6 @@ def minNumber(self, nums1: List[int], nums2: List[int]) -> int:
 
 
 sol = Solution()
-nums1 = [4,1,3]
-nums2 = [5,7]
+nums1 = [4, 1, 3]
+nums2 = [5, 7]
 print(sol.minNumber(nums1, nums2))

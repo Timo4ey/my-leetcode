@@ -1,4 +1,3 @@
-
 # Given a sorted array of distinct integers and a target value, return the index if the target is found.
 # If not, return the index where it would be if it were inserted in order.
 
@@ -19,6 +18,7 @@
 
 
 # ---------------------------------------Runtime 55 ms Beats 61.76% Memory 17.1 MB Beats 42.39%---------------------------------------
+
 
 # My solution
 # Complexity O(log n)

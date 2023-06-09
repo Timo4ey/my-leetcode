@@ -1,4 +1,4 @@
-# There are n seats and n students in a room. You are given an array seats of length n, where seats[i] is the position of the ith seat. 
+# There are n seats and n students in a room. You are given an array seats of length n, where seats[i] is the position of the ith seat.
 # You are also given the array students of length n, where students[j] is the position of the jth student.
 
 # You may perform the following move any number of times:
@@ -19,7 +19,7 @@
 # Example 3:
 # Input: seats = [2,2,6,6], students = [1,3,2,6]
 # Output: 4
- 
+
 # Constraints:
 
 # n == seats.length == students.length
@@ -30,7 +30,6 @@
 from functools import reduce
 
 
-
 class List(list):
     pass
 
@@ -39,4 +38,6 @@ class Solution:
     def minMovesToSeat(self, seats: List[int], students: List[int]) -> int:
         seats.sort()
         students.sort()
-        return reduce(lambda acc, x: acc + abs(x[0] - x[1]), zip(seats, students), 0)
+        return reduce(
+            lambda acc, x: acc + abs(x[0] - x[1]), zip(seats, students), 0
+        )

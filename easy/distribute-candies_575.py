@@ -4,7 +4,6 @@
 
 # Given the integer array candyType of length n, return the maximum number of different types of candies she can eat if she only eats n / 2 of them.
 
- 
 
 # Example 1:
 
@@ -23,14 +22,20 @@
 # Explanation: Alice can only eat 4 / 2 = 2 candies. Even though she can eat 2 candies, she only has 1 type.
 # ---------------------------------------Runtime 756 ms Beats 99.44% Memory 18.5 MB Beats 15.91%---------------------------------------
 
+
 class List(list):
     pass
+
+
 # My solution
 
 
 class Solution:
     def distributeCandies(self, candyType: List[int]) -> int:
         unique_candies = len(set(candyType))
-        half_candies = len(candyType) // 2 
-        return unique_candies if (unique_candies
-                                   <= half_candies) else half_candies
+        half_candies = len(candyType) // 2
+        return (
+            unique_candies
+            if (unique_candies <= half_candies)
+            else half_candies
+        )

@@ -1,8 +1,5 @@
-
-
 # Given a m x n matrix grid which is sorted in non-increasing order both row-wise and column-wise, return the number of negative numbers in grid.
 
- 
 
 # Example 1:
 
@@ -16,10 +13,13 @@
 
 # ---------------------------------------Runtime 122 ms Beats 71.34% Memory 17.5 MB Beats 5.54%---------------------------------------
 
+
 class List(list):
     pass
 
+
 # My solution
+
 
 class Solution:
     def countNegatives(self, grid: List[List[int]]) -> int:
@@ -30,4 +30,3 @@ class Solution:
                     store.extend(grid[x][y:])
                     break
         return len(store)
-    

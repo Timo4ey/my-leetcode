@@ -9,7 +9,7 @@
 
 # Input: s = "abbaca"
 # Output: "ca"
-# Explanation: 
+# Explanation:
 # For example, in "abbaca" we could remove "bb" since the letters are adjacent and equal, and this is the only possible move.  The result of this move is that the string is "aaca", of which only "aa" is possible, so the final string is "ca".
 # Example 2:
 
@@ -22,6 +22,7 @@
 
 
 from functools import reduce
+
 
 # My solution 1
 class Solution:
@@ -42,7 +43,8 @@ class Solution:
                 i += 1
                 r += 1
 
-        return ''.join(stack)
+        return "".join(stack)
+
 
 # My solution 2
 class Solution:
@@ -56,7 +58,8 @@ class Solution:
                 stack.append([c, 1])
             if stack[-1][1] == 2:
                 stack.pop()
-        return ''.join([c for c, i in stack])
+        return "".join([c for c, i in stack])
+
 
 # Solution @lee215
 class Solution:

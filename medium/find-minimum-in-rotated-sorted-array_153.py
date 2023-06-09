@@ -23,11 +23,12 @@
 
 # Input: nums = [11,13,15,17]
 # Output: 11
-# Explanation: The original array was [11,13,15,17] and it was rotated 4 times. 
+# Explanation: The original array was [11,13,15,17] and it was rotated 4 times.
 
 # ---------------------------------------Runtime 50 ms Beats 56.78% Memory 16.6 MB Beats 23.7%---------------------------------------
 # My solution
 # Time complexity O(log n)
+
 
 class Solution:
     def findMin(self, nums: list[int]) -> int:

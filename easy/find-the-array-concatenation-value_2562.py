@@ -1,4 +1,3 @@
-
 class List(list):
     ...
 
@@ -9,8 +8,8 @@ class Solution:
         r = len(nums) - 1
         stock = []
         while l < r:
-            stock.append(int(f'{nums[l]}{nums[r]}'))
-            l +=1
+            stock.append(int(f"{nums[l]}{nums[r]}"))
+            l += 1
             r -= 1
         if l == r:
             stock.append(nums[l])

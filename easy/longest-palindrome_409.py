@@ -1,6 +1,7 @@
 # 409. Longest Palindrome
 
-# MY solution 
+# MY solution
+
 
 class Solution:
     def longestPalindrome(self, s: str) -> int:
@@ -22,7 +23,7 @@ class Solution:
 
 
 # Solution from Editorial
-# 
+#
 import collections
 
 

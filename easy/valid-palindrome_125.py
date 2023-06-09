@@ -2,7 +2,6 @@
 
 # Given a string s, return true if it is a palindrome, or false otherwise.
 
- 
 
 # Example 1:
 
@@ -23,11 +22,18 @@
 
 # ---------------------------------------Runtime 72 ms Beats 17% Memory 22.4 MB Beats 5.10%---------------------------------------
 
+
 # My solution 1 "Two pointers"
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        st = ''.join(list(map(lambda x: x.lower() if x.isalpha() or x.isalnum()
-else '', s)))
+        st = "".join(
+            list(
+                map(
+                    lambda x: x.lower() if x.isalpha() or x.isalnum() else "",
+                    s,
+                )
+            )
+        )
         l, r = 0, len(st) - 1
         while l <= r:
             if st[l] != st[r]:
@@ -35,6 +41,7 @@ else '', s)))
             l += 1
             r -= 1
         return True
+
 
 # My solution 2
 # ---------------------------------------Runtime 70 ms Beats 19.51% Memory 22.5 MB Beats 5.10%---------------------------------------
@@ -44,6 +51,6 @@ from string import ascii_letters
 
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        alph = set(ascii_letters + '1234567890')
-        st = ''.join(list(map(lambda x: x.lower() if x in alph else "", s)))
+        alph = set(ascii_letters + "1234567890")
+        st = "".join(list(map(lambda x: x.lower() if x in alph else "", s)))
         return st == st[::-1]

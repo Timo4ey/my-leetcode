@@ -4,11 +4,14 @@ class TreeNode:
         self.val = val
         self.left = left
         self.right = right
+
+
 class List(list):
     ...
+
+
 class Optional(List):
     ...
-
 
 
 # My Solution
@@ -23,7 +26,7 @@ class Solution:
         gather = []
         gather.append([root.val])
         q = deque()
-        q.extend([ root.left,  root.right])
+        q.extend([root.left, root.right])
         while q:
             store = []
             temp = [[]]
@@ -43,5 +46,3 @@ class Solution:
                 q.popleft()
 
         return gather
-            
-

@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/middle-of-the-linked-list/description/
 
+
 class Optional(list):
     ...
 
@@ -11,7 +12,8 @@ class ListNode:
         self.next = next
 
 
-# My solution 
+# My solution
+
 
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
@@ -27,7 +29,7 @@ class Solution:
             fst = fst.next
 
         return fst
-    
+
 
 # Approach 2: Fast and Slow Pointer
 """
@@ -43,6 +45,7 @@ Time Complexity: O(N), where N is the number of nodes in the given list.
 Space Complexity: O(1), the space used by slow and fast.
 """
 
+
 class Solution:
     def middleNode(self, head):
         slow = fast = head
@@ -53,5 +56,5 @@ class Solution:
 
 
 # My comments to me in the future :)
-# fast just to times faster 
-# omg thats so genius 
+# fast just to times faster
+# omg thats so genius

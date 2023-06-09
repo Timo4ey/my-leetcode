@@ -15,13 +15,14 @@
 
 # Input: numBottles = 15, numExchange = 4
 # Output: 19
-# Explanation: You can exchange 4 empty bottles to get 1 full water bottle. 
+# Explanation: You can exchange 4 empty bottles to get 1 full water bottle.
 # Number of water bottles you can drink: 15 + 3 + 1 = 19.
 
 # ---------------------------------------Runtime 42 ms Beats 55.33% Memory 16.3 MB Beats 14.44%---------------------------------------
 
 # My solution
 # Time Complexity O(n)
+
 
 class Solution:
     def numWaterBottles(self, numBottles: int, numExchange: int) -> int:

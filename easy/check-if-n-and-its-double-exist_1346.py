@@ -20,6 +20,7 @@
 # My solution
 # Complexity O(n^2)
 
+
 class Solution:
     def checkIfExist(self, arr: list[int]) -> bool:
         for i in range(len(arr)):
@@ -37,7 +38,6 @@ from collections import Counter
 
 
 class Solution:
-
     def checkIfExist(self, arr: list[int]) -> bool:
         cnt = Counter(arr)
         return any(2 * x in cnt and x != 0 for x in arr) or cnt[0] > 1

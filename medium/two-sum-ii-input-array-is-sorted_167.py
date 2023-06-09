@@ -23,6 +23,7 @@
 # Explanation: The sum of -1 and 0 is -1. Therefore index1 = 1, index2 = 2. We return [1, 2].
 # ---------------------------------------Runtime 234 ms Beats 5.8% Memory 17.3 MB Beats 32.95%---------------------------------------
 
+
 # My solution
 # Time complexity O(n log n)
 class Solution:
@@ -40,7 +41,9 @@ class Solution:
                 elif guess < target:
                     start = middle + 1
 
+
 # ---------------------------------------Runtime 137 ms Beats 54.92% Memory 17.2 MB Beats 32.95%---------------------------------------
+
 
 # Soltuion @constantine786
 # Time - O(n)
@@ -48,7 +51,7 @@ class Solution:
 class Solution:
     def twoSum(self, numbers: list[int], target: int) -> list[int]:
         i = 0
-        j = len(numbers)-1
+        j = len(numbers) - 1
 
         while numbers[i] + numbers[j] != target:
             s = numbers[i] + numbers[j]

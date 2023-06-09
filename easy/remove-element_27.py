@@ -22,7 +22,6 @@
 # }
 # If all assertions pass, then your solution will be accepted.
 
- 
 
 # Example 1:
 
@@ -39,13 +38,13 @@
 # It does not matter what you leave beyond the returned k (hence they are underscores).
 
 # ---------------------------------------Runtime 59 ms Beats 5.60% Memory 16.3 MB Beats 17.52%---------------------------------------
- 
+
 
 from functools import reduce
 
+
 class List(list):
     pass
-
 
 
 # Solution #1
@@ -67,6 +66,7 @@ class Solution:
 
 # ---------------------------------------Runtime 47 ms Beats 19.33% Memory 16.3 MB Beats 17.52%---------------------------------------
 
+
 # Soltion @softray
 def removeElement(self, nums, val):
     start, end = 0, len(nums) - 1
@@ -74,12 +74,12 @@ def removeElement(self, nums, val):
         if nums[start] == val:
             nums[start], nums[end], end = nums[end], nums[start], end - 1
         else:
-            start +=1
+            start += 1
     return start
 
 
-
 # ---------------------------------------Runtime 55 ms Beats 5.60% Memory 16.3 MB Beats 5.23%---------------------------------------
+
 
 # Solution @Pritz10
 class Solution:

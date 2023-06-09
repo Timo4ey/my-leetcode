@@ -1,4 +1,4 @@
-# My solution 
+# My solution
 
 
 class Solution:
@@ -9,47 +9,46 @@ class Solution:
                 val = array[i]
                 if val != "#":
                     stack.append(val)
-                elif val == '#':
+                elif val == "#":
                     if stack:
                         stack.pop()
             return stack
+
         return cut_of(s) == cut_of(t)
 
-                              
+
 # Solution lee215
 # Follow up: O(1) Space
 
 from functools import reduce
 
+
 class Solution:
     def backspaceCompare(self, S, T):
-        back = lambda res, c: res[:-1] if c == '#' else res + c
+        back = lambda res, c: res[:-1] if c == "#" else res + c
         return reduce(back, S, "") == reduce(back, T, "")
-
-
 
 
 if __name__ == "__main__":
     sol = Solution()
     s = "ab#c"
     t = "ad#c"
-    print(sol.backspaceCompare(s,t))
+    print(sol.backspaceCompare(s, t))
     s = "ab##"
     t = "c#d#"
-    print(sol.backspaceCompare(s,t))
+    print(sol.backspaceCompare(s, t))
 
     s = "a#c"
     t = "b"
-    print(sol.backspaceCompare(s,t))
+    print(sol.backspaceCompare(s, t))
 
     s = "a#c"
     t = "a#b"
-    print(sol.backspaceCompare(s,t))
-
+    print(sol.backspaceCompare(s, t))
 
     s = "a##c"
     t = "#a#c"
-    print(sol.backspaceCompare(s,t))
+    print(sol.backspaceCompare(s, t))
 
 # class Solution:
 #     def backspaceCompare(self, s: str, t: str) -> bool:
@@ -76,7 +75,7 @@ if __name__ == "__main__":
 #             while end >= start:
 #                 if array[end] != '#':
 #                     output.append(array[start])
-                
+
 #                 start += 1
 #                 end -= 1
 #             return output

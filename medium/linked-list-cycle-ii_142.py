@@ -9,7 +9,8 @@ class ListNode:
         self.next = next
 
 
-# My solution 
+# My solution
+
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:

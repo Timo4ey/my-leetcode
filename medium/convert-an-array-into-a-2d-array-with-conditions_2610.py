@@ -7,7 +7,6 @@
 
 # Note that the 2D array can have a different number of elements on each row.
 
- 
 
 # Example 1:
 
@@ -25,10 +24,7 @@
 # Output: [[4,3,2,1]]
 # Explanation: All elements of the array are distinct, so we can keep all of them in the first row of the 2D array.
 
-#---------------------------------------Runtime 54 ms Beats 77.23% Memory 13.8 MB Beats 96.12%---------------------------------------
-
-
-
+# ---------------------------------------Runtime 54 ms Beats 77.23% Memory 13.8 MB Beats 96.12%---------------------------------------
 
 
 class List(list):

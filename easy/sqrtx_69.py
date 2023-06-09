@@ -42,6 +42,7 @@ class Solution:
 # Solution  @OldCodingFarmer
 # Time Complexity O(log n)
 
+
 class Solution1:
     def mySqrt(self, x: int) -> int:
         start, end = 0, x

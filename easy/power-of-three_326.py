@@ -2,7 +2,6 @@
 
 # An integer n is a power of three, if there exists an integer x such that n == 3x.
 
- 
 
 # Example 1:
 
@@ -26,8 +25,9 @@
 # My solution
 # Complexity O(n)
 
+
 class Solution:
     def isPowerOfThree(self, n: int) -> bool:
         if n <= 1:
             return n == 1
-        return self.isPowerOfThree(n/3)
+        return self.isPowerOfThree(n / 3)

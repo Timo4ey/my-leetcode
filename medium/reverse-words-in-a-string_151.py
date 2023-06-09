@@ -19,6 +19,7 @@
 # Explanation: Your reversed string should not contain leading or trailing spaces.
 # Example 3:
 
+
 # Input: s = "a good   example"
 # Output: "example good a"
 # Explanation: You need to reduce multiple spaces between two words to a single space in the reversed string.
@@ -31,4 +32,4 @@ class Solution:
             data[start], data[end] = data[end], data[start]
             start += 1
             end -= 1
-        return ' '.join(data)
+        return " ".join(data)

@@ -2,7 +2,6 @@
 
 # Here follow means a full match, such that there is a bijection between a letter in pattern and a non-empty word in s.
 
- 
 
 # Example 1:
 
@@ -18,6 +17,7 @@
 # Output: false
 # ---------------------------------------Runtime 40 ms Beats 30.6% Memory 16.3 MB Beats 7.37%---------------------------------------
 
+
 # My solution
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
@@ -26,12 +26,12 @@ class Solution:
         data = s.split()
         if len(pattern) != len(data):
             return False
-        for patt,string in zip(pattern, data):
+        for patt, string in zip(pattern, data):
             array.append({patt: string})
-        
+
         for x in array:
-            (key,) = *x.keys(),
-            (val,) = *x.values(),
+            (key,) = (*x.keys(),)
+            (val,) = (*x.values(),)
             if dic.get(key) and dic.get(key) != val:
                 return False
             if not dic.get(key) and val in dic.values():
@@ -40,12 +40,15 @@ class Solution:
                 dic[key] = val
         return True
 
- 
+
 # ---------------------------------------Runtime 43 ms Beats 25.3% Memory 16.3 MB Beats 24.56%---------------------------------------
+
 
 # Solution @StefanPochmann
 class Solution:
     def wordPattern(self, pattern, str):
         s = pattern
         t = str.split()
-        return len(set(zip(s, t))) == len(set(s)) == len(set(t)) and len(s) == len(t)
+        return len(set(zip(s, t))) == len(set(s)) == len(set(t)) and len(
+            s
+        ) == len(t)

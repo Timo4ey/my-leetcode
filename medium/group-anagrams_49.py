@@ -1,9 +1,7 @@
-
 # Given an array of strings strs, group the anagrams together. You can return the answer in any order.
 
 # An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
- 
 
 # Example 1:
 
@@ -17,16 +15,17 @@
 
 # Input: strs = ["a"]
 # Output: [["a"]]
-# 
+#
 # ---------------------------------------Runtime 5223 ms Beats 5.1% Memory 22.1 MB Beats 8.52%---------------------------------------
-
 
 
 class List(list):
     pass
 
-# My solution 
+
+# My solution
 # I tried don't use module collections, so that what i have
+
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
@@ -35,6 +34,7 @@ class Solution:
             for x in items:
                 output[x] = output.get(x, 0) + 1
             return output
+
         items = []
         if strs:
             items.append([strs.pop(0)])
@@ -54,12 +54,14 @@ class Solution:
         if strs:
             items[len(items) - 1].append(strs[0])
         return items
-    
+
+
 # ---------------------------------------Runtime 109 ms Beats 52.30% Memory 20.3 MBBeats 15.98%---------------------------------------
 
 # Solution @kitt
 
 from collections import defaultdict
+
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:

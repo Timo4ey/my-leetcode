@@ -11,7 +11,6 @@
 
 # Notice that an empty string is also good.
 
- 
 
 # Example 1:
 
@@ -34,14 +33,16 @@
 # ---------------------------------------Runtime 53 ms Beats 19.18% Memory 16.3 MB Beats 19.68%---------------------------------------
 # Type: Stack
 
+
 # My solution
 class Solution:
     def makeGood(self, s: str) -> str:
         stack = list(s)
         i, j = 0, 1
         while j <= len(stack) - 1:
-            if (stack[i].isupper() and stack[i].lower() == stack[j]) or\
-           (stack[j].isupper() and stack[i] == stack[j].lower()):
+            if (stack[i].isupper() and stack[i].lower() == stack[j]) or (
+                stack[j].isupper() and stack[i] == stack[j].lower()
+            ):
                 stack.pop(i)
                 stack.pop(i)
                 if i:
@@ -50,4 +51,4 @@ class Solution:
             else:
                 i += 1
                 j += 1
-        return ''.join(stack)
+        return "".join(stack)

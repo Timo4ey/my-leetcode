@@ -26,6 +26,7 @@
 # My solution
 # Time complexity O(n)
 
+
 class Solution:
     def search(self, nums: list[int], target: int) -> int:
         start, end = 0, len(nums) - 1
@@ -41,6 +42,7 @@ class Solution:
 
 # Solution @neetcode
 # Time complexity O(log n)
+
 
 class Solution:
     def search(self, nums: list[int], target: int) -> int:

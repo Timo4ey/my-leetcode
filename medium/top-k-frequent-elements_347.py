@@ -1,6 +1,5 @@
 # Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order.
 
- 
 
 # Example 1:
 
@@ -22,7 +21,8 @@ class List(list):
 
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        d:Counter = Counter(nums)
-        arr:list[tuple] = sorted(list(zip(d.keys(), d.values())), key=lambda x: x[1] * -1)
+        d: Counter = Counter(nums)
+        arr: list[tuple] = sorted(
+            list(zip(d.keys(), d.values())), key=lambda x: x[1] * -1
+        )
         return list(map(lambda x: x[0], arr))[:k]
-

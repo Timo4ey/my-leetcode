@@ -1,6 +1,7 @@
 # Definition for a binary tree node.
 class Optional(list):
-     ...
+    ...
+
 
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
@@ -9,11 +10,9 @@ class TreeNode:
         self.right = right
 
 
-
 class Solution:
-    
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        # stock behaves like stack (last in first out) 
+        # stock behaves like stack (last in first out)
         stack = []
         # prev it's the previous node
         prev = None
@@ -37,7 +36,8 @@ class Solution:
             root = root.right
         # if root and stock run out it's mean it's ok BST
         return True
-    
+
+
 # проходим запоминаем ноды в список на припример
 # сравнивает для макс мин больше или меньше
 

@@ -19,6 +19,7 @@
 
 # My solution
 
+
 class Solution:
     def dailyTemperatures(self, temperatures: list[int]) -> list[int]:
         ans = [0] * len(temperatures)

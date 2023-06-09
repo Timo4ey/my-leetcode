@@ -7,12 +7,13 @@ List = list
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
         for i in range(len(nums)):
-            if sum(nums[:i]) == sum(nums[i + 1:]):
+            if sum(nums[:i]) == sum(nums[i + 1 :]):
                 return i
         return -1
 
 
 # Solution very-easy-100-fully-explained-java-c-python-js-python3
+
 
 # Time Complexity : O(n)
 # Space Complexity : O(1)
@@ -25,17 +26,15 @@ class Solution(object):
             rightSum -= ele
             # If the sum of all the numbers strictly to the left of the index is equal to the sum of all the numbers strictly to the index's right...
             if leftSum == rightSum:
-                return idx      # Return the pivot index...
+                return idx  # Return the pivot index...
             leftSum += ele
-        return -1       # If there is no index that satisfies the conditions in the problem statement...
-
+        return (
+            -1
+        )  # If there is no index that satisfies the conditions in the problem statement...
 
 
 if __name__ == "__main__":
     s = Solution()
-    print(s.pivotIndex([1,7,3,6,5,6])) # 3
-    print(s.pivotIndex([1,2,3])) # -1
-    print(s.pivotIndex([2,1,-1])) # 0
-
-
-
+    print(s.pivotIndex([1, 7, 3, 6, 5, 6]))  # 3
+    print(s.pivotIndex([1, 2, 3]))  # -1
+    print(s.pivotIndex([2, 1, -1]))  # 0

@@ -27,10 +27,9 @@ class Solution:
             if s[i] == t[j]:  # if the characters match, move the pointer for s
                 i += 1
             j += 1  # move the pointer for t regardless
-        return i == len(s)  # if i has reached the end of s, s is a subsequence of t, else not
-
-
-
+        return i == len(
+            s
+        )  # if i has reached the end of s, s is a subsequence of t, else not
 
 
 if __name__ == "__main__":
@@ -38,13 +37,13 @@ if __name__ == "__main__":
     method = solution.isSubsequence
     s = "ace"
     t = "aec"
-    print(method(s,t)) # False
+    print(method(s, t))  # False
     s = "abc"
     t = "ahbgdc"
-    print(method(s,t)) # True
+    print(method(s, t))  # True
     s = "axc"
     t = "ahbgdc"
-    print(method(s,t)) # False
+    print(method(s, t))  # False
     s = "b"
     t = "abc"
-    print(method(s,t)) # True
+    print(method(s, t))  # True

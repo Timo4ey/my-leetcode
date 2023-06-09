@@ -2,7 +2,6 @@
 
 # Only include the sum of all the elements on the primary diagonal and all the elements on the secondary diagonal that are not part of the primary diagonal.
 
- 
 
 # Example 1:
 
@@ -26,8 +25,8 @@
 # Output: 5
 
 
-
 # ---------------------------------------Runtime 125 ms Beats 41.59% Memory 16.6 MB Beats 77.38%---------------------------------------
+
 
 class List(list):
     pass

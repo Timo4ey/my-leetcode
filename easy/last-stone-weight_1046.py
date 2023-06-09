@@ -1,10 +1,9 @@
-from collections import deque
 import heapq
+from collections import deque
 
 
 class List(list):
     ...
-
 
 
 class Solution:
@@ -31,27 +30,26 @@ class Solution:
             return heap[x]
         return x
 
+
 # 1 1 2 4 7 8
-if __name__ == '__main__':
+if __name__ == "__main__":
     sol = Solution()
-    stones = [2,7,4,1,8,1]
+    stones = [2, 7, 4, 1, 8, 1]
     print(sol.lastStoneWeight(stones))
 
     stones = [1]
     print(sol.lastStoneWeight(stones))
 
-    stones = [1,1,1,1,1,1]
-    print(sol.lastStoneWeight(stones))
-    
-
-    stones = [1,3]
+    stones = [1, 1, 1, 1, 1, 1]
     print(sol.lastStoneWeight(stones))
 
-    stones = [2,7,4,1,8,1, 500, 1000]
+    stones = [1, 3]
     print(sol.lastStoneWeight(stones))
 
+    stones = [2, 7, 4, 1, 8, 1, 500, 1000]
+    print(sol.lastStoneWeight(stones))
 
-    stones = [7,6,7,6,9]
+    stones = [7, 6, 7, 6, 9]
     print(sol.lastStoneWeight(stones))
 # class Solution:
 #     def lastStoneWeight(self, stones: List[int]) -> int:

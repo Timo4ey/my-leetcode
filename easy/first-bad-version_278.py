@@ -1,6 +1,7 @@
 class isBadVersion:
     ...
 
+
 # My solution
 class Solution:
     def firstBadVersion(self, n: int) -> int:
@@ -17,6 +18,7 @@ class Solution:
                 start = midl + 1
         return min(results)
 
+
 #  MVP
 # class Solution:
 #     def firstBadVersion(self, n: int) -> int:
@@ -31,17 +33,19 @@ class Solution:
 
 # Solution GANJINAVEEN
 
+
 class Solution:
     def firstBadVersion(self, n: int) -> int:
-        left,right=0,n-1
-        while left<=right:
-            mid=(left+right)//2
-            if isBadVersion(mid)==False:
-                left=mid+1
+        left, right = 0, n - 1
+        while left <= right:
+            mid = (left + right) // 2
+            if isBadVersion(mid) == False:
+                left = mid + 1
             else:
-                right=mid-1
+                right = mid - 1
         return left
-    
+
+
 class Solution:
     def firstBadVersion(self, n: int) -> int:
         start = 0

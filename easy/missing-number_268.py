@@ -1,4 +1,3 @@
-
 # Given an array nums containing n distinct numbers in the range [0, n],
 # return the only number in the range that is missing from the array.
 
@@ -27,6 +26,7 @@
 #  Space complexity only O(1)
 #  Runtime complexity O(n)
 
+
 # My solution
 class Solution:
     def missingNumber(self, nums: list[int]) -> int:
@@ -39,6 +39,7 @@ class Solution:
 
 # ---------------------------------------Runtime 140 ms Beats 61.90% Memory 17.6 MB Beats 41.69%---------------------------------------
 # Solution @idhandeep
+
 
 class Solution:
     def missingNumber(self, nums: list[int]) -> int:

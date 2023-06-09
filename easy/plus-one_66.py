@@ -2,7 +2,6 @@
 
 # Increment the large integer by one and return the resulting array of digits.
 
- 
 
 # Example 1:
 
@@ -31,8 +30,9 @@
 class List(list):
     pass
 
+
 # My solution
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
-        nums = int(''.join(map(str, digits))) + 1
+        nums = int("".join(map(str, digits))) + 1
         return list(map(int, list(str(nums))))
