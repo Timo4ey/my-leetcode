@@ -64,6 +64,7 @@ Try to solve every day!!!
 4. [1337. The K Weakest Rows in a Matrix](easy/the-k-weakest-rows-in-a-matrix_1337.py)
 4. [1876. Substrings of Size Three with Distinct Characters](easy/substrings-of-size-three-with-distinct-characters_1876.py)
 4. [643. Maximum Average Subarray I](easy/maximum-average-subarray-i_643.py)
+4. [1518. Water Bottles](easy/water-bottles_1518.py)
 4. []()
 
 ### Medium Tasks
