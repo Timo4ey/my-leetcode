@@ -83,5 +83,6 @@ Try to solve every day!!!
 4. [15. 3Sum](medium/3sum_15.py)
 4. [33. Search in Rotated Sorted Array](medium/search-in-rotated-sorted-array_33.py)
 4. [153. Find Minimum in Rotated Sorted Array](medium/find-minimum-in-rotated-sorted-array_153.py)
+4. [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](medium/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold_1343.py)
 
 ### Hard Tasks
