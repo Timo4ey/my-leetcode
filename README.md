@@ -85,5 +85,8 @@ Try to solve every day!!!
 4. [153. Find Minimum in Rotated Sorted Array](medium/find-minimum-in-rotated-sorted-array_153.py)
 4. [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](medium/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold_1343.py)
 4.[2090. K Radius Subarray Averages](medium/k-radius-subarray-averages_2090.py)
+4. [1456. Maximum Number of Vowels in a Substring of Given Length](medium/maximum-number-of-vowels-in-a-substring-of-given-length_1456.py)
+4. [713. Subarray Product Less Than K](medium/subarray-product-less-than-k_713.py)
+
 
 ### Hard Tasks

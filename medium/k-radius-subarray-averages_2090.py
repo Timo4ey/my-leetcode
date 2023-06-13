@@ -10,7 +10,7 @@
 # The integer division truncates toward zero, which means losing its fractional part.
 
 # For example, the average of four elements 2, 3, 1, and 5 is (2 + 3 + 1 + 5) / 4 = 11 / 4 = 2.75, which truncates to 2.
- 
+
 
 # Example 1:
 
@@ -35,10 +35,14 @@
 
 # Input: nums = [8], k = 100000
 # Output: [-1]
-# Explanation: 
+# Explanation:
 # - avg[0] is -1 because there are less than k elements before and after index 0.
 
 # ---------------------------------------Runtime 1614 ms Beats 82.86% Memory 34.8 MB Beats 58.79%---------------------------------------
+
+# My Solution
+# Time Complexity O(n*k)
+
 
 class Solution:
     def getAverages(self, nums: list[int], k: int) -> list[int]:

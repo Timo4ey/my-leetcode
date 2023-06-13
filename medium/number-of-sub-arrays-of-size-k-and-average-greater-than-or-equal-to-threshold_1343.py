@@ -16,13 +16,18 @@
 # Explanation: The first 6 sub-arrays of size 3 have averages greater than 5. Note that averages are not integers.
 
 # ---------------------------------------Runtime 586 ms Beats 94.74% Memory 29.4 MB Beats 76.36%---------------------------------------
+# My Solution
+# Time Complexity O(n)
+
 
 class Solution:
     def numOfSubarrays(self, arr: list[int], k: int, threshold: int) -> int:
         cur_window: int = sum(arr[:k])
         ans: int = 0
-        if cur_window // k >= threshold: ans += 1
-        for i in range(len(arr)- k):
+        if cur_window // k >= threshold:
+            ans += 1
+        for i in range(len(arr) - k):
             cur_window = cur_window - arr[i] + arr[i + k]
-            if cur_window // k >= threshold: ans += 1
+            if cur_window // k >= threshold:
+                ans += 1
         return ans
