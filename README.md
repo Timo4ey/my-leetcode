@@ -65,6 +65,8 @@ Try to solve every day!!!
 4. [1876. Substrings of Size Three with Distinct Characters](easy/substrings-of-size-three-with-distinct-characters_1876.py)
 4. [643. Maximum Average Subarray I](easy/maximum-average-subarray-i_643.py)
 4. [1518. Water Bottles](easy/water-bottles_1518.py)
+4. [2190. Most Frequent Number Following Key In an Array](easy/most-frequent-number-following-key-in-an-array_2190.py)
+4. [2085. Count Common Words With One Occurrence](easy/count-common-words-with-one-occurrence_2085.py)
 4. []()
 
 ### Medium Tasks
