@@ -70,6 +70,7 @@ Try to solve every day!!!
 4. [2248. Intersection of Multiple Arrays](easy/intersection-of-multiple-arrays_2248.py)
 4. [1365. How Many Numbers Are Smaller Than the Current Number](easy/how-many-numbers-are-smaller-than-the-current-number_1365.py)
 4. [1128. Number of Equivalent Domino Pairs](easy/number-of-equivalent-domino-pairs_1128.py)
+4. [2733. Neither Minimum nor Maximum](easy/neither-minimum-nor-maximum_2733.py)
 4. []()
 
 ### Medium Tasks
