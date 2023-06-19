@@ -1,14 +1,11 @@
-
-
 # ---------------------------------------Runtime 670 ms Beats 87.44% Memory 19.7 MB Beats 14.26%---------------------------------------
 
-# My solution 
+# My solution
 # Time Complexity O(n)
 
 
 class Solution:
     def numSubarrayProductLessThanK(self, nums: list[int], k: int) -> int:
-
         cur_window = 1
         output = left = 0
         if k > 1:

@@ -93,6 +93,9 @@ Try to solve every day!!!
 4.[2090. K Radius Subarray Averages](medium/k-radius-subarray-averages_2090.py)
 4. [1456. Maximum Number of Vowels in a Substring of Given Length](medium/maximum-number-of-vowels-in-a-substring-of-given-length_1456.py)
 4. [713. Subarray Product Less Than K](medium/subarray-product-less-than-k_713.py)
+4. [3. Longest Substring Without Repeating Characters](medium/longest-substring-without-repeating-characters_3.py)
+4. []()
+
 
 
 ### Hard Tasks

@@ -1,4 +1,3 @@
-
 # Given a list of dominoes, dominoes[i] = [a, b]
 # is equivalent to dominoes[j] = [c, d] if and only
 # if either (a == c and b == d), or (a == d and b == c) - that is, one domino can be rotated to be equal to another domino.
@@ -24,7 +23,7 @@ from collections import defaultdict
 class Solution:
     def numEquivDominoPairs(self, dominoes: list[list[int]]) -> int:
         ans: int = 0
-        counter: defaultdict[tuple(int, int): int] = defaultdict(int)
+        counter: defaultdict[tuple(int, int) : int] = defaultdict(int)
         for v1, v2 in dominoes:
             key: tuple = min(v1, v2), max(v1, v2)
             ans += counter[key]

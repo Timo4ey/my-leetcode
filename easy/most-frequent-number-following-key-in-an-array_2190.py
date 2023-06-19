@@ -28,10 +28,11 @@
 # My solution
 # Time Complexity O(n)
 
+
 class Solution:
     def mostFrequent(self, nums: list[int], key: int) -> int:
         store: dict = dict()
-        for i in range(len(nums)-1):
+        for i in range(len(nums) - 1):
             if nums[i] == key:
                 store[nums[i + 1]] = store.get(nums[i + 1], 0) + 1
         return max(store, key=store.get)

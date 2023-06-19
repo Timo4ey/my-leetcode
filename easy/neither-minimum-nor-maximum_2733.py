@@ -1,4 +1,3 @@
-
 # Given an integer array nums containing distinct positive integers,
 # find and return any number from the array that is neither the minimum
 # nor the maximum value in the array, or -1 if there is no such number.
@@ -21,7 +20,7 @@
 
 # Input: nums = [2,1,3]
 # Output: 2
-# Explanation: Since 2 is neither the maximum nor the minimum value in nums, it is the only valid answer. 
+# Explanation: Since 2 is neither the maximum nor the minimum value in nums, it is the only valid answer.
 
 # ---------------------------------------Runtime 371 ms Beats 95.95% Memory 16.4 MB Beats 47.56%---------------------------------------
 
@@ -36,12 +35,14 @@ class Solution:
         nums.sort()
         max_num: int = nums[-1]
         min_num: int = nums[0]
-        return nums[1] if min_num != nums[1] != max_num else - 1
+        return nums[1] if min_num != nums[1] != max_num else -1
+
 
 # ---------------------------------------Runtime 382 ms Beats 80.58% Memory 16.4 MB Beats 47.56%---------------------------------------
 
 # My Solution 2
 # Time Complexity O(n)
+
 
 class Solution:
     def findNonMinOrMax(self, nums: list[int]) -> int:
@@ -58,10 +59,12 @@ class Solution:
             if i != max_num and i != min_num:
                 return i
 
+
 # ---------------------------------------Runtime 404 ms Beats 23.84% Memory 16.3 MB Beats 78.54%---------------------------------------
 
 # My Solution 3
 # Time Complexity O(n)
+
 
 class Solution:
     def findNonMinOrMax(self, nums: list[int]) -> int:
