@@ -71,6 +71,7 @@ Try to solve every day!!!
 4. [1365. How Many Numbers Are Smaller Than the Current Number](easy/how-many-numbers-are-smaller-than-the-current-number_1365.py)
 4. [1128. Number of Equivalent Domino Pairs](easy/number-of-equivalent-domino-pairs_1128.py)
 4. [2733. Neither Minimum nor Maximum](easy/neither-minimum-nor-maximum_2733.py)
+4. [1837. Sum of Digits in Base K](easy/sum-of-digits-in-base-k_1837.py)
 4. []()
 
 ### Medium Tasks
@@ -94,6 +95,7 @@ Try to solve every day!!!
 4. [1456. Maximum Number of Vowels in a Substring of Given Length](medium/maximum-number-of-vowels-in-a-substring-of-given-length_1456.py)
 4. [713. Subarray Product Less Than K](medium/subarray-product-less-than-k_713.py)
 4. [3. Longest Substring Without Repeating Characters](medium/longest-substring-without-repeating-characters_3.py)
+4. [1839. Longest Substring Of All Vowels in Order](medium/longest-substring-of-all-vowels-in-order_1839.py)
 4. []()
 
 
