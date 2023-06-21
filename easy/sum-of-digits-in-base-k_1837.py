@@ -18,6 +18,7 @@
 # My solution
 # Time complexity O(log n)
 
+
 class Solution:
     def sumBase(self, n: int, k: int) -> int:
         ans: int = 0

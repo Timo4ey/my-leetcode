@@ -8,7 +8,6 @@
 
 # A substring is a contiguous sequence of characters in a string.
 
- 
 
 # Example 1:
 
@@ -31,25 +30,19 @@
 # My solution
 # Time Complexity O(n)
 
+
 class Solution:
     def longestBeautifulSubstring(self, word: str) -> int:
         ans: int = 0
-        _hash: dict = {
-            'a': 'e',
-            'e': 'i',
-            'i': 'o',
-            'o': 'u',
-            'u': 'u'
-            }
-        left = word.find('a')
+        _hash: dict = {"a": "e", "e": "i", "i": "o", "o": "u", "u": "u"}
+        left = word.find("a")
         prev: str = word[0]
-        if len(set(word).intersection(
-                {'a', 'e', 'i', 'o', 'u'})) < 5:
+        if len(set(word).intersection({"a", "e", "i", "o", "u"})) < 5:
             return ans
         if left > 0:
             prev: str = word[left]
 
-        substring: list = list(word[left:left + 1])
+        substring: list = list(word[left : left + 1])
         for right in range(left + 1, len(word)):
             if word[right] == prev or _hash.get(prev) == word[right]:
                 substring.append(word[right])
@@ -57,7 +50,7 @@ class Solution:
                     ans = max(ans, len(substring))
             else:
                 left = right
-                substring = list(word[left: right + 1])
+                substring = list(word[left : right + 1])
 
             prev = word[right]
         return ans
@@ -65,15 +58,16 @@ class Solution:
 
 # Solution @MtDeity
 
+
 class Solution:
-  def longestBeautifulSubstring(self, word: str) -> int:
+    def longestBeautifulSubstring(self, word: str) -> int:
         seen = set()
         lo, longest = -1, 0
         for hi, c in enumerate(word):
             if hi > 0 and c < word[hi - 1]:
                 seen = set()
-                lo = hi - 1    
-            seen.add(c)    
+                lo = hi - 1
+            seen.add(c)
             if len(seen) == 5:
                 longest = max(longest, hi - lo)
         return longest
