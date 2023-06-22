@@ -72,6 +72,8 @@ Try to solve every day!!!
 4. [1128. Number of Equivalent Domino Pairs](easy/number-of-equivalent-domino-pairs_1128.py)
 4. [2733. Neither Minimum nor Maximum](easy/neither-minimum-nor-maximum_2733.py)
 4. [1837. Sum of Digits in Base K](easy/sum-of-digits-in-base-k_1837.py)
+4. [1290. Convert Binary Number in a Linked List to Integer
+]()
 4. []()
 
 ### Medium Tasks
