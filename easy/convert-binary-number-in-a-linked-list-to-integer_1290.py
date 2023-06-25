@@ -1,4 +1,3 @@
-
 # Given head which is a reference node to a singly-linked list.
 # The value of each node in the linked list is either 0 or 1
 # The linked list holds the binary representation of a number.
@@ -20,6 +19,7 @@
 # Output: 0
 # ---------------------------------------Runtime 44 ms Beats 70.64% Memory 16.3 MB Beats 56.34%---------------------------------------
 
+
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
@@ -34,4 +34,4 @@ class Solution:
         while node:
             ans.append(str(node.val))
             node = node.next
-        return int(''.join(ans), base=2)
+        return int("".join(ans), base=2)

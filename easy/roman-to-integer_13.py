@@ -17,8 +17,8 @@
 # The same principle applies to the number nine, which is written as IX.
 # There are six instances where subtraction is used:
 
-# I can be placed before V (5) and X (10) to make 4 and 9. 
-# X can be placed before L (50) and C (100) to make 40 and 90. 
+# I can be placed before V (5) and X (10) to make 4 and 9.
+# X can be placed before L (50) and C (100) to make 40 and 90.
 # C can be placed before D (500) and M (1000) to make 400 and 900.
 # Given a roman numeral, convert it to an integer.
 
@@ -41,6 +41,7 @@
 
 # ---------------------------------------Runtime 66 ms Beats 47.2% Memory 16.4 MB Beats 43.75%---------------------------------------
 
+
 # Solution O(n)
 class Solution:
     def romanToInt(self, s: str) -> int:
@@ -58,12 +59,12 @@ class Solution:
         while left <= len(s) - 1:
             n1: int = h_table.get(s[left])
             if left + 1 <= len(s) - 1:
-                n2: int = h_table.get(s[left+1])
+                n2: int = h_table.get(s[left + 1])
                 if n1 >= n2:
                     ans += n1
                     left += 1
                 elif n1 < n2:
-                    ans += (n2 - n1)
+                    ans += n2 - n1
                     left += 2
             else:
                 ans += n1

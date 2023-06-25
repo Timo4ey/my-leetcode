@@ -1,4 +1,4 @@
-# Given an integer x, return true if x is a 
+# Given an integer x, return true if x is a
 # palindrome
 # , and false otherwise.
 
@@ -20,6 +20,7 @@
 
 
 # ---------------------------------------Runtime 83 ms Beats 32.68% Memory 16.2 MB Beats 74.6%---------------------------------------
+
 
 # DON'T USE CONVERSATION TO STRING
 # Time complexity O(log n)
