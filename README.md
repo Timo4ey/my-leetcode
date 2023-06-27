@@ -76,6 +76,8 @@ Try to solve every day!!!
 4. [9. Palindrome Number](easy/palindrome-number_9.py)
 4. [13. Roman to Integer](easy/roman-to-integer_13.py)
 4. [160. Intersection of Two Linked Lists](easy/intersection-of-two-linked-lists_160.py)
+4. [705. Design HashSet](easy/design-hashset_705.py)
+4. []()
 
 
 
