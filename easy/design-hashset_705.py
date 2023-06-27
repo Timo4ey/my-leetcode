@@ -28,20 +28,17 @@
 # ---------------------------------------Runtime 126 ms Beats 99.92% Memory 22.2 MB Beats 53.21%---------------------------------------
 # Time Complexity O(1)
 
-class MyHashSet:
 
+class MyHashSet:
     def __init__(self):
         self.container: set = set()
-        
 
     def add(self, key: int) -> None:
         self.container.add(key)
-        
 
     def remove(self, key: int) -> None:
         if self.contains(key):
             self.container.remove(key)
-        
 
     def contains(self, key: int) -> bool:
         return key in self.container
