@@ -78,7 +78,9 @@ Try to solve every day!!!
 4. [160. Intersection of Two Linked Lists](easy/intersection-of-two-linked-lists_160.py)
 4. [705. Design HashSet](easy/design-hashset_705.py)
 4. [706. Design HashMap](easy/design-hashmap_706.py)
+4. [83. Remove Duplicates from Sorted List](easy/remove-duplicates-from-sorted-list_83.py)
 4. []()
+
 
 
 
