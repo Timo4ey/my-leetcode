@@ -1,5 +1,5 @@
 # Companies
-# Given the head of a singly linked list, return true if it is a 
+# Given the head of a singly linked list, return true if it is a
 # palindrome
 #  or false otherwise.
 
@@ -14,7 +14,7 @@
 # Input: head = [1,2]
 # Output: false
 
-#---------------------------------------Runtime 763 ms Beats 68.33% Memory 49 MB Beats 50.61%---------------------------------------
+# ---------------------------------------Runtime 763 ms Beats 68.33% Memory 49 MB Beats 50.61%---------------------------------------
 # Time complexity O(n)
 
 

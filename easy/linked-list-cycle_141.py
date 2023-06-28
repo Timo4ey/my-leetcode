@@ -27,7 +27,7 @@
 # Explanation: There is no cycle in the linked list.
 
 
-#---------------------------------------Runtime 72 ms Beats 69.46% Memory 20.9 MB Beats 9.80%---------------------------------------
+# ---------------------------------------Runtime 72 ms Beats 69.46% Memory 20.9 MB Beats 9.80%---------------------------------------
 # Time complexity O(n)
 
 
@@ -45,7 +45,7 @@ class Solution:
         store: set = set()
         node: ListNode = head
         while node:
-            if (node in store):
+            if node in store:
                 return True
             store.add(node)
             node = node.next
