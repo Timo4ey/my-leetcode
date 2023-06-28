@@ -80,6 +80,7 @@ Try to solve every day!!!
 4. [706. Design HashMap](easy/design-hashmap_706.py)
 4. [83. Remove Duplicates from Sorted List](easy/remove-duplicates-from-sorted-list_83.py)
 4. [234. Palindrome Linked List](easy/palindrome-linked-list_234.py)
+4. [141. Linked List Cycle](easy/linked-list-cycle_141.py)
 4. []()
 
 
