@@ -82,6 +82,7 @@ Try to solve every day!!!
 4. [234. Palindrome Linked List](easy/palindrome-linked-list_234.py)
 4. [141. Linked List Cycle](easy/linked-list-cycle_141.py)
 4. [203. Remove Linked List Elements](easy/remove-linked-list-elements_203.py)
+4. [2529. Maximum Count of Positive Integer and Negative Integer](easy/maximum-count-of-positive-integer-and-negative-integer_2529.py)
 4. []()
 
 
