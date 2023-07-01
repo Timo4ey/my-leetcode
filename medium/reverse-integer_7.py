@@ -26,7 +26,7 @@ class Solution:
         num: int = abs(x)
         negative = 1 if x > 0 else -1
         output: int = 0
-        while (num > 0):
+        while num > 0:
             l, r = divmod(num, 10)
             output = output * 10 + r
             num = l
