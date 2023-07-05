@@ -116,6 +116,7 @@ Try to solve every day!!!
 4. [7. Reverse Integer](medium/reverse-integer_7.py)
 4. [19. Remove Nth Node From End of List](medium/remove-nth-node-from-end-of-list_19.py)
 4. [143. Reorder List](medium/reorder-list_143.py)
+4. [287. Find the Duplicate Number](medium/find-the-duplicate-number_287.py)
 4. []()
 
 
