@@ -85,7 +85,7 @@ Try to solve every day!!!
 4. [2529. Maximum Count of Positive Integer and Negative Integer](easy/maximum-count-of-positive-integer-and-negative-integer_2529.py)
 4. [476. Number Complement](easy/number-complement_476.py)
 4. [226. Invert Binary Tree](easy/invert-binary-tree_226.py)
-4. []()
+4. [104. Maximum Depth of Binary Tree](easy/maximum-depth-of-binary-tree_104.py)
 4. []()
 
 
