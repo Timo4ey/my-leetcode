@@ -86,6 +86,7 @@ Try to solve every day!!!
 4. [476. Number Complement](easy/number-complement_476.py)
 4. [226. Invert Binary Tree](easy/invert-binary-tree_226.py)
 4. [104. Maximum Depth of Binary Tree](easy/maximum-depth-of-binary-tree_104.py)
+4. [1945. Sum of Digits of String After Convert](easy/sum-of-digits-of-string-after-convert_1945.py)
 4. []()
 
 
