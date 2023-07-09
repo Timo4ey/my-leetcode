@@ -88,6 +88,7 @@ Try to solve every day!!!
 4. [104. Maximum Depth of Binary Tree](easy/maximum-depth-of-binary-tree_104.py)
 4. [1945. Sum of Digits of String After Convert](easy/sum-of-digits-of-string-after-convert_1945.py)
 4. [1108. Defanging an IP Address](easy/defanging-an-ip-address_1108.py)
+4. [507. Perfect Number](easy/perfect-number_507.py)
 4. []()
 
 
