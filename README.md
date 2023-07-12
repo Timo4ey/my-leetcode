@@ -91,7 +91,8 @@ Try to solve every day!!!
 81. [507. Perfect Number](easy/perfect-number_507.py)
 82. [100. Same Tree](easy/same-tree_100.py)
 83. [543. Diameter of Binary Tree](easy/diameter-of-binary-tree_543.py)
-83. []()
+84. [1957. Delete Characters to Make Fancy String](easy/delete-characters-to-make-fancy-string_1957.py)
+85. []()
 
 ### Medium Tasks
 
