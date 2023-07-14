@@ -93,7 +93,8 @@ Try to solve every day!!!
 83. [543. Diameter of Binary Tree](easy/diameter-of-binary-tree_543.py)
 84. [1957. Delete Characters to Make Fancy String](easy/delete-characters-to-make-fancy-string_1957.py)
 85. [110. Balanced Binary Tree](easy/balanced-binary-tree_110.py)
-86. []()
+86. [572. Subtree of Another Tree](easy/subtree-of-another-tree_572.py)
+87. []()
 
 ### Medium Tasks
 
