@@ -94,6 +94,7 @@ Try to solve every day!!!
 84. [1957. Delete Characters to Make Fancy String](easy/delete-characters-to-make-fancy-string_1957.py)
 85. [110. Balanced Binary Tree](easy/balanced-binary-tree_110.py)
 86. [572. Subtree of Another Tree](easy/subtree-of-another-tree_572.py)
+87. [2235. Add Two Integers](easy/add-two-integers_2235.py)
 87. []()
 
 ### Medium Tasks
