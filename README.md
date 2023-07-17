@@ -95,7 +95,8 @@ Try to solve every day!!!
 85. [110. Balanced Binary Tree](easy/balanced-binary-tree_110.py)
 86. [572. Subtree of Another Tree](easy/subtree-of-another-tree_572.py)
 87. [2235. Add Two Integers](easy/add-two-integers_2235.py)
-87. []()
+88. []()
+89. []()
 
 ### Medium Tasks
 
@@ -114,18 +115,21 @@ Try to solve every day!!!
 13. [15. 3Sum](medium/3sum_15.py)
 14. [33. Search in Rotated Sorted Array](medium/search-in-rotated-sorted-array_33.py)
 15. [153. Find Minimum in Rotated Sorted Array](medium/find-minimum-in-rotated-sorted-array_153.py)
-16. [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](medium/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold_1343.py) 4.[2090. K Radius Subarray Averages](medium/k-radius-subarray-averages_2090.py)
-17. [1456. Maximum Number of Vowels in a Substring of Given Length](medium/maximum-number-of-vowels-in-a-substring-of-given-length_1456.py)
-18. [713. Subarray Product Less Than K](medium/subarray-product-less-than-k_713.py)
-19. [3. Longest Substring Without Repeating Characters](medium/longest-substring-without-repeating-characters_3.py)
-20. [1839. Longest Substring Of All Vowels in Order](medium/longest-substring-of-all-vowels-in-order_1839.py)
-21. [1358. Number of Substrings Containing All Three Characters](medium/number-of-substrings-containing-all-three-characters_1358.py)
-22. [12. Integer to Roman](medium/integer-to-roman_12.py)
-23. [7. Reverse Integer](medium/reverse-integer_7.py)
-24. [19. Remove Nth Node From End of List](medium/remove-nth-node-from-end-of-list_19.py)
-25. [143. Reorder List](medium/reorder-list_143.py)
-26. [287. Find the Duplicate Number](medium/find-the-duplicate-number_287.py)
-27. []()
+16. [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](medium/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold_1343.py)
+17. [2090. K Radius Subarray Averages](medium/k-radius-subarray-averages_2090.py)
+18. [1456. Maximum Number of Vowels in a Substring of Given Length](medium/maximum-number-of-vowels-in-a-substring-of-given-length_1456.py)
+19. [713. Subarray Product Less Than K](medium/subarray-product-less-than-k_713.py)
+20. [3. Longest Substring Without Repeating Characters](medium/longest-substring-without-repeating-characters_3.py)
+21. [1839. Longest Substring Of All Vowels in Order](medium/longest-substring-of-all-vowels-in-order_1839.py)
+22. [1358. Number of Substrings Containing All Three Characters](medium/number-of-substrings-containing-all-three-characters_1358.py)
+23. [12. Integer to Roman](medium/integer-to-roman_12.py)
+24. [7. Reverse Integer](medium/reverse-integer_7.py)
+25. [19. Remove Nth Node From End of List](medium/remove-nth-node-from-end-of-list_19.py)
+26. [143. Reorder List](medium/reorder-list_143.py)
+27. [287. Find the Duplicate Number](medium/find-the-duplicate-number_287.py)
+28. [2181. Merge Nodes in Between Zeros](medium/merge-nodes-in-between-zeros_2181.py)
+29. [230. Kth Smallest Element in a BST](medium/kth-smallest-element-in-a-bst_230.py)
+30. []()
 
 ### Hard Tasks
 
