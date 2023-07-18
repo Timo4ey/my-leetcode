@@ -129,6 +129,7 @@ Try to solve every day!!!
 27. [287. Find the Duplicate Number](medium/find-the-duplicate-number_287.py)
 28. [2181. Merge Nodes in Between Zeros](medium/merge-nodes-in-between-zeros_2181.py)
 29. [230. Kth Smallest Element in a BST](medium/kth-smallest-element-in-a-bst_230.py)
+30. [235. Lowest Common Ancestor of a Binary Search Tree](medium/lowest-common-ancestor-of-a-binary-search-tree_235.py)
 30. []()
 
 ### Hard Tasks
