@@ -132,7 +132,8 @@ Try to solve every day!!!
 30. [235. Lowest Common Ancestor of a Binary Search Tree](medium/lowest-common-ancestor-of-a-binary-search-tree_235.py)
 31. [1476. Subrectangle Queries](medium/subrectangle-queries_1476.py)
 32. [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](medium/partitioning-into-minimum-number-of-deci-binary-numbers_1689.py)
-33. []()
+33. [2396. Strictly Palindromic Number](medium/strictly-palindromic-number_2396.py)
+34. []()
 
 ### Hard Tasks
 
