@@ -138,3 +138,4 @@ Try to solve every day!!!
 ### Hard Tasks
 
 4. [1206. Design Skiplist](hard/design-skiplist_1206.py)
+![Alt text](image.png)
