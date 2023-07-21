@@ -133,9 +133,11 @@ Try to solve every day!!!
 31. [1476. Subrectangle Queries](medium/subrectangle-queries_1476.py)
 32. [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](medium/partitioning-into-minimum-number-of-deci-binary-numbers_1689.py)
 33. [2396. Strictly Palindromic Number](medium/strictly-palindromic-number_2396.py)
-34. []()
+34. [1302. Deepest Leaves Sum](medium/deepest-leaves-sum_1302.py)
+35. []()
 
 ### Hard Tasks
 
 4. [1206. Design Skiplist](hard/design-skiplist_1206.py)
-![Alt text](image.png)
+
+to be continue...
