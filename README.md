@@ -95,7 +95,7 @@ Try to solve every day!!!
 85. [110. Balanced Binary Tree](easy/balanced-binary-tree_110.py)
 86. [572. Subtree of Another Tree](easy/subtree-of-another-tree_572.py)
 87. [2235. Add Two Integers](easy/add-two-integers_2235.py)
-88. []()
+88. [2540. Minimum Common Value](easy/minimum-common-value_2540.py)
 89. []()
 
 ### Medium Tasks
