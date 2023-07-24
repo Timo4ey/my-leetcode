@@ -135,6 +135,7 @@ Try to solve every day!!!
 32. [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](medium/partitioning-into-minimum-number-of-deci-binary-numbers_1689.py)
 33. [2396. Strictly Palindromic Number](medium/strictly-palindromic-number_2396.py)
 34. [1302. Deepest Leaves Sum](medium/deepest-leaves-sum_1302.py)
+35. [535. Encode and Decode TinyURL](medium/encode-and-decode-tinyurl_535.py)
 35. []()
 
 ### Hard Tasks
