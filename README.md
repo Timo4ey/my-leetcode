@@ -137,7 +137,8 @@ Try to solve every day!!!
 34. [1302. Deepest Leaves Sum](medium/deepest-leaves-sum_1302.py)
 35. [535. Encode and Decode TinyURL](medium/encode-and-decode-tinyurl_535.py)
 36. [1008. Construct Binary Search Tree from Preorder Traversal](medium/construct-binary-search-tree-from-preorder-traversal_1008.py)
-37. []()
+37. [48. Rotate Image](medium/rotate-image_48.py)
+38. []()
 
 ### Hard Tasks
 
