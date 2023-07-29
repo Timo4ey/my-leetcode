@@ -97,7 +97,8 @@ Try to solve every day!!!
 87. [2235. Add Two Integers](easy/add-two-integers_2235.py)
 88. [2540. Minimum Common Value](easy/minimum-common-value_2540.py)
 89. [598. Range Addition II](easy/range-addition-ii_598.py)
-90. []()
+90. [136. Single Number](/easy/single-number_136.py)
+91. []()
 
 ### Medium Tasks
 
