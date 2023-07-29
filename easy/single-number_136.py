@@ -16,11 +16,19 @@
 # Input: nums = [1]
 # Output: 1
 # ---------------------------------------Runtime 123 ms Beats 99.58% Memory 19.1 MB Beats 53.40%---------------------------------------
+from functools import reduce
 
 
+# Solution Time Complexity O(n) Space Complexity O(n)
 class Solution:
     def singleNumber(self, nums: list[int]) -> int:
         seen = dict()
         for i in nums:
             seen[i] = seen.get(i, 0) + 1
         return min(seen, key=seen.get)
+
+
+# Solution Time Complexity O(n) Space Complexity O(1)
+class Solution:
+    def singleNumber(self, nums: list[int]) -> int:
+        return reduce(lambda x, y: x ^ y, nums, 0)
