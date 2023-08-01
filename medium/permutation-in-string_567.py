@@ -18,6 +18,7 @@
 from collections import defaultdict
 
 
+# Time Complexity O(n)
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
         def isEqual(n1, n2):

@@ -140,7 +140,8 @@ Try to solve every day!!!
 36. [1008. Construct Binary Search Tree from Preorder Traversal](medium/construct-binary-search-tree-from-preorder-traversal_1008.py)
 37. [48. Rotate Image](medium/rotate-image_48.py)
 38. [567. Permutation in String](medium/permutation-in-string_567.py)
-38. []()
+39. [128. Longest Consecutive Sequence](medium/longest-consecutive-sequence_128.py)
+40. []()
 
 ### Hard Tasks
 
