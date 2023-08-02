@@ -141,7 +141,8 @@ Try to solve every day!!!
 37. [48. Rotate Image](medium/rotate-image_48.py)
 38. [567. Permutation in String](medium/permutation-in-string_567.py)
 39. [128. Longest Consecutive Sequence](medium/longest-consecutive-sequence_128.py)
-40. []()
+40. [155. Min Stack](medium/min-stack_155.py)
+41. []()
 
 ### Hard Tasks
 
