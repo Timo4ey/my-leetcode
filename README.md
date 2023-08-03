@@ -142,7 +142,8 @@ Try to solve every day!!!
 38. [567. Permutation in String](medium/permutation-in-string_567.py)
 39. [128. Longest Consecutive Sequence](medium/longest-consecutive-sequence_128.py)
 40. [155. Min Stack](medium/min-stack_155.py)
-41. []()
+41. [237. Delete Node in a Linked List](medium/delete-node-in-a-linked-list_237.py)
+42. []()
 
 ### Hard Tasks
 
