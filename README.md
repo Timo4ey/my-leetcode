@@ -143,7 +143,8 @@ Try to solve every day!!!
 39. [128. Longest Consecutive Sequence](medium/longest-consecutive-sequence_128.py)
 40. [155. Min Stack](medium/min-stack_155.py)
 41. [237. Delete Node in a Linked List](medium/delete-node-in-a-linked-list_237.py)
-42. []()
+42. [451. Sort Characters By Frequency](medium/sort-characters-by-frequency_451.py)
+43. []()
 
 ### Hard Tasks
 
