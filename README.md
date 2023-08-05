@@ -144,7 +144,8 @@ Try to solve every day!!!
 40. [155. Min Stack](medium/min-stack_155.py)
 41. [237. Delete Node in a Linked List](medium/delete-node-in-a-linked-list_237.py)
 42. [451. Sort Characters By Frequency](medium/sort-characters-by-frequency_451.py)
-43. []()
+43. [2442. Count Number of Distinct Integers After Reverse Operations](medium/count-number-of-distinct-integers-after-reverse-operations_2442.py)
+44. []()
 
 ### Hard Tasks
 
