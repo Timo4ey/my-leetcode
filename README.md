@@ -98,7 +98,10 @@ Try to solve every day!!!
 88. [2540. Minimum Common Value](easy/minimum-common-value_2540.py)
 89. [598. Range Addition II](easy/range-addition-ii_598.py)
 90. [136. Single Number](/easy/single-number_136.py)
-91. []()
+91. [1071. Greatest Common Divisor of Strings](easy/greatest-common-divisor-of-strings_1071.py)
+92. [1431. Kids With the Greatest Number of Candies](easy/kids-with-the-greatest-number-of-candies_1431.py)
+93. [605. Can Place Flowers](easy/can-place-flowers_605.py)
+94. []()
 
 ### Medium Tasks
 
