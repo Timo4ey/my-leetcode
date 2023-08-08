@@ -101,7 +101,8 @@ Try to solve every day!!!
 91. [1071. Greatest Common Divisor of Strings](easy/greatest-common-divisor-of-strings_1071.py)
 92. [1431. Kids With the Greatest Number of Candies](easy/kids-with-the-greatest-number-of-candies_1431.py)
 93. [605. Can Place Flowers](easy/can-place-flowers_605.py)
-94. []()
+94. [345. Reverse Vowels of a String](easy/reverse-vowels-of-a-string_345.py)
+95. []()
 
 ### Medium Tasks
 
@@ -148,7 +149,10 @@ Try to solve every day!!!
 41. [237. Delete Node in a Linked List](medium/delete-node-in-a-linked-list_237.py)
 42. [451. Sort Characters By Frequency](medium/sort-characters-by-frequency_451.py)
 43. [2442. Count Number of Distinct Integers After Reverse Operations](medium/count-number-of-distinct-integers-after-reverse-operations_2442.py)
-44. []()
+44. [443. String Compression]()
+45. []()
+46. []()
+47. []()
 
 ### Hard Tasks
 
