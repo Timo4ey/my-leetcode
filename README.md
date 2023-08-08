@@ -149,8 +149,8 @@ Try to solve every day!!!
 41. [237. Delete Node in a Linked List](medium/delete-node-in-a-linked-list_237.py)
 42. [451. Sort Characters By Frequency](medium/sort-characters-by-frequency_451.py)
 43. [2442. Count Number of Distinct Integers After Reverse Operations](medium/count-number-of-distinct-integers-after-reverse-operations_2442.py)
-44. [443. String Compression]()
-45. []()
+44. [443. String Compression](medium/string-compression_443.py)
+45. [334. Increasing Triplet Subsequence](medium/increasing-triplet-subsequence_334.py)
 46. []()
 47. []()
 
