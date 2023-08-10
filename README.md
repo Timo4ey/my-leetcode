@@ -153,7 +153,8 @@ Try to solve every day!!!
 45. [334. Increasing Triplet Subsequence](medium/increasing-triplet-subsequence_334.py)
 46. [238. Product of Array Except Self](medium/product-of-array-except-self_238.py)
 47. [11. Container With Most Water](medium/container-with-most-water_11.py)
-48. []()
+48. [1679. Max Number of K-Sum Pairs](medium/max-number-of-k-sum-pairs_1679.py)
+49. []()
 
 ### Hard Tasks
 
