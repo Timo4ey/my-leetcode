@@ -154,7 +154,8 @@ Try to solve every day!!!
 46. [238. Product of Array Except Self](medium/product-of-array-except-self_238.py)
 47. [11. Container With Most Water](medium/container-with-most-water_11.py)
 48. [1679. Max Number of K-Sum Pairs](medium/max-number-of-k-sum-pairs_1679.py)
-49. []()
+49. [1004. Max Consecutive Ones III](medium/max-consecutive-ones-iii_1004.py)
+50. []()
 
 ### Hard Tasks
 
