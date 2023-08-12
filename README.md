@@ -155,7 +155,8 @@ Try to solve every day!!!
 47. [11. Container With Most Water](medium/container-with-most-water_11.py)
 48. [1679. Max Number of K-Sum Pairs](medium/max-number-of-k-sum-pairs_1679.py)
 49. [1004. Max Consecutive Ones III](medium/max-consecutive-ones-iii_1004.py)
-50. []()
+50. [1493. Longest Subarray of 1's After Deleting One Element](medium/longest-subarray-of-1s-after-deleting-one-element_1493.py)
+51. []()
 
 ### Hard Tasks
 
