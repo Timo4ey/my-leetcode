@@ -102,7 +102,7 @@ Try to solve every day!!!
 92. [1431. Kids With the Greatest Number of Candies](easy/kids-with-the-greatest-number-of-candies_1431.py)
 93. [605. Can Place Flowers](easy/can-place-flowers_605.py)
 94. [345. Reverse Vowels of a String](easy/reverse-vowels-of-a-string_345.py)
-95. []()
+95. [1732. Find the Highest Altitude](easy/find-the-highest-altitude_1732.py)
 
 ### Medium Tasks
 
