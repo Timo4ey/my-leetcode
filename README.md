@@ -103,6 +103,8 @@ Try to solve every day!!!
 93. [605. Can Place Flowers](easy/can-place-flowers_605.py)
 94. [345. Reverse Vowels of a String](easy/reverse-vowels-of-a-string_345.py)
 95. [1732. Find the Highest Altitude](easy/find-the-highest-altitude_1732.py)
+96. [2215. Find the Difference of Two Arrays](easy/find-the-difference-of-two-arrays_2215.py)
+97. []()
 
 ### Medium Tasks
 
