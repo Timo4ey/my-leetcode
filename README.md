@@ -158,7 +158,8 @@ Try to solve every day!!!
 48. [1679. Max Number of K-Sum Pairs](medium/max-number-of-k-sum-pairs_1679.py)
 49. [1004. Max Consecutive Ones III](medium/max-consecutive-ones-iii_1004.py)
 50. [1493. Longest Subarray of 1's After Deleting One Element](medium/longest-subarray-of-1s-after-deleting-one-element_1493.py)
-51. []()
+51. [1657. Determine if Two Strings Are Close](medium/determine-if-two-strings-are-close_1657.py)
+52. []()
 
 ### Hard Tasks
 
