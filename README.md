@@ -160,7 +160,8 @@ Try to solve every day!!!
 49. [1004. Max Consecutive Ones III](medium/max-consecutive-ones-iii_1004.py)
 50. [1493. Longest Subarray of 1's After Deleting One Element](medium/longest-subarray-of-1s-after-deleting-one-element_1493.py)
 51. [1657. Determine if Two Strings Are Close](medium/determine-if-two-strings-are-close_1657.py)
-52. []()
+52. [2352. Equal Row and Column Pairs](medium/equal-row-and-column-pairs_2352.py)
+53. []()
 
 ### Hard Tasks
 
