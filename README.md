@@ -104,7 +104,8 @@ Try to solve every day!!!
 94. [345. Reverse Vowels of a String](easy/reverse-vowels-of-a-string_345.py)
 95. [1732. Find the Highest Altitude](easy/find-the-highest-altitude_1732.py)
 96. [2215. Find the Difference of Two Arrays](easy/find-the-difference-of-two-arrays_2215.py)
-97. []()
+97. [1207. Unique Number of Occurrences](easy/unique-number-of-occurrences_1207.py)
+98. []()
 
 ### Medium Tasks
 
