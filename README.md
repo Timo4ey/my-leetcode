@@ -161,7 +161,8 @@ Try to solve every day!!!
 50. [1493. Longest Subarray of 1's After Deleting One Element](medium/longest-subarray-of-1s-after-deleting-one-element_1493.py)
 51. [1657. Determine if Two Strings Are Close](medium/determine-if-two-strings-are-close_1657.py)
 52. [2352. Equal Row and Column Pairs](medium/equal-row-and-column-pairs_2352.py)
-53. []()
+53. [2390. Removing Stars From a String](medium/removing-stars-from-a-string_2390.py)
+54. []()
 
 ### Hard Tasks
 
