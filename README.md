@@ -163,6 +163,7 @@ Try to solve every day!!!
 52. [2352. Equal Row and Column Pairs](medium/equal-row-and-column-pairs_2352.py)
 53. [2390. Removing Stars From a String](medium/removing-stars-from-a-string_2390.py)
 54. [735. Asteroid Collision](medium/asteroid-collision_735.py)
+55. [394. Decode String](medium/decode-string_394.py)
 55. []()
 
 ### Hard Tasks
