@@ -105,7 +105,8 @@ Try to solve every day!!!
 95. [1732. Find the Highest Altitude](easy/find-the-highest-altitude_1732.py)
 96. [2215. Find the Difference of Two Arrays](easy/find-the-difference-of-two-arrays_2215.py)
 97. [1207. Unique Number of Occurrences](easy/unique-number-of-occurrences_1207.py)
-98. []()
+98. [349. Intersection of Two Arrays](easy/intersection-of-two-arrays_349.py)
+99. []()
 
 ### Medium Tasks
 
@@ -164,7 +165,7 @@ Try to solve every day!!!
 53. [2390. Removing Stars From a String](medium/removing-stars-from-a-string_2390.py)
 54. [735. Asteroid Collision](medium/asteroid-collision_735.py)
 55. [394. Decode String](medium/decode-string_394.py)
-55. []()
+56. []()
 
 ### Hard Tasks
 
