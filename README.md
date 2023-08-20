@@ -106,7 +106,8 @@ Try to solve every day!!!
 96. [2215. Find the Difference of Two Arrays](easy/find-the-difference-of-two-arrays_2215.py)
 97. [1207. Unique Number of Occurrences](easy/unique-number-of-occurrences_1207.py)
 98. [349. Intersection of Two Arrays](easy/intersection-of-two-arrays_349.py)
-99. []()
+99. [933. Number of Recent Calls](easy/number-of-recent-calls_933.py)
+100. []()
 
 ### Medium Tasks
 
