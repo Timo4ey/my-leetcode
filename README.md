@@ -166,7 +166,8 @@ Try to solve every day!!!
 53. [2390. Removing Stars From a String](medium/removing-stars-from-a-string_2390.py)
 54. [735. Asteroid Collision](medium/asteroid-collision_735.py)
 55. [394. Decode String](medium/decode-string_394.py)
-56. []()
+56. [649. Dota2 Senate](medium/dota2-senate_649.py)
+57. []()
 
 ### Hard Tasks
 
