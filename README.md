@@ -168,7 +168,8 @@ Try to solve every day!!!
 55. [394. Decode String](medium/decode-string_394.py)
 56. [649. Dota2 Senate](medium/dota2-senate_649.py)
 57. [2095. Delete the Middle Node of a Linked List](medium/delete-the-middle-node-of-a-linked-list_2095.py)
-58. []()
+58. [328. Odd Even Linked List](medium/odd-even-linked-list_328.py)
+59. []()
 
 ### Hard Tasks
 
