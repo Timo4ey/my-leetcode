@@ -107,7 +107,8 @@ Try to solve every day!!!
 97. [1207. Unique Number of Occurrences](easy/unique-number-of-occurrences_1207.py)
 98. [349. Intersection of Two Arrays](easy/intersection-of-two-arrays_349.py)
 99. [933. Number of Recent Calls](easy/number-of-recent-calls_933.py)
-100. []()
+100. [872. Leaf-Similar Trees](easy/leaf-similar-trees_872.py)
+101. []()
 
 ### Medium Tasks
 
