@@ -108,7 +108,9 @@ Try to solve every day!!!
 98. [349. Intersection of Two Arrays](easy/intersection-of-two-arrays_349.py)
 99. [933. Number of Recent Calls](easy/number-of-recent-calls_933.py)
 100. [872. Leaf-Similar Trees](easy/leaf-similar-trees_872.py)
-101. []()
+101. [144. Binary Tree Preorder Traversal](/easy/binary-tree-preorder-traversal_144.py)
+102. [94. Binary Tree Inorder Traversal](easy/binary-tree-inorder-traversal_94.py)
+103. []()
 
 ### Medium Tasks
 
