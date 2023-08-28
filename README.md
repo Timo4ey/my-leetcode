@@ -110,7 +110,8 @@ Try to solve every day!!!
 100. [872. Leaf-Similar Trees](easy/leaf-similar-trees_872.py)
 101. [144. Binary Tree Preorder Traversal](/easy/binary-tree-preorder-traversal_144.py)
 102. [94. Binary Tree Inorder Traversal](easy/binary-tree-inorder-traversal_94.py)
-103. []()
+103. [225. Implement Stack using Queues](/easy/implement-stack-using-queues_225.py)
+104. []()
 
 ### Medium Tasks
 
