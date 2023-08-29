@@ -175,7 +175,8 @@ Try to solve every day!!!
 58. [328. Odd Even Linked List](medium/odd-even-linked-list_328.py)
 59. [2130. Maximum Twin Sum of a Linked List](medium/maximum-twin-sum-of-a-linked-list_2130.py)
 60. [437. Path Sum III](/medium/path-sum-iii_437.py)
-61. []()
+61. [1372. Longest ZigZag Path in a Binary Tree](/medium/longest-zigzag-path-in-a-binary-tree_1372.py)
+62. []()
 
 ### Hard Tasks
 
