@@ -20,15 +20,21 @@
 # Explanation: The LCA of nodes 2 and 4 is 2, since a node can be a descendant of itself according to the LCA definition.
 # Example 3:
 
+
 # Input: root = [2,1], p = 2, q = 1
 # Output: 2
 # ---------------------------------------Runtime 92 ms Beats 67.3% Memory 20.8 MB Beats 56.47%---------------------------------------
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
 
 
 class Solution:
     def lowestCommonAncestor(
-        self, root: "TreeNode", p: "TreeNode", q: "TreeNode"
-    ) -> "TreeNode":
+        self, root: TreeNode, p: TreeNode, q: TreeNode
+    ) -> TreeNode:
         def is_greater_than_node(node):
             return (
                 True
