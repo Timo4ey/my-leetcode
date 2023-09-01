@@ -111,7 +111,8 @@ Try to solve every day!!!
 101. [144. Binary Tree Preorder Traversal](/easy/binary-tree-preorder-traversal_144.py)
 102. [94. Binary Tree Inorder Traversal](easy/binary-tree-inorder-traversal_94.py)
 103. [225. Implement Stack using Queues](/easy/implement-stack-using-queues_225.py)
-104. []()
+104. [700. Search in a Binary Search Tree](/easy/search-in-a-binary-search-tree_700.py)
+105. []()
 
 ### Medium Tasks
 
@@ -179,6 +180,7 @@ Try to solve every day!!!
 62. [236. Lowest Common Ancestor of a Binary Tree](/medium/lowest-common-ancestor-of-a-binary-tree_236.py)
 63. [199. Binary Tree Right Side View](/medium/binary-tree-right-side-view_199.py)
 64. []()
+65. []()
 
 ### Hard Tasks
 
