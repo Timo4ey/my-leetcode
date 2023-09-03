@@ -112,7 +112,8 @@ Try to solve every day!!!
 102. [94. Binary Tree Inorder Traversal](easy/binary-tree-inorder-traversal_94.py)
 103. [225. Implement Stack using Queues](/easy/implement-stack-using-queues_225.py)
 104. [700. Search in a Binary Search Tree](/easy/search-in-a-binary-search-tree_700.py)
-105. []()
+105. [1848. Minimum Distance to the Target Element](easy/minimum-distance-to-the-target-element_1848.py)
+106. []()
 
 ### Medium Tasks
 
