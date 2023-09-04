@@ -113,7 +113,8 @@ Try to solve every day!!!
 103. [225. Implement Stack using Queues](/easy/implement-stack-using-queues_225.py)
 104. [700. Search in a Binary Search Tree](/easy/search-in-a-binary-search-tree_700.py)
 105. [1848. Minimum Distance to the Target Element](easy/minimum-distance-to-the-target-element_1848.py)
-106. []()
+106. [169. Majority Element](/easy/majority-element_169.py)
+107. []()
 
 ### Medium Tasks
 
