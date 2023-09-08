@@ -114,7 +114,8 @@ Try to solve every day!!!
 104. [700. Search in a Binary Search Tree](/easy/search-in-a-binary-search-tree_700.py)
 105. [1848. Minimum Distance to the Target Element](easy/minimum-distance-to-the-target-element_1848.py)
 106. [169. Majority Element](/easy/majority-element_169.py)
-107. []()
+107. [118. Pascal's Triangle](/easy/pascals-triangle_118.py)
+108. []()
 
 ### Medium Tasks
 
