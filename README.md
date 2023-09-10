@@ -116,7 +116,8 @@ Try to solve every day!!!
 106. [169. Majority Element](/easy/majority-element_169.py)
 107. [118. Pascal's Triangle](/easy/pascals-triangle_118.py)
 108. [1704. Determine if String Halves Are Alike](/easy/determine-if-string-halves-are-alike_1704.py)
-109. []()
+109. [1748. Sum of Unique Elements](/easy/sum-of-unique-elements_1748.py)
+110. []()
 
 ### Medium Tasks
 
