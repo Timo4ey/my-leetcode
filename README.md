@@ -186,7 +186,8 @@ Try to solve every day!!!
 63. [199. Binary Tree Right Side View](/medium/binary-tree-right-side-view_199.py)
 64. [450. Delete Node in a BST](/medium/delete-node-in-a-bst_450.py)
 65. [841. Keys and Rooms](/medium/keys-and-rooms_841.py)
-65. []()
+66. [547. Number of Provinces](/medium/number-of-provinces_547.py)
+67. []()
 
 ### Hard Tasks
 
