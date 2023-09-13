@@ -187,7 +187,8 @@ Try to solve every day!!!
 64. [450. Delete Node in a BST](/medium/delete-node-in-a-bst_450.py)
 65. [841. Keys and Rooms](/medium/keys-and-rooms_841.py)
 66. [547. Number of Provinces](/medium/number-of-provinces_547.py)
-67. []()
+67. [1466. Reorder Routes to Make All Paths Lead to the City Zero](/medium/reorder-routes-to-make-all-paths-lead-to-the-city-zero_1466.py)
+68. []()
 
 ### Hard Tasks
 
