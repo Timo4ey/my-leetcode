@@ -117,7 +117,8 @@ Try to solve every day!!!
 107. [118. Pascal's Triangle](/easy/pascals-triangle_118.py)
 108. [1704. Determine if String Halves Are Alike](/easy/determine-if-string-halves-are-alike_1704.py)
 109. [1748. Sum of Unique Elements](/easy/sum-of-unique-elements_1748.py)
-110. []()
+110. [1403. Minimum Subsequence in Non-Increasing Order](/easy/minimum-subsequence-in-non-increasing-order_1403.py)
+111. []()
 
 ### Medium Tasks
 
