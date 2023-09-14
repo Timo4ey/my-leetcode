@@ -119,7 +119,8 @@ Try to solve every day!!!
 109. [1748. Sum of Unique Elements](/easy/sum-of-unique-elements_1748.py)
 110. [1403. Minimum Subsequence in Non-Increasing Order](/easy/minimum-subsequence-in-non-increasing-order_1403.py)
 111. [680. Valid Palindrome II](easy/valid-palindrome-ii_680.py)
-112. []()
+112. [2578. Split With Minimum Sum](/easy/split-with-minimum-sum_2578.py)
+113. []()
 
 ### Medium Tasks
 
