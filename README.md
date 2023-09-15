@@ -191,7 +191,8 @@ Try to solve every day!!!
 65. [841. Keys and Rooms](/medium/keys-and-rooms_841.py)
 66. [547. Number of Provinces](/medium/number-of-provinces_547.py)
 67. [1466. Reorder Routes to Make All Paths Lead to the City Zero](/medium/reorder-routes-to-make-all-paths-lead-to-the-city-zero_1466.py)
-68. []()
+68. [399. Evaluate Division](/medium/evaluate-division_399.py)
+69. []()
 
 ### Hard Tasks
 
