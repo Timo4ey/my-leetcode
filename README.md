@@ -120,7 +120,8 @@ Try to solve every day!!!
 110. [1403. Minimum Subsequence in Non-Increasing Order](/easy/minimum-subsequence-in-non-increasing-order_1403.py)
 111. [680. Valid Palindrome II](easy/valid-palindrome-ii_680.py)
 112. [2578. Split With Minimum Sum](/easy/split-with-minimum-sum_2578.py)
-113. []()
+113. [1523. Count Odd Numbers in an Interval Range](/easy/count-odd-numbers-in-an-interval-range_1523.py)
+114. []()
 
 ### Medium Tasks
 
