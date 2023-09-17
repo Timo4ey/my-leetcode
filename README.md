@@ -122,7 +122,8 @@ Try to solve every day!!!
 112. [2578. Split With Minimum Sum](/easy/split-with-minimum-sum_2578.py)
 113. [1523. Count Odd Numbers in an Interval Range](/easy/count-odd-numbers-in-an-interval-range_1523.py)
 114. [897. Increasing Order Search Tree](/easy/increasing-order-search-tree_897.py)
-115. []()
+115. [2651. Calculate Delayed Arrival Time](/easy/calculate-delayed-arrival-time_2651.py)
+116. []()
 
 ### Medium Tasks
 
