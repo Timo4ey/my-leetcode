@@ -123,7 +123,8 @@ Try to solve every day!!!
 113. [1523. Count Odd Numbers in an Interval Range](/easy/count-odd-numbers-in-an-interval-range_1523.py)
 114. [897. Increasing Order Search Tree](/easy/increasing-order-search-tree_897.py)
 115. [2651. Calculate Delayed Arrival Time](/easy/calculate-delayed-arrival-time_2651.py)
-116. []()
+116. [1791. Find Center of Star Graph](/easy/find-center-of-star-graph_1791.py)
+117. []()
 
 ### Medium Tasks
 
