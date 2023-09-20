@@ -198,7 +198,8 @@ Try to solve every day!!!
 68. [399. Evaluate Division](/medium/evaluate-division_399.py)
 69. [215. Kth Largest Element in an Array](/medium/kth-largest-element-in-an-array_215.py)
 70. [2336. Smallest Number in Infinite Set](/medium/smallest-number-in-infinite-set_2336.py)
-71. []()
+71. [994. Rotting Oranges](/medium/rotting-oranges_994.py)
+72. []()
 
 ### Hard Tasks
 
