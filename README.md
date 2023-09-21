@@ -124,7 +124,8 @@ Try to solve every day!!!
 114. [897. Increasing Order Search Tree](/easy/increasing-order-search-tree_897.py)
 115. [2651. Calculate Delayed Arrival Time](/easy/calculate-delayed-arrival-time_2651.py)
 116. [1791. Find Center of Star Graph](/easy/find-center-of-star-graph_1791.py)
-117. []()
+117. [997. Find the Town Judge](/easy/find-the-town-judge_997.py)
+118. []()
 
 ### Medium Tasks
 
