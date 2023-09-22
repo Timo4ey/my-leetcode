@@ -125,7 +125,8 @@ Try to solve every day!!!
 115. [2651. Calculate Delayed Arrival Time](/easy/calculate-delayed-arrival-time_2651.py)
 116. [1791. Find Center of Star Graph](/easy/find-center-of-star-graph_1791.py)
 117. [997. Find the Town Judge](/easy/find-the-town-judge_997.py)
-118. []()
+118. [561. Array Partition](/easy/array-partition_561.py)
+119. []()
 
 ### Medium Tasks
 
