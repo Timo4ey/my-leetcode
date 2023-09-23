@@ -126,7 +126,8 @@ Try to solve every day!!!
 116. [1791. Find Center of Star Graph](/easy/find-center-of-star-graph_1791.py)
 117. [997. Find the Town Judge](/easy/find-the-town-judge_997.py)
 118. [561. Array Partition](/easy/array-partition_561.py)
-119. []()
+119. [2180. Count Integers With Even Digit Sum](/easy/count-integers-with-even-digit-sum_2180.py)
+120. []()
 
 ### Medium Tasks
 
