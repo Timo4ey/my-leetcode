@@ -127,7 +127,8 @@ Try to solve every day!!!
 117. [997. Find the Town Judge](/easy/find-the-town-judge_997.py)
 118. [561. Array Partition](/easy/array-partition_561.py)
 119. [2180. Count Integers With Even Digit Sum](/easy/count-integers-with-even-digit-sum_2180.py)
-120. []()
+120. [1299. Replace Elements with Greatest Element on Right Side](/easy/replace-elements-with-greatest-element-on-right-side_1299.py)
+121. []()
 
 ### Medium Tasks
 
