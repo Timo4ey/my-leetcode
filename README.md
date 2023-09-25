@@ -204,7 +204,8 @@ Try to solve every day!!!
 69. [215. Kth Largest Element in an Array](/medium/kth-largest-element-in-an-array_215.py)
 70. [2336. Smallest Number in Infinite Set](/medium/smallest-number-in-infinite-set_2336.py)
 71. [994. Rotting Oranges](/medium/rotting-oranges_994.py)
-72. []()
+72. [2542. Maximum Subsequence Score](/medium/maximum-subsequence-score_2542.py)
+73. []()
 
 ### Hard Tasks
 
