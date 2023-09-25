@@ -128,7 +128,8 @@ Try to solve every day!!!
 118. [561. Array Partition](/easy/array-partition_561.py)
 119. [2180. Count Integers With Even Digit Sum](/easy/count-integers-with-even-digit-sum_2180.py)
 120. [1299. Replace Elements with Greatest Element on Right Side](/easy/replace-elements-with-greatest-element-on-right-side_1299.py)
-121. []()
+121. [389. Find the Difference](/easy/find-the-difference_389.py)
+122. []()
 
 ### Medium Tasks
 
