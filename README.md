@@ -130,7 +130,8 @@ Try to solve every day!!!
 120. [1299. Replace Elements with Greatest Element on Right Side](/easy/replace-elements-with-greatest-element-on-right-side_1299.py)
 121. [389. Find the Difference](/easy/find-the-difference_389.py)
 122. [374. Guess Number Higher or Lower](/easy/guess-number-higher-or-lower_374.py)
-123. []()
+123. [905. Sort Array By Parity](/easy/sort-array-by-parity_905.py)
+124. []()
 
 ### Medium Tasks
 
