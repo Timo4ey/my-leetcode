@@ -131,7 +131,8 @@ Try to solve every day!!!
 121. [389. Find the Difference](/easy/find-the-difference_389.py)
 122. [374. Guess Number Higher or Lower](/easy/guess-number-higher-or-lower_374.py)
 123. [905. Sort Array By Parity](/easy/sort-array-by-parity_905.py)
-124. []()
+124. [896. Monotonic Array](/easy/monotonic-array_896.py)
+125. []()
 
 ### Medium Tasks
 
