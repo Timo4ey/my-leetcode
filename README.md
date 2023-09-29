@@ -208,7 +208,8 @@ Try to solve every day!!!
 70. [2336. Smallest Number in Infinite Set](/medium/smallest-number-in-infinite-set_2336.py)
 71. [994. Rotting Oranges](/medium/rotting-oranges_994.py)
 72. [2542. Maximum Subsequence Score](/medium/maximum-subsequence-score_2542.py)
-73. []()
+73. [162. Find Peak Element](/medium/find-peak-element_162.py)
+74. []()
 
 ### Hard Tasks
 
