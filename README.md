@@ -212,7 +212,8 @@ Try to solve every day!!!
 71. [994. Rotting Oranges](/medium/rotting-oranges_994.py)
 72. [2542. Maximum Subsequence Score](/medium/maximum-subsequence-score_2542.py)
 73. [162. Find Peak Element](/medium/find-peak-element_162.py)
-74. []()
+74. [229. Majority Element II](/medium/majority-element-ii_229.py)
+75. []()
 
 ### Hard Tasks
 
