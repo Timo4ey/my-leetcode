@@ -135,7 +135,8 @@ Try to solve every day!!!
 124. [896. Monotonic Array](/easy/monotonic-array_896.py)
 125. [557. Reverse Words in a String III](/easy/distribute-candies_575.py)
 126. [1512. Number of Good Pairs](/easy/number-of-good-pairs_1512.py)
-127. []()
+127. [2413. Smallest Even Multiple](/easy/smallest-even-multiple_2413.py)
+128. []()
 
 ### Medium Tasks
 
