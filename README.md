@@ -136,7 +136,8 @@ Try to solve every day!!!
 125. [557. Reverse Words in a String III](/easy/distribute-candies_575.py)
 126. [1512. Number of Good Pairs](/easy/number-of-good-pairs_1512.py)
 127. [2413. Smallest Even Multiple](/easy/smallest-even-multiple_2413.py)
-128. []()
+128. [965. Univalued Binary Tree](/easy/965)
+129. []()
 
 ### Medium Tasks
 
