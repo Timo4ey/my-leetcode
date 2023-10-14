@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-    - [Easy Tasks](#easy-tasks)
-    - [Medium Tasks](#medium-tasks)
-    - [Hard Tasks](#hard-tasks)
+  - [Easy Tasks](#easy-tasks)
+  - [Medium Tasks](#medium-tasks)
+  - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -217,7 +217,8 @@ Try to solve every day!!!
 73. [162. Find Peak Element](/medium/find-peak-element_162.py)
 74. [229. Majority Element II](/medium/majority-element-ii_229.py)
 75. [34. Find First and Last Position of Element in Sorted Array](/medium/find-first-and-last-position-of-element-in-sorted-array_34.py)
-76. []()
+76. [137. Single Number II](/medium/single-number-ii_137.py)
+77. []()
 
 ### Hard Tasks
 
