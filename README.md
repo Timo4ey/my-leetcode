@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-    - [Easy Tasks](#easy-tasks)
-    - [Medium Tasks](#medium-tasks)
-    - [Hard Tasks](#hard-tasks)
+  - [Easy Tasks](#easy-tasks)
+  - [Medium Tasks](#medium-tasks)
+  - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -139,7 +139,8 @@ Try to solve every day!!!
 128. [965. Univalued Binary Tree](/easy/965)
 129. [617. Merge Two Binary Trees](/easy/merge-two-binary-trees_617.py)
 130. [119. Pascal's Triangle II](/easy/pascals-triangle-ii_119.py)
-131. []()
+131. [1984. Minimum Difference Between Highest and Lowest of K Scores](/easy/minimum-difference-between-highest-and-lowest-of-k-scores_1984.py)
+132. []()
 
 ### Medium Tasks
 
