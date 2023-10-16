@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-  - [Easy Tasks](#easy-tasks)
-  - [Medium Tasks](#medium-tasks)
-  - [Hard Tasks](#hard-tasks)
+    - [Easy Tasks](#easy-tasks)
+    - [Medium Tasks](#medium-tasks)
+    - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -138,7 +138,8 @@ Try to solve every day!!!
 127. [2413. Smallest Even Multiple](/easy/smallest-even-multiple_2413.py)
 128. [965. Univalued Binary Tree](/easy/965)
 129. [617. Merge Two Binary Trees](/easy/merge-two-binary-trees_617.py)
-130. []()
+130. [119. Pascal's Triangle II](/easy/pascals-triangle-ii_119.py)
+131. []()
 
 ### Medium Tasks
 
