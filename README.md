@@ -141,7 +141,8 @@ Try to solve every day!!!
 130. [119. Pascal's Triangle II](/easy/pascals-triangle-ii_119.py)
 131. [1984. Minimum Difference Between Highest and Lowest of K Scores](/easy/minimum-difference-between-highest-and-lowest-of-k-scores_1984.py)
 132. [530. Minimum Absolute Difference in BST](/easy/minimum-absolute-difference-in-bst_530.py)
-133. []()
+133. [1662. Check If Two String Arrays are Equivalent](/easy/check-if-two-string-arrays-are-equivalent_1662.py)
+134. []()
 
 ### Medium Tasks
 
@@ -221,7 +222,8 @@ Try to solve every day!!!
 74. [229. Majority Element II](/medium/majority-element-ii_229.py)
 75. [34. Find First and Last Position of Element in Sorted Array](/medium/find-first-and-last-position-of-element-in-sorted-array_34.py)
 76. [137. Single Number II](/medium/single-number-ii_137.py)
-77. []()
+77. [2807. Insert Greatest Common Divisors in Linked List](/medium/insert-greatest-common-divisors-in-linked-list_2807.py)
+78. []()
 
 ### Hard Tasks
 
