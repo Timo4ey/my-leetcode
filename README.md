@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-  - [Easy Tasks](#easy-tasks)
-  - [Medium Tasks](#medium-tasks)
-  - [Hard Tasks](#hard-tasks)
+    - [Easy Tasks](#easy-tasks)
+    - [Medium Tasks](#medium-tasks)
+    - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -143,7 +143,8 @@ Try to solve every day!!!
 132. [530. Minimum Absolute Difference in BST](/easy/minimum-absolute-difference-in-bst_530.py)
 133. [1662. Check If Two String Arrays are Equivalent](/easy/check-if-two-string-arrays-are-equivalent_1662.py)
 134. [1929. Concatenation of Array](/easy/concatenation-of-array_1929.py)
-135. []()
+135. [1832. Check if the Sentence Is Pangram](/easy/check-if-the-sentence-is-pangram_1832.py)
+136. []()
 
 ### Medium Tasks
 
