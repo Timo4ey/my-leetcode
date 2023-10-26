@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-  - [Easy Tasks](#easy-tasks)
-  - [Medium Tasks](#medium-tasks)
-  - [Hard Tasks](#hard-tasks)
+    - [Easy Tasks](#easy-tasks)
+    - [Medium Tasks](#medium-tasks)
+    - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -144,8 +144,9 @@ Try to solve every day!!!
 133. [1662. Check If Two String Arrays are Equivalent](/easy/check-if-two-string-arrays-are-equivalent_1662.py)
 134. [1929. Concatenation of Array](/easy/concatenation-of-array_1929.py)
 135. [1832. Check if the Sentence Is Pangram](/easy/check-if-the-sentence-is-pangram_1832.py)
-136. [387. First Unique Character in a String](/easy/first-unique-character-in-a-string_387.py)
-137. []()
+136. [387. First Unique Character in a String](/easy/first-unique-character-in-a-string_387.pyr)
+137. [383. Ransom Note](/easy/ransom-note_383.py)
+138. []()
 
 ### Medium Tasks
 
