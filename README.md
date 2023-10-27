@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-    - [Easy Tasks](#easy-tasks)
-    - [Medium Tasks](#medium-tasks)
-    - [Hard Tasks](#hard-tasks)
+  - [Easy Tasks](#easy-tasks)
+  - [Medium Tasks](#medium-tasks)
+  - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -146,7 +146,8 @@ Try to solve every day!!!
 135. [1832. Check if the Sentence Is Pangram](/easy/check-if-the-sentence-is-pangram_1832.py)
 136. [387. First Unique Character in a String](/easy/first-unique-character-in-a-string_387.pyr)
 137. [383. Ransom Note](/easy/ransom-note_383.py)
-138. []()
+138. [884. Uncommon Words from Two Sentences](/easy/uncommon-words-from-two-sentences_884.py)
+139. []()
 
 ### Medium Tasks
 
