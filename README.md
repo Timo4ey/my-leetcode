@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-  - [Easy Tasks](#easy-tasks)
-  - [Medium Tasks](#medium-tasks)
-  - [Hard Tasks](#hard-tasks)
+    - [Easy Tasks](#easy-tasks)
+    - [Medium Tasks](#medium-tasks)
+    - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -148,7 +148,8 @@ Try to solve every day!!!
 137. [383. Ransom Note](/easy/ransom-note_383.py)
 138. [884. Uncommon Words from Two Sentences](/easy/uncommon-words-from-two-sentences_884.py)
 139. [819. Most Common Word](/easy/most-common-word_819.py)
-140. []()
+140. [1636. Sort Array by Increasing Frequency](/easy/sort-array-by-increasing-frequency_1636.py)
+141. []()
 
 ### Medium Tasks
 
