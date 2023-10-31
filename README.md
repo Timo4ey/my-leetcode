@@ -232,7 +232,8 @@ Try to solve every day!!!
 76. [137. Single Number II](/medium/single-number-ii_137.py)
 77. [2807. Insert Greatest Common Divisors in Linked List](/medium/insert-greatest-common-divisors-in-linked-list_2807.py)
 78. [515. Find Largest Value in Each Tree Row](/medium/find-largest-value-in-each-tree-row_515.py)
-79. []()
+79. [2433. Find The Original Array of Prefix Xor](/medium/find-the-original-array-of-prefix-xor_2433.py)
+80. []()
 
 ### Hard Tasks
 
