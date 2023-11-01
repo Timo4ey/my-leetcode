@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-    - [Easy Tasks](#easy-tasks)
-    - [Medium Tasks](#medium-tasks)
-    - [Hard Tasks](#hard-tasks)
+  - [Easy Tasks](#easy-tasks)
+  - [Medium Tasks](#medium-tasks)
+  - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -150,7 +150,8 @@ Try to solve every day!!!
 139. [819. Most Common Word](/easy/most-common-word_819.py)
 140. [1636. Sort Array by Increasing Frequency](/easy/sort-array-by-increasing-frequency_1636.py)
 141. [2506. Count Pairs Of Similar Strings](/easy/count-pairs-of-similar-strings_2506.py)
-142. []()
+142. [501. Find Mode in Binary Search Tree](/easy/find-mode-in-binary-search-tree_501.py)
+143. []()
 
 ### Medium Tasks
 
