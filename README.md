@@ -152,7 +152,7 @@ Try to solve every day!!!
 141. [2506. Count Pairs Of Similar Strings](/easy/count-pairs-of-similar-strings_2506.py)
 142. [501. Find Mode in Binary Search Tree](/easy/find-mode-in-binary-search-tree_501.py)
 143. [1356. Sort Integers by The Number of 1 Bits](/easy/sort-integers-by-the-number-of-1-bits_1356.py)
-144. []()
+144. [744. Find Smallest Letter Greater Than Target](/easy/find-smallest-letter-greater-than-target_744.py)
 145. []()
 
 ### Medium Tasks
