@@ -18,7 +18,7 @@
 # Input: root = [0]
 # Output: [0]
 
-# ---------------------------------------Runtime 1565 ms Beats 5.4% Memory 20.7 MB MB Beats 56.6%---------------------------------------
+# ---------------------------------------Runtime 1565 ms Beats 5.4% Memory 20.7 MB Beats 56.6%---------------------------------------
 
 
 from typing import List, Optional

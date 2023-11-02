@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-  - [Easy Tasks](#easy-tasks)
-  - [Medium Tasks](#medium-tasks)
-  - [Hard Tasks](#hard-tasks)
+    - [Easy Tasks](#easy-tasks)
+    - [Medium Tasks](#medium-tasks)
+    - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -151,7 +151,9 @@ Try to solve every day!!!
 140. [1636. Sort Array by Increasing Frequency](/easy/sort-array-by-increasing-frequency_1636.py)
 141. [2506. Count Pairs Of Similar Strings](/easy/count-pairs-of-similar-strings_2506.py)
 142. [501. Find Mode in Binary Search Tree](/easy/find-mode-in-binary-search-tree_501.py)
-143. []()
+143. [1356. Sort Integers by The Number of 1 Bits](/easy/sort-integers-by-the-number-of-1-bits_1356.py)
+144. []()
+145. []()
 
 ### Medium Tasks
 
