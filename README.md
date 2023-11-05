@@ -237,7 +237,8 @@ Try to solve every day!!!
 78. [515. Find Largest Value in Each Tree Row](/medium/find-largest-value-in-each-tree-row_515.py)
 79. [2433. Find The Original Array of Prefix Xor](/medium/find-the-original-array-of-prefix-xor_2433.py)
 80. [2023. Number of Pairs of Strings With Concatenation Equal to Target](/medium/number-of-pairs-of-strings-with-concatenation-equal-to-target_2023.py)
-81. []()
+81. [1535. Find the Winner of an Array Game](/medium/find-the-winner-of-an-array-game_1535.py)
+82. []()
 
 ### Hard Tasks
 
