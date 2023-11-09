@@ -154,7 +154,8 @@ Try to solve every day!!!
 143. [1356. Sort Integers by The Number of 1 Bits](/easy/sort-integers-by-the-number-of-1-bits_1356.py)
 144. [744. Find Smallest Letter Greater Than Target](/easy/find-smallest-letter-greater-than-target_744.py)
 145. [2185. Counting Words With a Given Prefix](/easy/counting-words-with-a-given-prefix_2185.py)
-146. []()
+146. [2351. First Letter to Appear Twice](/easy/first-letter-to-appear-twice_2351.py)
+147. []()
 
 ### Medium Tasks
 
