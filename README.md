@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-    - [Easy Tasks](#easy-tasks)
-    - [Medium Tasks](#medium-tasks)
-    - [Hard Tasks](#hard-tasks)
+  - [Easy Tasks](#easy-tasks)
+  - [Medium Tasks](#medium-tasks)
+  - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -159,7 +159,8 @@ Try to solve every day!!!
 148. [1408. String Matching in an Array](/easy/string-matching-in-an-array_1408.py)
 149. [922. Sort Array By Parity II](/easy/sort-array-by-parity-ii_922.py)
 150. [2239. Find Closest Number to Zero](/easy/find-closest-number-to-zero_2239.py)
-151. []()
+151. [2283. Check if Number Has Equal Digit Count and Digit Value](/easy/check-if-number-has-equal-digit-count-and-digit-value_2283.py)
+152. []()
 
 ### Medium Tasks
 
