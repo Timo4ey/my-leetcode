@@ -22,9 +22,8 @@
 # Note that 'A' and 'a' are treated as two different characters.
 
 
-from collections import Counter
-
 # ---------------------------------------Runtime 40 ms Beats 98.96% Memory 17.5 MB Beats 92.95%---------------------------------------
+from collections import Counter
 
 
 # Time Complexity O(nLogn)

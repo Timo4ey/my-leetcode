@@ -18,6 +18,9 @@
 # Input: root = []
 # Output: true
 
+
+# ---------------------------------------Runtime 62 ms Beats 80.6% Memory 21 MB MB Beats 79.29%---------------------------------------
+
 from typing import Optional
 
 
@@ -26,9 +29,6 @@ class TreeNode:
         self.val = val
         self.left = left
         self.right = right
-
-
-# ---------------------------------------Runtime 62 ms Beats 80.6% Memory 21 MB MB Beats 79.29%---------------------------------------
 
 
 # Solution Time complexity O(n)

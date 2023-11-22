@@ -20,8 +20,11 @@
 
 
 # Time Complexity O(n2)
+from typing import List
+
+
 class Solution:
-    def minSubsequence(self, nums: list[int]) -> list[int]:
+    def minSubsequence(self, nums: List[int]) -> List[int]:
         sortedNum, output = sorted(nums), []
         while True:
             output.append(sortedNum.pop())

@@ -14,8 +14,7 @@
 # ---------------------------------------Runtime 231 ms Beats 8.28% Memory 20.7 MB Beats 15.24%---------------------------------------
 
 
-class List(list):
-    pass
+from typing import List
 
 
 # My solution

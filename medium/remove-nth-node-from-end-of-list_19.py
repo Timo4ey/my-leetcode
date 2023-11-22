@@ -16,6 +16,8 @@
 # Output: [1]
 
 
+# ---------------------------------------Runtime 45 ms Beats 80.52% Memory 16.4 MB Beats 35.23%---------------------------------------
+
 from typing import Optional
 
 
@@ -23,11 +25,6 @@ class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
-
-
-# ---------------------------------------Runtime 45 ms Beats 80.52% Memory 16.4 MB Beats 35.23%---------------------------------------
-
-# Time complexity
 
 
 class Solution:

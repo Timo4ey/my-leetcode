@@ -28,10 +28,7 @@
 
 # ---------------------------------------Runtime 67 ms Beats 51.12% Memory 13.9 MB Beats 57.33%--------------------------------------------------------------------------------------
 from functools import reduce
-
-
-class List(list):
-    pass
+from typing import List
 
 
 class Solution:

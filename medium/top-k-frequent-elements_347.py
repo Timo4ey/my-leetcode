@@ -15,8 +15,7 @@
 from collections import Counter
 
 
-class List(list):
-    pass
+from typing import List
 
 
 class Solution:

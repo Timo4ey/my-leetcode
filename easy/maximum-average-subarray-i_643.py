@@ -17,11 +17,12 @@
 
 # ---------------------------------------Runtime 1162 ms Beats 87.53% Memory 28.5 MB Beats 24.18%---------------------------------------
 
+from typing import List
 
 # My solution
 # Time complexity O(n)
 class Solution:
-    def findMaxAverage(self, nums: list[int], k: int) -> float:
+    def findMaxAverage(self, nums: List[int], k: int) -> float:
         window_sum: int = sum(nums[:k])
         ans: float | int = window_sum
 

@@ -25,11 +25,12 @@
 # ---------------------------------------Runtime 147 ms Beats 41.42% Memory 17.7 MB Beats 19.3%---------------------------------------
 #  Space complexity only O(1)
 #  Runtime complexity O(n)
+from typing import List
 
 
 # My solution
 class Solution:
-    def missingNumber(self, nums: list[int]) -> int:
+    def missingNumber(self, nums: List[int]) -> int:
         n: int = len(nums)
 
         for i in range(len(nums)):
@@ -42,7 +43,7 @@ class Solution:
 
 
 class Solution:
-    def missingNumber(self, nums: list[int]) -> int:
+    def missingNumber(self, nums: List[int]) -> int:
         n = len(nums)
         total_sum = (n * (n + 1)) // 2
         array_sum = sum(nums)

@@ -33,7 +33,7 @@
 
 # ---------------------------------------Runtime 52 ms Beats 26.56% Memory 16.3 MB Beats 27.51%---------------------------------------
 
-List = list
+from typing import List
 
 
 # My solution

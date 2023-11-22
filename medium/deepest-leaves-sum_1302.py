@@ -10,6 +10,10 @@
 # Output: 19
 
 
+# Solution
+# Time Complexity O(n)
+# ---------------------------------------Runtime 265 ms Beats 9.91% Memory 19.8 MB Beats 98.64%---------------------------------------
+
 from functools import reduce
 from typing import Optional
 
@@ -19,11 +23,6 @@ class TreeNode:
         self.val = val
         self.left = left
         self.right = right
-
-
-# Solution
-# Time Complexity O(n)
-# ---------------------------------------Runtime 265 ms Beats 9.91% Memory 19.8 MB Beats 98.64%---------------------------------------
 
 
 class Solution:

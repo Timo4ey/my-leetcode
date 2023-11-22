@@ -19,11 +19,13 @@
 
 # ---------------------------------------Runtime 55 ms Beats 61.76% Memory 17.1 MB Beats 42.39%---------------------------------------
 
+from typing import List
+
 
 # My solution
 # Complexity O(log n)
 class Solution:
-    def searchInsert(self, nums: list[int], target: int) -> int:
+    def searchInsert(self, nums: List[int], target: int) -> int:
         start, end = 0, len(nums) - 1
         while start <= end:
             middle = (start + end) // 2

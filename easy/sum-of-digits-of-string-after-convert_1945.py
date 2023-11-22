@@ -35,8 +35,8 @@ First, convert s into an integer by replacing each letter with its position in t
 # Output: 8
 
 
-from string import ascii_lowercase
 # ---------------------------------------Runtime 48 ms Beats 77.75% Memory 16.2 MB Beats 97.19%---------------------------------------
+from string import ascii_lowercase
 
 
 # Time complexity O(n*k)

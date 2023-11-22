@@ -16,13 +16,14 @@
 # Explanation: There is no i and j that satisfy the conditions.
 
 # ---------------------------------------Runtime 93 msBeats 10.34% Memory 16.3 MB Beats 49.69%---------------------------------------
+from typing import List
 
 # My solution
 # Complexity O(n^2)
 
 
 class Solution:
-    def checkIfExist(self, arr: list[int]) -> bool:
+    def checkIfExist(self, arr: List[int]) -> bool:
         for i in range(len(arr)):
             for j in range(len(arr)):
                 if i != j and arr[i] * 2 == arr[j]:

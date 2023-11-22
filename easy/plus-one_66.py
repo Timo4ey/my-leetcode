@@ -27,11 +27,11 @@
 
 
 # ---------------------------------------Runtime 45 ms Beats 21.38% Memory 16.2 MB Beats 25.83%---------------------------------------
-class List(list):
-    pass
-
 
 # My solution
+from typing import List
+
+
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
         nums = int("".join(map(str, digits))) + 1

@@ -16,11 +16,13 @@
 
 # ---------------------------------------Runtime 559 ms Beats 49.41% Memory 22.3 MB Beats 7.99%---------------------------------------
 
+from typing import List
+
 
 # My Solution 1
 # Time Complexity O(n)
 class Solution:
-    def kLengthApart(self, nums: list[int], k: int) -> bool:
+    def kLengthApart(self, nums: List[int], k: int) -> bool:
         units = [x for x in range(len(nums)) if nums[x] == 1]
 
         for x in range(len(units) - 1):

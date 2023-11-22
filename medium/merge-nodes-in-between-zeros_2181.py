@@ -26,6 +26,8 @@
 # - The sum of the nodes marked in green: 1 = 1.
 # - The sum of the nodes marked in red: 3 = 3.
 # - The sum of the nodes marked in yellow: 2 + 2 = 4.
+
+# ---------------------------------------Runtime 2603 ms Beats 77.56% Memory 106.3 MB Beats 47.67%---------------------------------------
 from typing import Optional
 
 
@@ -33,9 +35,6 @@ class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
-
-
-# ---------------------------------------Runtime 2603 ms Beats 77.56% Memory 106.3 MB Beats 47.67%---------------------------------------
 
 
 class Solution:

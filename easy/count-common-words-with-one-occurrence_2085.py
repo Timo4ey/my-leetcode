@@ -25,11 +25,13 @@
 # ---------------------------------------Runtime 83 ms Beats 74.70% Memory 16.7 MB Beats 74.15%---------------------------------------
 from collections import Counter
 
+from typing import List
+
 
 # My solution
 # Time Complexity O(n)
 class Solution:
-    def countWords(self, words1: list[str], words2: list[str]) -> int:
+    def countWords(self, words1: List[str], words2: List[str]) -> int:
         w1: Counter = Counter(words1)
         w2: Counter = Counter(words2)
         compare: list = [x for x in w1 if w1.get(x) == 1]

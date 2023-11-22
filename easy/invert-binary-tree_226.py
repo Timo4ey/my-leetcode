@@ -15,6 +15,9 @@
 # Input: root = []
 # Output: []
 
+
+# ---------------------------------------Runtime 43 ms Beats 82.11% Memory 16.4 MB Beats 34.13%---------------------------------------
+
 from typing import Optional
 
 
@@ -24,8 +27,6 @@ class TreeNode:
         self.left = left
         self.right = right
 
-
-# ---------------------------------------Runtime 43 ms Beats 82.11% Memory 16.4 MB Beats 34.13%---------------------------------------
 
 # Time complexity O(n)
 class Solution:
@@ -51,4 +52,12 @@ class Solution:
 # Solution @jyot_150
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        return TreeNode(root.val, self.invertTree(root.right), self.invertTree(root.left)) if root else None
+        return (
+            TreeNode(
+                root.val,
+                self.invertTree(root.right),
+                self.invertTree(root.left),
+            )
+            if root
+            else None
+        )

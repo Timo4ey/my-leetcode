@@ -1,22 +1,34 @@
-# Definition for a binary tree node.
-class TreeNode:
-    def __init__(self, val=0, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
+# Given the root of a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).
 
 
-class List(list):
-    ...
+# Example 1:
 
+# ￼
+# Input: root = [3,9,20,null,null,15,7]
+# Output: [[3],[9,20],[15,7]]
+# Example 2:
 
-class Optional(List):
-    ...
+# Input: root = [1]
+# Output: [[1]]
+# Example 3:
+
+# Input: root = []
+# Output: []
+
+# ---------------------------------------Runtime 41 ms Beats 79.61% Memory 14.2 MB Beats 100%---------------------------------------
 
 
 # My Solution
 
 from collections import deque
+from typing import List, Optional
+
+
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
 
 
 class Solution:

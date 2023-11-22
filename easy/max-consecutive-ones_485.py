@@ -12,8 +12,8 @@
 # Input: nums = [1,0,1,1,0,1]
 # Output: 2
 # ---------------------------------------Runtime 344 ms Beats 59.20% Memory 16.5 MB Beats 18.45%---------------------------------------
-class List(list):
-    pass
+
+from typing import List
 
 
 # My solution

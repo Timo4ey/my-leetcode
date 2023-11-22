@@ -12,8 +12,7 @@
 # Input: nums = [0]
 # Output: [0]
 # ---------------------------------------Runtime 183 ms Beats 31.9% Memory 17.9 MB Beats 12.54%---------------------------------------
-class List(list):
-    pass
+from typing import List
 
 
 # My solution

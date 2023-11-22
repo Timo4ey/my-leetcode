@@ -22,11 +22,11 @@
 # Explanation: There are 4 positive integers and 0 negative integers. The maximum count among them is 4.
 
 
-from ast import List
-from bisect import bisect_left, bisect_right
 
 # ---------------------------------------Runtime 134 ms Beats 79.15% Memory 16.5 MB Beats 99.65%---------------------------------------
 
+from typing import List
+from bisect import bisect_left, bisect_right
 
 # Solution #1 Best
 # time Complexity O(log(n))

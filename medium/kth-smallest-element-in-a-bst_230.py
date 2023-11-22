@@ -14,16 +14,16 @@
 # Output: 3
 
 
+# ---------------------------------------Runtime 67 ms Beats 59.77% Memory 20.4 MB Beats 82.14%---------------------------------------
+
+from typing import Optional
+
+
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
         self.left = left
         self.right = right
-
-
-from typing import Optional
-
-# ---------------------------------------Runtime 67 ms Beats 59.77% Memory 20.4 MB Beats 82.14%---------------------------------------
 
 
 class Solution:

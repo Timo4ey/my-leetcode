@@ -18,6 +18,9 @@
 # Input: head = [1,2,3,4,5]
 # Output: [1,5,2,4,3]
 
+
+# ---------------------------------------Runtime 99 ms Beats 79.6% Memory 26 MB Beats 70.79%---------------------------------------
+
 from typing import Optional
 
 
@@ -25,9 +28,6 @@ class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
-
-
-# ---------------------------------------Runtime 99 ms Beats 79.6% Memory 26 MB Beats 70.79%---------------------------------------
 
 
 class Solution:

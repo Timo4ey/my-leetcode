@@ -25,12 +25,14 @@
 
 # ---------------------------------------Runtime 90 ms Beats 78.86% Memory 16.5 MB Beats 69.67%---------------------------------------
 
+from typing import List
+
 # My solution
 # Time Complexity O(n)
 
 
 class Solution:
-    def mostFrequent(self, nums: list[int], key: int) -> int:
+    def mostFrequent(self, nums: List[int], key: int) -> int:
         store: dict = dict()
         for i in range(len(nums) - 1):
             if nums[i] == key:

@@ -45,6 +45,7 @@
 
 
 # ---------------------------------------Runtime 116 ms Beats 61.79% Memory 16.8 MB Beats 20.83%---------------------------------------
+from typing import List
 
 # My Solution
 # The time complexity of this code is O(mn log k),
@@ -53,9 +54,9 @@
 
 
 class Solution:
-    def kWeakestRows(self, mat: list[list[int]], k: int) -> list[int]:
-        ans: list[int] = []
-        tmp: list[tuple(int, int)] = []
+    def kWeakestRows(self, mat: List[List[int]], k: int) -> List[int]:
+        ans: List[int] = []
+        tmp: List[tuple(int, int)] = []
         for i, m in enumerate(mat):
             tmp.append((i, sum(m)))
         tmp.sort(key=lambda x: x[1])

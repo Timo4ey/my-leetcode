@@ -13,6 +13,9 @@
 # Output: 2
 
 
+# ---------------------------------------Runtime 52 ms Beats 83.74% Memory 19 MB Beats 12.97%---------------------------------------
+
+
 from typing import Optional
 
 
@@ -21,9 +24,6 @@ class TreeNode:
         self.val = val
         self.left = left
         self.right = right
-
-
-# ---------------------------------------Runtime 52 ms Beats 83.74% Memory 19 MB Beats 12.97%---------------------------------------
 
 
 # Time complexity O(n)
