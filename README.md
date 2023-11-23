@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-    - [Easy Tasks](#easy-tasks)
-    - [Medium Tasks](#medium-tasks)
-    - [Hard Tasks](#hard-tasks)
+  - [Easy Tasks](#easy-tasks)
+  - [Medium Tasks](#medium-tasks)
+  - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -163,7 +163,8 @@ Try to solve every day!!!
 152. [1460. Make Two Arrays Equal by Reversing Subarrays](/easy/make-two-arrays-equal-by-reversing-subarrays_1460.py)
 153. [2496. Maximum Value of a String in an Array](/easy/maximum-value-of-a-string-in-an-array_2496.py)
 154. [1684. Count the Number of Consistent Strings](/easy/count-the-number-of-consistent-strings_1684.py)
-155. []()
+155. [28. Find the Index of the First Occurrence in a String](/easy/find-the-index-of-the-first-occurrence-in-a-string_28.py)
+156. []()
 
 ### Medium Tasks
 
