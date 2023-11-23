@@ -162,7 +162,8 @@ Try to solve every day!!!
 151. [2283. Check if Number Has Equal Digit Count and Digit Value](/easy/check-if-number-has-equal-digit-count-and-digit-value_2283.py)
 152. [1460. Make Two Arrays Equal by Reversing Subarrays](/easy/make-two-arrays-equal-by-reversing-subarrays_1460.py)
 153. [2496. Maximum Value of a String in an Array](/easy/maximum-value-of-a-string-in-an-array_2496.py)
-154. []()
+154. [1684. Count the Number of Consistent Strings](/easy/count-the-number-of-consistent-strings_1684.py)
+155. []()
 
 ### Medium Tasks
 
