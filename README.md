@@ -164,7 +164,8 @@ Try to solve every day!!!
 153. [2496. Maximum Value of a String in an Array](/easy/maximum-value-of-a-string-in-an-array_2496.py)
 154. [1684. Count the Number of Consistent Strings](/easy/count-the-number-of-consistent-strings_1684.py)
 155. [28. Find the Index of the First Occurrence in a String](/easy/find-the-index-of-the-first-occurrence-in-a-string_28.py)
-156. []()
+156. [2744. Find Maximum Number of String Pairs](/easy/find-maximum-number-of-string-pairs_2744.py)
+157. []()
 
 ### Medium Tasks
 
