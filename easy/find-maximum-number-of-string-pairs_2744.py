@@ -29,7 +29,7 @@
 # Output: 0
 # Explanation: In this example, we are unable to form any pair of strings.
 
-# ---------------------------------------Runtime 49 ms Beats 84.54% Memory 16.2 MB Beats 74.88%---------------------------------------
+# ---------------------------------------Runtime 44 ms Beats  95.29% Memory 16.27 MB Beats 41.49%---------------------------------------
 
 
 from typing import List
@@ -41,6 +41,6 @@ class Solution:
         res = 0
         while words_sets:
             w = words_sets.pop()
-            if w in words_sets:
-                res += 1
+            res += w in words_sets
+
         return res
