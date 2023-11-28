@@ -165,7 +165,9 @@ Try to solve every day!!!
 154. [1684. Count the Number of Consistent Strings](/easy/count-the-number-of-consistent-strings_1684.py)
 155. [28. Find the Index of the First Occurrence in a String](/easy/find-the-index-of-the-first-occurrence-in-a-string_28.py)
 156. [2744. Find Maximum Number of String Pairs](/easy/find-maximum-number-of-string-pairs_2744.py)
-157. []()
+157. [1672. Richest Customer Wealth](/easy/richest-customer-wealth_1672.py)
+158. [2160. Minimum Sum of Four Digit Number After Splitting Digits](/easy/minimum-sum-of-four-digit-number-after-splitting-digits_2160.py)
+159. []()
 
 ### Medium Tasks
 
