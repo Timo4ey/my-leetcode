@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-    - [Easy Tasks](#easy-tasks)
-    - [Medium Tasks](#medium-tasks)
-    - [Hard Tasks](#hard-tasks)
+  - [Easy Tasks](#easy-tasks)
+  - [Medium Tasks](#medium-tasks)
+  - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -169,7 +169,8 @@ Try to solve every day!!!
 158. [2160. Minimum Sum of Four Digit Number After Splitting Digits](/easy/minimum-sum-of-four-digit-number-after-splitting-digits_2160.py)
 159. [448. Find All Numbers Disappeared in an Array](/easy/find-all-numbers-disappeared-in-an-array_448.py)
 160. [191. Number of 1 Bits](/easy/number-of-1-bits_191.py)
-161. []()
+161. [303. Range Sum Query - Immutable](/easy/range-sum-query-immutable_303.py)
+162. []()
 
 ### Medium Tasks
 
