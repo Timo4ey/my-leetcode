@@ -170,7 +170,8 @@ Try to solve every day!!!
 159. [448. Find All Numbers Disappeared in an Array](/easy/find-all-numbers-disappeared-in-an-array_448.py)
 160. [191. Number of 1 Bits](/easy/number-of-1-bits_191.py)
 161. [303. Range Sum Query - Immutable](/easy/range-sum-query-immutable_303.py)
-162. []()
+162. [111. Minimum Depth of Binary Tree](/easy/number-of-1-bits_191.py)
+163. []()
 
 ### Medium Tasks
 
