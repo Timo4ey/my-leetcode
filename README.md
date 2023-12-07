@@ -174,7 +174,8 @@ Try to solve every day!!!
 163. [1160. Find Words That Can Be Formed by Characters](/easy/find-words-that-can-be-formed-by-characters_1160.py)
 164. [2264. Largest 3-Same-Digit Number in String](/easy/largest-3-same-digit-number-in-string_2264.py)
 165. [1688. Count of Matches in Tournament](/easy/count-of-matches-in-tournament_1688.py)
-166. []()
+166. [1903. Largest Odd Number in String](/easy/largest-odd-number-in-string_1903.py)
+167. []()
 
 ### Medium Tasks
 
