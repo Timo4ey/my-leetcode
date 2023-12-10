@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-  - [Easy Tasks](#easy-tasks)
-  - [Medium Tasks](#medium-tasks)
-  - [Hard Tasks](#hard-tasks)
+    - [Easy Tasks](#easy-tasks)
+    - [Medium Tasks](#medium-tasks)
+    - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -175,7 +175,8 @@ Try to solve every day!!!
 164. [2264. Largest 3-Same-Digit Number in String](/easy/largest-3-same-digit-number-in-string_2264.py)
 165. [1688. Count of Matches in Tournament](/easy/count-of-matches-in-tournament_1688.py)
 166. [1903. Largest Odd Number in String](/easy/largest-odd-number-in-string_1903.py)
-167. []()
+167. [867. Transpose Matrix](/easy/transpose-matrix_867.py)
+168. []()
 
 ### Medium Tasks
 
