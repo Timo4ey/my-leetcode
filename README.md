@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-  - [Easy Tasks](#easy-tasks)
-  - [Medium Tasks](#medium-tasks)
-  - [Hard Tasks](#hard-tasks)
+    - [Easy Tasks](#easy-tasks)
+    - [Medium Tasks](#medium-tasks)
+    - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -177,7 +177,8 @@ Try to solve every day!!!
 166. [1903. Largest Odd Number in String](/easy/largest-odd-number-in-string_1903.py)
 167. [867. Transpose Matrix](/easy/transpose-matrix_867.py)
 168. [2206. Divide Array Into Equal Pairs](/easy/divide-array-into-equal-pairs_2206.py)
-169. []()
+169. [1287. Element Appearing More Than 25% In Sorted Array](/easy/element-appearing-more-than-25-in-sorted-array_1287.py)
+170. []()
 
 ### Medium Tasks
 
