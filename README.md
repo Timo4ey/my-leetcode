@@ -178,7 +178,8 @@ Try to solve every day!!!
 167. [867. Transpose Matrix](/easy/transpose-matrix_867.py)
 168. [2206. Divide Array Into Equal Pairs](/easy/divide-array-into-equal-pairs_2206.py)
 169. [1287. Element Appearing More Than 25% In Sorted Array](/easy/element-appearing-more-than-25-in-sorted-array_1287.py)
-170. []()
+170. [1464. Maximum Product of Two Elements in an Array](/easy/maximum-product-of-two-elements-in-an-array_1464.py)
+171. []()
 
 ### Medium Tasks
 
