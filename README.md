@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-    - [Easy Tasks](#easy-tasks)
-    - [Medium Tasks](#medium-tasks)
-    - [Hard Tasks](#hard-tasks)
+  - [Easy Tasks](#easy-tasks)
+  - [Medium Tasks](#medium-tasks)
+  - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -179,7 +179,8 @@ Try to solve every day!!!
 168. [2206. Divide Array Into Equal Pairs](/easy/divide-array-into-equal-pairs_2206.py)
 169. [1287. Element Appearing More Than 25% In Sorted Array](/easy/element-appearing-more-than-25-in-sorted-array_1287.py)
 170. [1464. Maximum Product of Two Elements in an Array](/easy/maximum-product-of-two-elements-in-an-array_1464.py)
-171. []()
+171. [1582. Special Positions in a Binary Matrix](/easy/special-positions-in-a-binary-matrix_1582.py)
+172. []()
 
 ### Medium Tasks
 
