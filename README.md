@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-  - [Easy Tasks](#easy-tasks)
-  - [Medium Tasks](#medium-tasks)
-  - [Hard Tasks](#hard-tasks)
+    - [Easy Tasks](#easy-tasks)
+    - [Medium Tasks](#medium-tasks)
+    - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -269,7 +269,8 @@ Try to solve every day!!!
 83. [1980. Find Unique Binary String](/medium/find-unique-binary-string_1980.py)
 84. [1877. Minimize Maximum Pair Sum in Array](/medium/minimize-maximum-pair-sum-in-array_1877.py)
 85. [53. Maximum Subarray](/medium/maximum-subarray_53.py)
-86. []()
+86. [2482. Difference Between Ones and Zeros in Row and Column](/medium/difference-between-ones-and-zeros-in-row-and-column_2482.py)
+87. []()
 
 ### Hard Tasks
 
