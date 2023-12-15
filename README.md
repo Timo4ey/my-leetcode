@@ -180,7 +180,8 @@ Try to solve every day!!!
 169. [1287. Element Appearing More Than 25% In Sorted Array](/easy/element-appearing-more-than-25-in-sorted-array_1287.py)
 170. [1464. Maximum Product of Two Elements in an Array](/easy/maximum-product-of-two-elements-in-an-array_1464.py)
 171. [1582. Special Positions in a Binary Matrix](/easy/special-positions-in-a-binary-matrix_1582.py)
-172. []()
+172. [1436. Destination City](/easy/destination-city_1436.py)
+173. []()
 
 ### Medium Tasks
 
