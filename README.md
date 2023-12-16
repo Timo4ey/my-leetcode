@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-    - [Easy Tasks](#easy-tasks)
-    - [Medium Tasks](#medium-tasks)
-    - [Hard Tasks](#hard-tasks)
+  - [Easy Tasks](#easy-tasks)
+  - [Medium Tasks](#medium-tasks)
+  - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -181,7 +181,8 @@ Try to solve every day!!!
 170. [1464. Maximum Product of Two Elements in an Array](/easy/maximum-product-of-two-elements-in-an-array_1464.py)
 171. [1582. Special Positions in a Binary Matrix](/easy/special-positions-in-a-binary-matrix_1582.py)
 172. [1436. Destination City](/easy/destination-city_1436.py)
-173. []()
+173. [637. Average of Levels in Binary Tree](/easy/average-of-levels-in-binary-tree_637.py)
+174. []()
 
 ### Medium Tasks
 
