@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-    - [Easy Tasks](#easy-tasks)
-    - [Medium Tasks](#medium-tasks)
-    - [Hard Tasks](#hard-tasks)
+  - [Easy Tasks](#easy-tasks)
+  - [Medium Tasks](#medium-tasks)
+  - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -273,7 +273,8 @@ Try to solve every day!!!
 84. [1877. Minimize Maximum Pair Sum in Array](/medium/minimize-maximum-pair-sum-in-array_1877.py)
 85. [53. Maximum Subarray](/medium/maximum-subarray_53.py)
 86. [2482. Difference Between Ones and Zeros in Row and Column](/medium/difference-between-ones-and-zeros-in-row-and-column_2482.py)
-87. []()
+87. [1557. Minimum Number of Vertices to Reach All Nodes](/medium/minimum-number-of-vertices-to-reach-all-nodes_1557.py)
+88. []()
 
 ### Hard Tasks
 
