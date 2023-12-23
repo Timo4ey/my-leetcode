@@ -185,7 +185,8 @@ Try to solve every day!!!
 174. [1913. Maximum Product Difference Between Two Pairs](/easy/maximum-product-difference-between-two-pairs_1913.py)
 175. [2706. Buy Two Chocolates](/easy/buy-two-chocolates_2706.py)
 176. [653. Two Sum IV - Input is a BST](/easy/two-sum-iv-input-is-a-bst_653.py)
-177. []()
+177. [1496. Path Crossing](/easy/path-crossing_1496.py)
+178. []()
 
 ### Medium Tasks
 
