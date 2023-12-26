@@ -3,9 +3,9 @@
 Try to solve every day!!!
 
 - [My leetcode solutions](#my-leetcode-solutions)
-    - [Easy Tasks](#easy-tasks)
-    - [Medium Tasks](#medium-tasks)
-    - [Hard Tasks](#hard-tasks)
+  - [Easy Tasks](#easy-tasks)
+  - [Medium Tasks](#medium-tasks)
+  - [Hard Tasks](#hard-tasks)
 
 ### Easy Tasks
 
@@ -186,7 +186,8 @@ Try to solve every day!!!
 175. [2706. Buy Two Chocolates](/easy/buy-two-chocolates_2706.py)
 176. [653. Two Sum IV - Input is a BST](/easy/two-sum-iv-input-is-a-bst_653.py)
 177. [1496. Path Crossing](/easy/path-crossing_1496.py)
-178. []()
+178. [2011. Final Value of Variable After Performing Operations](/easy/final-value-of-variable-after-performing-operations_2011.py)
+179. []()
 
 ### Medium Tasks
 
