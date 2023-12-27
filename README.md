@@ -279,7 +279,8 @@ Try to solve every day!!!
 86. [2482. Difference Between Ones and Zeros in Row and Column](/medium/difference-between-ones-and-zeros-in-row-and-column_2482.py)
 87. [1557. Minimum Number of Vertices to Reach All Nodes](/medium/minimum-number-of-vertices-to-reach-all-nodes_1557.py)
 88. [1833. Maximum Ice Cream Bars](/medium/maximum-ice-cream-bars_1833.py)
-89. []()
+89. [1578. Minimum Time to Make Rope Colorful](/medium/minimum-time-to-make-rope-colorful_1578.py)
+90. []()
 
 ### Hard Tasks
 
