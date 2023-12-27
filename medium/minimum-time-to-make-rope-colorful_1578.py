@@ -46,17 +46,17 @@ class Solution:
 
         res = 0
 
-        while left <= right and right < len(colors):
+        while left <= right < len(colors):
             temp_arr: list[int] = []
             if colors[left] == colors[right]:
                 temp_arr.append(neededTime[left])
                 while right < len(colors) and colors[left] == colors[right]:
                     temp_arr.append(neededTime[right])
                     right += 1
-            temp_arr.sort(key=lambda x: x, reverse=True)
-            while len(temp_arr) > 1:
-                t = temp_arr.pop()
-                res += t
+                temp_arr.sort(key=lambda x: x, reverse=True)
+                while len(temp_arr) > 1:
+                    t = temp_arr.pop()
+                    res += t
 
             right += 1
             left = right - 1
