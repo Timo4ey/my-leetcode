@@ -284,6 +284,7 @@ Try to solve every day!!!
 
 ### Hard Tasks
 
-4. [1206. Design Skiplist](hard/design-skiplist_1206.py)
+1. [1206. Design Skiplist](hard/design-skiplist_1206.py)
+2. [1531. String Compression II](/hard/string-compression-ii_1531.py)
 
 to be continue...

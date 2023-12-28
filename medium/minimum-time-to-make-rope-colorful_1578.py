@@ -47,8 +47,8 @@ class Solution:
         res = 0
 
         while left <= right < len(colors):
-            temp_arr: list[int] = []
             if colors[left] == colors[right]:
+                temp_arr: list[int] = []
                 temp_arr.append(neededTime[left])
                 while right < len(colors) and colors[left] == colors[right]:
                     temp_arr.append(neededTime[right])
