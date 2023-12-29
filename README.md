@@ -187,7 +187,8 @@ Try to solve every day!!!
 176. [653. Two Sum IV - Input is a BST](/easy/two-sum-iv-input-is-a-bst_653.py)
 177. [1496. Path Crossing](/easy/path-crossing_1496.py)
 178. [2011. Final Value of Variable After Performing Operations](/easy/final-value-of-variable-after-performing-operations_2011.py)
-179. []()
+179. [2974. Minimum Number Game](/easy/minimum-number-game_2974.py)
+180. []()
 
 ### Medium Tasks
 
