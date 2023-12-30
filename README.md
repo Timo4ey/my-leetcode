@@ -188,7 +188,8 @@ Try to solve every day!!!
 177. [1496. Path Crossing](/easy/path-crossing_1496.py)
 178. [2011. Final Value of Variable After Performing Operations](/easy/final-value-of-variable-after-performing-operations_2011.py)
 179. [2974. Minimum Number Game](/easy/minimum-number-game_2974.py)
-180. []()
+180. [1897. Redistribute Characters to Make All Strings Equal](/easy/redistribute-characters-to-make-all-strings-equal_1897.py)
+181. []()
 
 ### Medium Tasks
 
