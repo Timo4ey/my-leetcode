@@ -190,7 +190,8 @@ Try to solve every day!!!
 179. [2974. Minimum Number Game](/easy/minimum-number-game_2974.py)
 180. [1897. Redistribute Characters to Make All Strings Equal](/easy/redistribute-characters-to-make-all-strings-equal_1897.py)
 181. [455. Assign Cookies](/easy/assign-cookies_455.py)
-182. []()
+182. [2932. Maximum Strong Pair XOR I](/easy/maximum-strong-pair-xor-i_2932.py)
+183. []()
 
 ### Medium Tasks
 
