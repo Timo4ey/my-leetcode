@@ -284,7 +284,8 @@ Try to solve every day!!!
 87. [1557. Minimum Number of Vertices to Reach All Nodes](/medium/minimum-number-of-vertices-to-reach-all-nodes_1557.py)
 88. [1833. Maximum Ice Cream Bars](/medium/maximum-ice-cream-bars_1833.py)
 89. [1578. Minimum Time to Make Rope Colorful](/medium/minimum-time-to-make-rope-colorful_1578.py)
-90. []()
+90. [2870. Minimum Number of Operations to Make Array Empty](/medium/minimum-number-of-operations-to-make-array-empty_2870.py)
+91. []()
 
 ### Hard Tasks
 
