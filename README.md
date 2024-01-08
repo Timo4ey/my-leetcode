@@ -192,7 +192,8 @@ Try to solve every day!!!
 181. [455. Assign Cookies](/easy/assign-cookies_455.py)
 182. [2932. Maximum Strong Pair XOR I](/easy/maximum-strong-pair-xor-i_2932.py)
 183. [938. Range Sum of BST](/easy/range-sum-of-bst_938.py)
-184. []()
+184. [1502. Can Make Arithmetic Progression From Sequence](/easy/can-make-arithmetic-progression-from-sequence_1502.py)
+185. []()
 
 ### Medium Tasks
 
