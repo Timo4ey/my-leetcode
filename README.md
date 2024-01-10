@@ -194,7 +194,8 @@ Try to solve every day!!!
 183. [938. Range Sum of BST](/easy/range-sum-of-bst_938.py)
 184. [1502. Can Make Arithmetic Progression From Sequence](/easy/can-make-arithmetic-progression-from-sequence_1502.py)
 185. [2500. Delete Greatest Value in Each Row](/easy/delete-greatest-value-in-each-row_2500.py)
-186. []()
+186. [2418. Sort the People](/easy/sort-the-people_2418.py)
+187. []()
 
 ### Medium Tasks
 
