@@ -289,7 +289,8 @@ Try to solve every day!!!
 88. [1833. Maximum Ice Cream Bars](/medium/maximum-ice-cream-bars_1833.py)
 89. [1578. Minimum Time to Make Rope Colorful](/medium/minimum-time-to-make-rope-colorful_1578.py)
 90. [2870. Minimum Number of Operations to Make Array Empty](/medium/minimum-number-of-operations-to-make-array-empty_2870.py)
-91. []()
+91. [2487. Remove Nodes From Linked List](/medium/remove-nodes-from-linked-list_2487.py)
+92. []()
 
 ### Hard Tasks
 
