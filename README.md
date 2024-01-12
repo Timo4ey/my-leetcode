@@ -290,7 +290,8 @@ Try to solve every day!!!
 89. [1578. Minimum Time to Make Rope Colorful](/medium/minimum-time-to-make-rope-colorful_1578.py)
 90. [2870. Minimum Number of Operations to Make Array Empty](/medium/minimum-number-of-operations-to-make-array-empty_2870.py)
 91. [2487. Remove Nodes From Linked List](/medium/remove-nodes-from-linked-list_2487.py)
-92. []()
+92. [1026. Maximum Difference Between Node and Ancestor](/medium/maximum-difference-between-node-and-ancestor_1026.py)
+93. []()
 
 ### Hard Tasks
 
