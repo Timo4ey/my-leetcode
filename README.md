@@ -292,7 +292,8 @@ Try to solve every day!!!
 91. [2487. Remove Nodes From Linked List](/medium/remove-nodes-from-linked-list_2487.py)
 92. [1026. Maximum Difference Between Node and Ancestor](/medium/maximum-difference-between-node-and-ancestor_1026.py)
 93. [1347. Minimum Number of Steps to Make Two Strings Anagram](/medium/minimum-number-of-steps-to-make-two-strings-anagram_1347.py)
-94. []()
+94. [2186. Minimum Number of Steps to Make Two Strings Anagram II](/medium/minimum-number-of-steps-to-make-two-strings-anagram-ii_2186.py)
+95. []()
 
 ### Hard Tasks
 
