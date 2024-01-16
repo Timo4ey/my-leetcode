@@ -294,7 +294,8 @@ Try to solve every day!!!
 93. [1347. Minimum Number of Steps to Make Two Strings Anagram](/medium/minimum-number-of-steps-to-make-two-strings-anagram_1347.py)
 94. [2186. Minimum Number of Steps to Make Two Strings Anagram II](/medium/minimum-number-of-steps-to-make-two-strings-anagram-ii_2186.py)
 95. [2225. Find Players With Zero or One Losses](/medium/find-players-with-zero-or-one-losses_2225.py)
-96. []()
+96. [380. Insert Delete GetRandom O(1)](/medium/insert-delete-getrandom-o1_380.py)
+97. []()
 
 ### Hard Tasks
 
