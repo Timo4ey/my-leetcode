@@ -195,7 +195,9 @@ Try to solve every day!!!
 184. [1502. Can Make Arithmetic Progression From Sequence](/easy/can-make-arithmetic-progression-from-sequence_1502.py)
 185. [2500. Delete Greatest Value in Each Row](/easy/delete-greatest-value-in-each-row_2500.py)
 186. [2418. Sort the People](/easy/sort-the-people_2418.py)
-187. []()
+187. [2729. Check if The Number is Fascinating](/easy/2729)
+188. [645. Set Mismatch](/easy/set-mismatch_645.py)
+189. []()
 
 ### Medium Tasks
 
