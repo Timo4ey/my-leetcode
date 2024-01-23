@@ -197,7 +197,8 @@ Try to solve every day!!!
 186. [2418. Sort the People](/easy/sort-the-people_2418.py)
 187. [2729. Check if The Number is Fascinating](/easy/2729)
 188. [645. Set Mismatch](/easy/set-mismatch_645.py)
-189. []()
+189. [2798. Number of Employees Who Met the Target](/easy/number-of-employees-who-met-the-target_2798.py)
+190. []()
 
 ### Medium Tasks
 
