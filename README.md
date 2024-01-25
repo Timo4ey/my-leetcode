@@ -299,7 +299,8 @@ Try to solve every day!!!
 95. [2225. Find Players With Zero or One Losses](/medium/find-players-with-zero-or-one-losses_2225.py)
 96. [380. Insert Delete GetRandom O(1)](/medium/insert-delete-getrandom-o1_380.py)
 97. [931. Minimum Falling Path Sum](/medium/minimum-falling-path-sum_931.py)
-98. []()
+98. [46. Permutations](/medium/permutations_46.py)
+99. []()
 
 ### Hard Tasks
 
