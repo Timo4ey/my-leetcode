@@ -300,7 +300,8 @@ Try to solve every day!!!
 96. [380. Insert Delete GetRandom O(1)](/medium/insert-delete-getrandom-o1_380.py)
 97. [931. Minimum Falling Path Sum](/medium/minimum-falling-path-sum_931.py)
 98. [46. Permutations](/medium/permutations_46.py)
-99. []()
+99. [39. Combination Sum](/medium/combination-sum_39.py)
+100. []()
 
 ### Hard Tasks
 
