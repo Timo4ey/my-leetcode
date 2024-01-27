@@ -301,7 +301,8 @@ Try to solve every day!!!
 97. [931. Minimum Falling Path Sum](/medium/minimum-falling-path-sum_931.py)
 98. [46. Permutations](/medium/permutations_46.py)
 99. [39. Combination Sum](/medium/combination-sum_39.py)
-100. []()
+100. [77. Combinations](/medium/combinations_77.py)
+101. []()
 
 ### Hard Tasks
 
