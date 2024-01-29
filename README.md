@@ -198,7 +198,8 @@ Try to solve every day!!!
 187. [2729. Check if The Number is Fascinating](/easy/2729)
 188. [645. Set Mismatch](/easy/set-mismatch_645.py)
 189. [2798. Number of Employees Who Met the Target](/easy/number-of-employees-who-met-the-target_2798.py)
-190. []()
+190. [232. Implement Queue using Stacks](/easy/implement-queue-using-stacks_232.py)
+191. []()
 
 ### Medium Tasks
 
@@ -302,7 +303,8 @@ Try to solve every day!!!
 98. [46. Permutations](/medium/permutations_46.py)
 99. [39. Combination Sum](/medium/combination-sum_39.py)
 100. [77. Combinations](/medium/combinations_77.py)
-101. []()
+101. [47. Permutations II](/medium/permutations-ii_47.py)
+102. []()
 
 ### Hard Tasks
 
