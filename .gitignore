@@ -5,3 +5,5 @@ temp.js
 src/
 bash.sh
 perm_comb.py
+test/
+venv/

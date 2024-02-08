@@ -200,7 +200,8 @@ Try to solve every day!!!
 189. [2798. Number of Employees Who Met the Target](/easy/number-of-employees-who-met-the-target_2798.py)
 190. [232. Implement Queue using Stacks](/easy/implement-queue-using-stacks_232.py)
 191. [771. Jewels and Stones](/easy/jewels-and-stones_771.py)
-192. []()
+192. [1603. Design Parking System](/easy/design-parking-system_1603.py)
+193. []()
 
 ### Medium Tasks
 
