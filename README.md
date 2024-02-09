@@ -201,7 +201,8 @@ Try to solve every day!!!
 190. [232. Implement Queue using Stacks](/easy/implement-queue-using-stacks_232.py)
 191. [771. Jewels and Stones](/easy/jewels-and-stones_771.py)
 192. [1603. Design Parking System](/easy/design-parking-system_1603.py)
-193. []()
+193. [709. To Lower Case](/easy/to-lower-case_709.py)
+194. []()
 
 ### Medium Tasks
 
