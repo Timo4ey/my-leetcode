@@ -312,7 +312,8 @@ Try to solve every day!!!
 104. [90. Subsets II](/medium/subsets-ii_90.py)
 105. [216. Combination Sum III](/medium/combination-sum-iii_216.py)
 106. [17. Letter Combinations of a Phone Number](/medium/letter-combinations-of-a-phone-number_17.py)
-107. []()
+107. [1472. Design Browser History](/medium/design-browser-history_1472.py)
+108. []()
 
 ### Hard Tasks
 
