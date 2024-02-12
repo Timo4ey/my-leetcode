@@ -313,7 +313,8 @@ Try to solve every day!!!
 105. [216. Combination Sum III](/medium/combination-sum-iii_216.py)
 106. [17. Letter Combinations of a Phone Number](/medium/letter-combinations-of-a-phone-number_17.py)
 107. [1472. Design Browser History](/medium/design-browser-history_1472.py)
-108. []()
+108. [1381. Design a Stack With Increment Operation](/medium/design-a-stack-with-increment-operation_1381.py)
+109. []()
 
 ### Hard Tasks
 
