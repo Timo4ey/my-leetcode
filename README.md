@@ -202,7 +202,8 @@ Try to solve every day!!!
 191. [771. Jewels and Stones](/easy/jewels-and-stones_771.py)
 192. [1603. Design Parking System](/easy/design-parking-system_1603.py)
 193. [709. To Lower Case](/easy/to-lower-case_709.py)
-194. []()
+194. [2108. Find First Palindromic String in the Array](/easy/find-first-palindromic-string-in-the-array_2108.py)
+195. []()
 
 ### Medium Tasks
 
