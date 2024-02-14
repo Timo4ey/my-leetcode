@@ -27,7 +27,7 @@
 # 1 <= words[i].length <= 100
 # words[i] consists only of lowercase English letters.
 
-# ---------------------------------------Runtime 82 ms Beats 79.46% Memory 17.46 MB Beats 84.75%---------------------------------------
+# ---------------------------------------Runtime 77 ms Beats 63.75% Memory 16.34 MB Beats 99.29%---------------------------------------
 
 from typing import List
 
