@@ -203,7 +203,8 @@ Try to solve every day!!!
 192. [1603. Design Parking System](/easy/design-parking-system_1603.py)
 193. [709. To Lower Case](/easy/to-lower-case_709.py)
 194. [2108. Find First Palindromic String in the Array](/easy/find-first-palindromic-string-in-the-array_2108.py)
-195. []()
+195. [2469. Convert the Temperature](/easy/convert-the-temperature_2469.py)
+196. []()
 
 ### Medium Tasks
 
