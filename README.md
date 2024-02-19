@@ -205,7 +205,8 @@ Try to solve every day!!!
 194. [2108. Find First Palindromic String in the Array](/easy/find-first-palindromic-string-in-the-array_2108.py)
 195. [2469. Convert the Temperature](/easy/convert-the-temperature_2469.py)
 196. [1678. Goal Parser Interpretation](/easy/goal-parser-interpretation_1678.py)
-197. []()
+197. [2824. Count Pairs Whose Sum is Less than Target](/easy/count-pairs-whose-sum-is-less-than-target_2824.py)
+198. []()
 
 ### Medium Tasks
 
