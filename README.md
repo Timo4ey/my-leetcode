@@ -207,7 +207,8 @@ Try to solve every day!!!
 196. [1678. Goal Parser Interpretation](/easy/goal-parser-interpretation_1678.py)
 197. [2824. Count Pairs Whose Sum is Less than Target](/easy/count-pairs-whose-sum-is-less-than-target_2824.py)
 198. [222. Count Complete Tree Nodes](/easy/count-complete-tree-nodes_222.py)
-199. []()
+199. [1614. Maximum Nesting Depth of the Parentheses](/easy/maximum-nesting-depth-of-the-parentheses_1614.py)
+200. []()
 
 ### Medium Tasks
 
