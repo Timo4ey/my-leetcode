@@ -208,7 +208,8 @@ Try to solve every day!!!
 197. [2824. Count Pairs Whose Sum is Less than Target](/easy/count-pairs-whose-sum-is-less-than-target_2824.py)
 198. [222. Count Complete Tree Nodes](/easy/count-complete-tree-nodes_222.py)
 199. [1614. Maximum Nesting Depth of the Parentheses](/easy/maximum-nesting-depth-of-the-parentheses_1614.py)
-200. []()
+200. [101. Symmetric Tree](/easy/symmetric-tree_101.py)
+201. []()
 
 ### Medium Tasks
 
