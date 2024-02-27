@@ -209,7 +209,8 @@ Try to solve every day!!!
 198. [222. Count Complete Tree Nodes](/easy/count-complete-tree-nodes_222.py)
 199. [1614. Maximum Nesting Depth of the Parentheses](/easy/maximum-nesting-depth-of-the-parentheses_1614.py)
 200. [101. Symmetric Tree](/easy/symmetric-tree_101.py)
-201. []()
+201. [1816. Truncate Sentence](/easy/truncate-sentence_1816.py)
+202. []()
 
 ### Medium Tasks
 
