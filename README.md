@@ -210,7 +210,8 @@ Try to solve every day!!!
 199. [1614. Maximum Nesting Depth of the Parentheses](/easy/maximum-nesting-depth-of-the-parentheses_1614.py)
 200. [101. Symmetric Tree](/easy/symmetric-tree_101.py)
 201. [1816. Truncate Sentence](/easy/truncate-sentence_1816.py)
-202. []()
+202. [671. Second Minimum Node In a Binary Tree](/easy/second-minimum-node-in-a-binary-tree_671.py)
+203. []()
 
 ### Medium Tasks
 
