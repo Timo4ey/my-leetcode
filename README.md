@@ -211,7 +211,8 @@ Try to solve every day!!!
 200. [101. Symmetric Tree](/easy/symmetric-tree_101.py)
 201. [1816. Truncate Sentence](/easy/truncate-sentence_1816.py)
 202. [671. Second Minimum Node In a Binary Tree](/easy/second-minimum-node-in-a-binary-tree_671.py)
-203. []()
+203. [1920. Build Array from Permutation](/easy/build-array-from-permutation_1920.py)
+204. []()
 
 ### Medium Tasks
 
