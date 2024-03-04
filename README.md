@@ -199,7 +199,9 @@ Try to solve every day!!!
 188. [645. Set Mismatch](/easy/set-mismatch_645.py)
 189. [2798. Number of Employees Who Met the Target](/easy/number-of-employees-who-met-the-target_2798.py)
 190. [232. Implement Queue using Stacks](/easy/implement-queue-using-stacks_232.py)
-191. [771. Jewels and Stones](/easy/jewels-and-stones_771.py)
+191. [771. Jewels and Stones](/easy/jewels-and-stones_771.py)class Solution:
+     def restoreString(self, s: str, indices: List[int]) -> str:
+     return ''.join([s[i] for i in indices])
 192. [1603. Design Parking System](/easy/design-parking-system_1603.py)
 193. [709. To Lower Case](/easy/to-lower-case_709.py)
 194. [2108. Find First Palindromic String in the Array](/easy/find-first-palindromic-string-in-the-array_2108.py)
@@ -212,7 +214,8 @@ Try to solve every day!!!
 201. [1816. Truncate Sentence](/easy/truncate-sentence_1816.py)
 202. [671. Second Minimum Node In a Binary Tree](/easy/second-minimum-node-in-a-binary-tree_671.py)
 203. [1920. Build Array from Permutation](/easy/build-array-from-permutation_1920.py)
-204. []()
+204. [1528. Shuffle String](/easy/shuffle-string_1528.py)
+205. []()
 
 ### Medium Tasks
 
