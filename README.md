@@ -215,7 +215,8 @@ Try to solve every day!!!
 202. [671. Second Minimum Node In a Binary Tree](/easy/second-minimum-node-in-a-binary-tree_671.py)
 203. [1920. Build Array from Permutation](/easy/build-array-from-permutation_1920.py)
 204. [1528. Shuffle String](/easy/shuffle-string_1528.py)
-205. []()
+205. [2652. Sum Multiples](/easy/sum-multiples_2652.py)
+206. []()
 
 ### Medium Tasks
 
