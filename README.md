@@ -216,7 +216,8 @@ Try to solve every day!!!
 203. [1920. Build Array from Permutation](/easy/build-array-from-permutation_1920.py)
 204. [1528. Shuffle String](/easy/shuffle-string_1528.py)
 205. [2652. Sum Multiples](/easy/sum-multiples_2652.py)
-206. []()
+206. [2520. Count the Digits That Divide a Number](/easy/count-the-digits-that-divide-a-number_2520.py)
+207. []()
 
 ### Medium Tasks
 
