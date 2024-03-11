@@ -218,7 +218,8 @@ Try to solve every day!!!
 205. [2652. Sum Multiples](/easy/sum-multiples_2652.py)
 206. [2520. Count the Digits That Divide a Number](/easy/count-the-digits-that-divide-a-number_2520.py)
 207. [3005. Count Elements With Maximum Frequency](/easy/count-elements-with-maximum-frequency_3005.py)
-208. []()
+208. [258. Add Digits](/easy/add-digits_258.py)
+209. []()
 
 ### Medium Tasks
 
