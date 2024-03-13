@@ -220,7 +220,8 @@ Try to solve every day!!!
 207. [3005. Count Elements With Maximum Frequency](/easy/count-elements-with-maximum-frequency_3005.py)
 208. [258. Add Digits](/easy/add-digits_258.py)
 209. [404. Sum of Left Leaves](/easy/sum-of-left-leaves_404.py)
-210. []()
+210. [1967. Number of Strings That Appear as Substrings in Word](/easy/number-of-strings-that-appear-as-substrings-in-word_1967.py)
+211. []()
 
 ### Medium Tasks
 
