@@ -222,7 +222,8 @@ Try to solve every day!!!
 209. [404. Sum of Left Leaves](/easy/sum-of-left-leaves_404.py)
 210. [1967. Number of Strings That Appear as Substrings in Word](/easy/number-of-strings-that-appear-as-substrings-in-word_1967.py)
 211. [2236. Root Equals Sum of Children](/easy/root-equals-sum-of-children_2236.py)
-212. []()
+212. [2535. Difference Between Element Sum and Digit Sum of an Array](/easy/difference-between-element-sum-and-digit-sum-of-an-array_2535.py)
+213. []()
 
 ### Medium Tasks
 
