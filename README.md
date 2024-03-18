@@ -224,7 +224,8 @@ Try to solve every day!!!
 211. [2236. Root Equals Sum of Children](/easy/root-equals-sum-of-children_2236.py)
 212. [2535. Difference Between Element Sum and Digit Sum of an Array](/easy/difference-between-element-sum-and-digit-sum-of-an-array_2535.py)
 213. [2828. Check if a String Is an Acronym of Words](/easy/check-if-a-string-is-an-acronym-of-words_2828.py)
-214. []()
+214. [2553. Separate the Digits in an Array](/easy/separate-the-digits-in-an-array_2553.py)
+215. []()
 
 ### Medium Tasks
 
