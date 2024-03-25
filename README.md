@@ -343,7 +343,8 @@ Try to solve every day!!!
 110. [2545. Sort the Students by Their Kth Score](/medium/sort-the-students-by-their-kth-score_2545.py)
 111. [1305. All Elements in Two Binary Search Trees](/medium/all-elements-in-two-binary-search-trees_1305.py)
 112. [1669. Merge In Between Linked Lists](/medium/merge-in-between-linked-lists_1669.py)
-113. []()
+113. [442. Find All Duplicates in an Array](/medium/find-all-duplicates-in-an-array_442.py)
+114. []()
 
 ### Hard Tasks
 
