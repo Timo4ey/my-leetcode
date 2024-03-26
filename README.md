@@ -227,7 +227,8 @@ Try to solve every day!!!
 214. [2553. Separate the Digits in an Array](/easy/separate-the-digits-in-an-array_2553.py)
 215. [2710. Remove Trailing Zeros From a String](/easy/remove-trailing-zeros-from-a-string_2710.py)
 216. [1991. Find the Middle Index in Array](/easy/find-words-containing-character_1991.py)
-217. []()
+217. [1281. Subtract the Product and Sum of Digits of an Integer](/easy/subtract-the-product-and-sum-of-digits-of-an-integer_1281.py)
+218. []()
 
 ### Medium Tasks
 
