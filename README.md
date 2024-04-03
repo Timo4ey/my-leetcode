@@ -230,7 +230,8 @@ Try to solve every day!!!
 217. [1281. Subtract the Product and Sum of Digits of an Integer](/easy/subtract-the-product-and-sum-of-digits-of-an-integer_1281.py)
 218. [2114. Maximum Number of Words Found in Sentences](/easy/maximum-number-of-words-found-in-sentences_2114.py)
 219. [2000. Reverse Prefix of Word](/easy/everse-prefix-of-word_2000.py)
-220. []()
+220. [2788. Split Strings by Separator](/easy/split-strings-by-separator_2788.py)
+221. []()
 
 ### Medium Tasks
 
