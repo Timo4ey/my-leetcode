@@ -231,7 +231,8 @@ Try to solve every day!!!
 218. [2114. Maximum Number of Words Found in Sentences](/easy/maximum-number-of-words-found-in-sentences_2114.py)
 219. [2000. Reverse Prefix of Word](/easy/everse-prefix-of-word_2000.py)
 220. [2788. Split Strings by Separator](/easy/split-strings-by-separator_2788.py)
-221. []()
+221. [2363. Merge Similar Items](/easy/merge-similar-items_2363.py)
+222. []()
 
 ### Medium Tasks
 
