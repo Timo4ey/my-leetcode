@@ -30,25 +30,24 @@
 # Input: s = "s"
 # Output: "s"
 
-# ---------------------------------------Runtime 53 ms Beats 19.18% Memory 16.3 MB Beats 19.68%---------------------------------------
+# ---------------------------------------Runtime 40 ms Beats 43.60% Memory 16.55 MB Beats 48.83%---------------------------------------
 # Type: Stack
 
 
 # My solution
 class Solution:
     def makeGood(self, s: str) -> str:
-        stack = list(s)
-        i, j = 0, 1
-        while j <= len(stack) - 1:
-            if (stack[i].isupper() and stack[i].lower() == stack[j]) or (
-                stack[j].isupper() and stack[i] == stack[j].lower()
-            ):
-                stack.pop(i)
-                stack.pop(i)
-                if i:
+        res = list(s)
+        i = 0
+
+        while i < len(res) - 1 and res:
+            if res[i].lower() == res[i + 1].lower() and res[i] != res[i + 1]:
+
+                res.pop(i)
+                res.pop(i)
+                if i - 1 >= 0:
                     i -= 1
-                    j -= 1
             else:
                 i += 1
-                j += 1
-        return "".join(stack)
+
+        return "".join(res)
