@@ -232,7 +232,8 @@ Try to solve every day!!!
 219. [2000. Reverse Prefix of Word](/easy/everse-prefix-of-word_2000.py)
 220. [2788. Split Strings by Separator](/easy/split-strings-by-separator_2788.py)
 221. [2363. Merge Similar Items](/easy/merge-similar-items_2363.py)
-222. []()
+222. [1450. Number of Students Doing Homework at a Given Time](/easy/number-of-students-doing-homework-at-a-given-time_1450.py)
+223. []()
 
 ### Medium Tasks
 
