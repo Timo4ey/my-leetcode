@@ -233,7 +233,8 @@ Try to solve every day!!!
 220. [2788. Split Strings by Separator](/easy/split-strings-by-separator_2788.py)
 221. [2363. Merge Similar Items](/easy/merge-similar-items_2363.py)
 222. [1450. Number of Students Doing Homework at a Given Time](/easy/number-of-students-doing-homework-at-a-given-time_1450.py)
-223. []()
+223. [1051. Height Checker](/easy/height-checker_1051.py)
+224. []()
 
 ### Medium Tasks
 
