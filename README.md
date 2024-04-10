@@ -235,7 +235,8 @@ Try to solve every day!!!
 222. [1450. Number of Students Doing Homework at a Given Time](/easy/number-of-students-doing-homework-at-a-given-time_1450.py)
 223. [1051. Height Checker](/easy/height-checker_1051.py)
 224. [2073. Time Needed to Buy Tickets](/easy/time-needed-to-buy-tickets_2073.py)
-225. []()
+225. [1022. Sum of Root To Leaf Binary Numbers](/easy/sum-of-root-to-leaf-binary-numbers_1022.py)
+226. []()
 
 ### Medium Tasks
 
