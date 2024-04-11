@@ -236,7 +236,8 @@ Try to solve every day!!!
 223. [1051. Height Checker](/easy/height-checker_1051.py)
 224. [2073. Time Needed to Buy Tickets](/easy/time-needed-to-buy-tickets_2073.py)
 225. [1022. Sum of Root To Leaf Binary Numbers](/easy/sum-of-root-to-leaf-binary-numbers_1022.py)
-226. []()
+226. [1470. Shuffle the Array](/easy/shuffle-the-array_1470.py)
+227. []()
 
 ### Medium Tasks
 
