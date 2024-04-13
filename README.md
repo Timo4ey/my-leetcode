@@ -237,7 +237,8 @@ Try to solve every day!!!
 224. [2073. Time Needed to Buy Tickets](/easy/time-needed-to-buy-tickets_2073.py)
 225. [1022. Sum of Root To Leaf Binary Numbers](/easy/sum-of-root-to-leaf-binary-numbers_1022.py)
 226. [1470. Shuffle the Array](/easy/shuffle-the-array_1470.py)
-227. []()
+227. [67. Add Binary](/easy/add-binary_67.py)
+228. []()
 
 ### Medium Tasks
 
