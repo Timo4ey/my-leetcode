@@ -356,7 +356,8 @@ Try to solve every day!!!
 111. [1305. All Elements in Two Binary Search Trees](/medium/all-elements-in-two-binary-search-trees_1305.py)
 112. [1669. Merge In Between Linked Lists](/medium/merge-in-between-linked-lists_1669.py)
 113. [442. Find All Duplicates in an Array](/medium/find-all-duplicates-in-an-array_442.py)
-114. []()
+114. [129. Sum Root to Leaf Numbers](/medium/sum-root-to-leaf-numbers_129.py)
+115. []()
 
 ### Hard Tasks
 
