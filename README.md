@@ -239,7 +239,8 @@ Try to solve every day!!!
 226. [1470. Shuffle the Array](/easy/shuffle-the-array_1470.py)
 227. [67. Add Binary](/easy/add-binary_67.py)
 228. [3110. Score of a String](/easy/score-of-a-string_3110.py)
-229. []()
+229. [1773. Count Items Matching a Rule](/easy/count-items-matching-a-rule_1773.py)
+230. []()
 
 ### Medium Tasks
 
