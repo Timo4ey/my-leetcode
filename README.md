@@ -242,7 +242,8 @@ Try to solve every day!!!
 229. [1773. Count Items Matching a Rule](/easy/count-items-matching-a-rule_1773.py)
 230. [2325. Decode the Message](/easy/decode-the-message_2325.py)
 231. [1844. Replace All Digits with Characters](/easy/replace-all-digits-with-characters_1844.py)
-232. []()
+232. [1588. Sum of All Odd Length Subarrays](/easy/sum-of-all-odd-length-subarray_1588.py)
+233. []()
 
 ### Medium Tasks
 
