@@ -243,7 +243,8 @@ Try to solve every day!!!
 230. [2325. Decode the Message](/easy/decode-the-message_2325.py)
 231. [1844. Replace All Digits with Characters](/easy/replace-all-digits-with-characters_1844.py)
 232. [1588. Sum of All Odd Length Subarrays](/easy/sum-of-all-odd-length-subarray_1588.py)
-233. []()
+233. [1137. N-th Tribonacci Number](/easy/n-th-tribonacci-number_1137.py)
+234. []()
 
 ### Medium Tasks
 
