@@ -244,7 +244,8 @@ Try to solve every day!!!
 233. [1137. N-th Tribonacci Number](/easy/n-th-tribonacci-number_1137.py)
 234. [2956. Find Common Elements Between Two Arrays](/easy/find-common-elements-between-two-arrays_2956.py)
 235. [3120. Count the Number of Special Characters I](/easy/count-the-number-of-special-characters-i_3120.py)
-236. []()
+236. [3046. Split the Array](/easy/split-the-array_3046.py)
+237. []()
 
 ### Medium Tasks
 
