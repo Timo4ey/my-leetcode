@@ -247,7 +247,8 @@ Try to solve every day!!!
 236. [3046. Split the Array](/easy/split-the-array_3046.py)
 237. [1389. Create Target Array in the Given Order](/easy/create-target-array-in-the-given-order_1389.py)
 238. [1863. Sum of All Subset XOR Totals](/easy/sum-of-all-subset-xor-totals_1863.py)
-239. []()
+239. [2441. Largest Positive Integer That Exists With Its Negative](/easy/largest-positive-integer-that-exists-with-its-negative_2441.py)
+240. []()
 
 ### Medium Tasks
 
