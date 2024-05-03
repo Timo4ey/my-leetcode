@@ -370,7 +370,8 @@ Try to solve every day!!!
 115. [988. Smallest String Starting From Leaf](/medium/smallest-string-starting-from-leaf_988.py)
 116. [1282. Group the People Given the Group Size They Belong To](/medium/group-the-people-given-the-group-size-they-belong-to_1282.py)
 117. [2265. Count Nodes Equal to Average of Subtree](/medium/count-nodes-equal-to-average-of-subtree_2265.py)
-118. []()
+118. [165. Compare Version Numbers](/medium/compare-version-numbers_165.py)
+119. []()
 
 ### Hard Tasks
 
