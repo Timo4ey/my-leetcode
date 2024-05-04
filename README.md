@@ -371,7 +371,8 @@ Try to solve every day!!!
 116. [1282. Group the People Given the Group Size They Belong To](/medium/group-the-people-given-the-group-size-they-belong-to_1282.py)
 117. [2265. Count Nodes Equal to Average of Subtree](/medium/count-nodes-equal-to-average-of-subtree_2265.py)
 118. [165. Compare Version Numbers](/medium/compare-version-numbers_165.py)
-119. []()
+119. [881. Boats to Save People](/medium/boats-to-save-people_881.py)
+120. []()
 
 ### Hard Tasks
 
