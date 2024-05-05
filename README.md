@@ -249,7 +249,8 @@ Try to solve every day!!!
 238. [1863. Sum of All Subset XOR Totals](/easy/sum-of-all-subset-xor-totals_1863.py)
 239. [2441. Largest Positive Integer That Exists With Its Negative](/easy/largest-positive-integer-that-exists-with-its-negative_2441.py)
 240. [3131. Find the Integer Added to Array I](/easy/find-the-integer-added-to-array-i_3131.py)
-241. []()
+241. [3136. Valid Word](/easy/valid-word_3136.py)
+242. []()
 
 ### Medium Tasks
 
