@@ -373,7 +373,8 @@ Try to solve every day!!!
 117. [2265. Count Nodes Equal to Average of Subtree](/medium/count-nodes-equal-to-average-of-subtree_2265.py)
 118. [165. Compare Version Numbers](/medium/compare-version-numbers_165.py)
 119. [881. Boats to Save People](/medium/boats-to-save-people_881.py)
-120. []()
+120. [2816. Double a Number Represented as a Linked List](/medium/double-a-number-represented-as-a-linked-list_2816.py)
+121. []()
 
 ### Hard Tasks
 
