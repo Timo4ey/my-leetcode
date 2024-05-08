@@ -250,7 +250,8 @@ Try to solve every day!!!
 239. [2441. Largest Positive Integer That Exists With Its Negative](/easy/largest-positive-integer-that-exists-with-its-negative_2441.py)
 240. [3131. Find the Integer Added to Array I](/easy/find-the-integer-added-to-array-i_3131.py)
 241. [3136. Valid Word](/easy/valid-word_3136.py)
-242. []()
+242. [506. Relative Ranks](/easy/relative-ranks_506.py)
+243. []()
 
 ### Medium Tasks
 
