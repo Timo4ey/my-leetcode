@@ -375,7 +375,8 @@ Try to solve every day!!!
 118. [165. Compare Version Numbers](/medium/compare-version-numbers_165.py)
 119. [881. Boats to Save People](/medium/boats-to-save-people_881.py)
 120. [2816. Double a Number Represented as a Linked List](/medium/double-a-number-represented-as-a-linked-list_2816.py)
-121. []()
+121. [3075. Maximize Happiness of Selected Children](/medium/maximize-happiness-of-selected-children_3075.py)
+122. []()
 
 ### Hard Tasks
 
