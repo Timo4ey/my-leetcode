@@ -251,7 +251,8 @@ Try to solve every day!!!
 240. [3131. Find the Integer Added to Array I](/easy/find-the-integer-added-to-array-i_3131.py)
 241. [3136. Valid Word](/easy/valid-word_3136.py)
 242. [506. Relative Ranks](/easy/relative-ranks_506.py)
-243. []()
+243. [3146. Permutation Difference between Two Strings](/easy/permutation-difference-between-two-strings_3146.py)
+244. []()
 
 ### Medium Tasks
 
@@ -377,6 +378,7 @@ Try to solve every day!!!
 120. [2816. Double a Number Represented as a Linked List](/medium/double-a-number-represented-as-a-linked-list_2816.py)
 121. [3075. Maximize Happiness of Selected Children](/medium/maximize-happiness-of-selected-children_3075.py)
 122. []()
+123. []()
 
 ### Hard Tasks
 
