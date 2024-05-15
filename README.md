@@ -253,7 +253,8 @@ Try to solve every day!!!
 242. [506. Relative Ranks](/easy/relative-ranks_506.py)
 243. [3146. Permutation Difference between Two Strings](/easy/permutation-difference-between-two-strings_3146.py)
 244. [3099. Harshad Number](/easy/harshad-number_3099.py)
-245. []()
+245. [2913. Subarrays Distinct Element Sum of Squares I](/easy/subarrays-distinct-element-sum-of-squares-i_2913.py)
+246. []()
 
 ### Medium Tasks
 
