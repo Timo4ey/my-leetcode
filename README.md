@@ -254,7 +254,8 @@ Try to solve every day!!!
 243. [3146. Permutation Difference between Two Strings](/easy/permutation-difference-between-two-strings_3146.py)
 244. [3099. Harshad Number](/easy/harshad-number_3099.py)
 245. [2913. Subarrays Distinct Element Sum of Squares I](/easy/subarrays-distinct-element-sum-of-squares-i_2913.py)
-246. []()
+246. [2331. Evaluate Boolean Binary Tree](/easy/evaluate-boolean-binary-tree_2331.py)
+247. []()
 
 ### Medium Tasks
 
