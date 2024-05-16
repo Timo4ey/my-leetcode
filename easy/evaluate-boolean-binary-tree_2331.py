@@ -55,15 +55,11 @@ class Solution:
     def evaluateTree(self, root: Optional[TreeNode]) -> bool:
         operations = {2: lambda x, y: x or y, 3: lambda x, y: x and y}
 
-        def dfs(node: Optional[TreeNode]) -> int:
+        def dfs(node: Optional[TreeNode]):
             if node:
-                if not node.left and not node.right:
+                if node.left is None and node.right is None:
                     return node.val
-                if node.left:
-                    predicate_left = dfs(node.left)
-                if node.right:
-                    predicate_right = dfs(node.right)
-                return operations[node.val](predicate_left, predicate_right)
+                return operations[node.val](dfs(node.left), dfs(node.right))
             return 0
 
         return dfs(root)
