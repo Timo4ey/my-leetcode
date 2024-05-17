@@ -380,7 +380,7 @@ Try to solve every day!!!
 119. [881. Boats to Save People](/medium/boats-to-save-people_881.py)
 120. [2816. Double a Number Represented as a Linked List](/medium/double-a-number-represented-as-a-linked-list_2816.py)
 121. [3075. Maximize Happiness of Selected Children](/medium/maximize-happiness-of-selected-children_3075.py)
-122. []()
+122. [1325. Delete Leaves With a Given Value](/medium/delete-leaves-with-a-given-value_1325.py)
 123. []()
 
 ### Hard Tasks
