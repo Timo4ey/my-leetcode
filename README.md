@@ -255,7 +255,8 @@ Try to solve every day!!!
 244. [3099. Harshad Number](/easy/harshad-number_3099.py)
 245. [2913. Subarrays Distinct Element Sum of Squares I](/easy/subarrays-distinct-element-sum-of-squares-i_2913.py)
 246. [2331. Evaluate Boolean Binary Tree](/easy/evaluate-boolean-binary-tree_2331.py)
-247. []()
+247. [112. Path Sum](/easy/path-sum_112.py)
+248. []()
 
 ### Medium Tasks
 
