@@ -256,7 +256,8 @@ Try to solve every day!!!
 245. [2913. Subarrays Distinct Element Sum of Squares I](/easy/subarrays-distinct-element-sum-of-squares-i_2913.py)
 246. [2331. Evaluate Boolean Binary Tree](/easy/evaluate-boolean-binary-tree_2331.py)
 247. [112. Path Sum](/easy/path-sum_112.py)
-248. []()
+248. [3151. Special Array I](/easy/special-array-i_3151.py)
+249. []()
 
 ### Medium Tasks
 
