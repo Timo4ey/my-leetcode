@@ -257,7 +257,8 @@ Try to solve every day!!!
 246. [2331. Evaluate Boolean Binary Tree](/easy/evaluate-boolean-binary-tree_2331.py)
 247. [112. Path Sum](/easy/path-sum_112.py)
 248. [3151. Special Array I](/easy/special-array-i_3151.py)
-249. []()
+249. [3033. Modify the Matrix](/easy/modify-the-matrix_3033.py)
+250. []()
 
 ### Medium Tasks
 
