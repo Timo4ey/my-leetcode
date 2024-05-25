@@ -258,7 +258,8 @@ Try to solve every day!!!
 247. [112. Path Sum](/easy/path-sum_112.py)
 248. [3151. Special Array I](/easy/special-array-i_3151.py)
 249. [3033. Modify the Matrix](/easy/modify-the-matrix_3033.py)
-250. []()
+250. [3114. Latest Time You Can Obtain After Replacing Characters](/easy/latest-time-you-can-obtain-after-replacing-characters_3114.py)
+251. []()
 
 ### Medium Tasks
 
