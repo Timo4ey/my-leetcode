@@ -262,7 +262,8 @@ Try to solve every day!!!
 251. [412. Fizz Buzz](/easy/fizz-buzz_412.py)
 252. [1608. Special Array With X Elements Greater Than or Equal X](/easy/special-array-with-x-elements-greater-than-or-equal-x_1608.py)
 253. [405. Convert a Number to Hexadecimal](/easy/convert-a-number-to-hexadecimal_405.py)
-254. []()
+254. [414. Third Maximum Number](/easy/third-maximum-number_414.py)
+255. []()
 
 ### Medium Tasks
 
