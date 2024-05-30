@@ -263,7 +263,8 @@ Try to solve every day!!!
 252. [1608. Special Array With X Elements Greater Than or Equal X](/easy/special-array-with-x-elements-greater-than-or-equal-x_1608.py)
 253. [405. Convert a Number to Hexadecimal](/easy/convert-a-number-to-hexadecimal_405.py)
 254. [414. Third Maximum Number](/easy/third-maximum-number_414.py)
-255. []()
+255. [3162. Find the Number of Good Pairs I](/easy/find-the-number-of-good-pairs-i_3162.py)
+256. []()
 
 ### Medium Tasks
 
