@@ -265,6 +265,7 @@ Try to solve every day!!!
 254. [414. Third Maximum Number](/easy/third-maximum-number_414.py)
 255. [3162. Find the Number of Good Pairs I](/easy/find-the-number-of-good-pairs-i_3162.py)
 256. []()
+257. []()
 
 ### Medium Tasks
 
@@ -390,7 +391,9 @@ Try to solve every day!!!
 120. [2816. Double a Number Represented as a Linked List](/medium/double-a-number-represented-as-a-linked-list_2816.py)
 121. [3075. Maximize Happiness of Selected Children](/medium/maximize-happiness-of-selected-children_3075.py)
 122. [1325. Delete Leaves With a Given Value](/medium/delete-leaves-with-a-given-value_1325.py)
+123. [260. Single Number III](/medium/single-number-iii_260.py)
 123. []()
+
 
 ### Hard Tasks
 
