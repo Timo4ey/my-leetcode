@@ -264,7 +264,7 @@ Try to solve every day!!!
 253. [405. Convert a Number to Hexadecimal](/easy/convert-a-number-to-hexadecimal_405.py)
 254. [414. Third Maximum Number](/easy/third-maximum-number_414.py)
 255. [3162. Find the Number of Good Pairs I](/easy/find-the-number-of-good-pairs-i_3162.py)
-256. []()
+256. [145. Binary Tree Postorder Traversal](/easy/binary-tree-postorder-traversal_145.py)
 257. []()
 
 ### Medium Tasks
@@ -392,8 +392,7 @@ Try to solve every day!!!
 121. [3075. Maximize Happiness of Selected Children](/medium/maximize-happiness-of-selected-children_3075.py)
 122. [1325. Delete Leaves With a Given Value](/medium/delete-leaves-with-a-given-value_1325.py)
 123. [260. Single Number III](/medium/single-number-iii_260.py)
-123. []()
-
+124. []()
 
 ### Hard Tasks
 
