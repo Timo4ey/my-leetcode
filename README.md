@@ -266,7 +266,8 @@ Try to solve every day!!!
 255. [3162. Find the Number of Good Pairs I](/easy/find-the-number-of-good-pairs-i_3162.py)
 256. [145. Binary Tree Postorder Traversal](/easy/binary-tree-postorder-traversal_145.py)
 257. [3168. Minimum Number of Chairs in a Waiting Room](/easy/minimum-number-of-chairs-in-a-waiting-room_3168.py)
-258. []()
+258. [1002. Find Common Characters](/easy/find-common-characters_1002.py)
+259. []()
 
 ### Medium Tasks
 
