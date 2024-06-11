@@ -268,7 +268,8 @@ Try to solve every day!!!
 257. [3168. Minimum Number of Chairs in a Waiting Room](/easy/minimum-number-of-chairs-in-a-waiting-room_3168.py)
 258. [1002. Find Common Characters](/easy/find-common-characters_1002.py)
 259. [3174. Clear Digits](/easy/clear-digits_3174.py)
-260. []()
+260. [1122. Relative Sort Array](/easy/clear-digits_3174.py)
+261. []()
 
 ### Medium Tasks
 
