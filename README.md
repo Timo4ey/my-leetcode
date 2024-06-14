@@ -269,7 +269,8 @@ Try to solve every day!!!
 258. [1002. Find Common Characters](/easy/find-common-characters_1002.py)
 259. [3174. Clear Digits](/easy/clear-digits_3174.py)
 260. [1122. Relative Sort Array](/easy/clear-digits_3174.py)
-261. []()
+261. [257. Binary Tree Paths](/easy/binary-tree-paths_257.py)
+262. []()
 
 ### Medium Tasks
 
