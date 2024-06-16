@@ -270,7 +270,8 @@ Try to solve every day!!!
 259. [3174. Clear Digits](/easy/clear-digits_3174.py)
 260. [1122. Relative Sort Array](/easy/clear-digits_3174.py)
 261. [257. Binary Tree Paths](/easy/binary-tree-paths_257.py)
-262. []()
+262. [728. Self Dividing Numbers](/easy/self-dividing-numbers_728.py)
+263. []()
 
 ### Medium Tasks
 
