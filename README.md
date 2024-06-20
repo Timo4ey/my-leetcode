@@ -271,7 +271,8 @@ Try to solve every day!!!
 260. [1122. Relative Sort Array](/easy/clear-digits_3174.py)
 261. [257. Binary Tree Paths](/easy/binary-tree-paths_257.py)
 262. [728. Self Dividing Numbers](/easy/self-dividing-numbers_728.py)
-263. []()
+263. [3184. Count Pairs That Form a Complete Day I](/easy/count-pairs-that-form-a-complete-day-i_3184.py)
+264. []()
 
 ### Medium Tasks
 
