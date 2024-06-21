@@ -272,7 +272,8 @@ Try to solve every day!!!
 261. [257. Binary Tree Paths](/easy/binary-tree-paths_257.py)
 262. [728. Self Dividing Numbers](/easy/self-dividing-numbers_728.py)
 263. [3184. Count Pairs That Form a Complete Day I](/easy/count-pairs-that-form-a-complete-day-i_3184.py)
-264. []()
+264. [2423. Remove Letter To Equalize Frequency](/easy/remove-letter-to-equalize-frequency_2432.py)
+265. []()
 
 ### Medium Tasks
 
