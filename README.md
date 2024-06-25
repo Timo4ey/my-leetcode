@@ -273,7 +273,8 @@ Try to solve every day!!!
 262. [728. Self Dividing Numbers](/easy/self-dividing-numbers_728.py)
 263. [3184. Count Pairs That Form a Complete Day I](/easy/count-pairs-that-form-a-complete-day-i_3184.py)
 264. [2423. Remove Letter To Equalize Frequency](/easy/remove-letter-to-equalize-frequency_2432.py)
-265. []()
+265. [2006. Count Number of Pairs With Absolute Difference K](/easy/count-number-of-pairs-with-absolute-difference-k_2006.py)
+266. []()
 
 ### Medium Tasks
 
