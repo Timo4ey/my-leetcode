@@ -274,7 +274,8 @@ Try to solve every day!!!
 263. [3184. Count Pairs That Form a Complete Day I](/easy/count-pairs-that-form-a-complete-day-i_3184.py)
 264. [2423. Remove Letter To Equalize Frequency](/easy/remove-letter-to-equalize-frequency_2432.py)
 265. [2006. Count Number of Pairs With Absolute Difference K](/easy/count-number-of-pairs-with-absolute-difference-k_2006.py)
-266. []()
+266. [3190. Find Minimum Operations to Make All Elements Divisible by Three](/easy/find-minimum-operations-to-make-all-elements-divisible-by-three_3190.py)
+267. []()
 
 ### Medium Tasks
 
