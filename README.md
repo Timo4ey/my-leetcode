@@ -276,7 +276,8 @@ Try to solve every day!!!
 265. [2006. Count Number of Pairs With Absolute Difference K](/easy/count-number-of-pairs-with-absolute-difference-k_2006.py)
 266. [3190. Find Minimum Operations to Make All Elements Divisible by Three](/easy/find-minimum-operations-to-make-all-elements-divisible-by-three_3190.py)
 267. [1805. Number of Different Integers in a String](/easy/number-of-different-integers-in-a-string_1805.py)
-268. []()
+268. [1550. Three Consecutive Odds](/easy/three-consecutive-odds_1550.py)
+269. []()
 
 ### Medium Tasks
 
