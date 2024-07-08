@@ -42,7 +42,7 @@
 # Could you solve this problem in linear time with constant space?
 
 
-# ---------------------------------------Runtime 254 ms Beats 7.02% Memory 16.61 MB Beats 18.56%---------------------------------------
+# ---------------------------------------Runtime 241 ms Beats 8.01% Memory 16.57 MB Beats 49.47%---------------------------------------
 
 
 class Solution:
@@ -54,12 +54,11 @@ class Solution:
 
     def findTheWinner(self, n: int, k: int) -> int:
         friends = list(range(1, n + 1))
-        items = n
         i = 0
-        while items > 1:
-            i = self.to_next_friend(items, i, k)
+        while n > 1:
+            i = self.to_next_friend(n, i, k)
             friends.pop(i)
-            items = len(friends)
-            i = items and i % items or 0
+            n = len(friends)
+            i = n and i % n or 0
 
         return friends[i]
