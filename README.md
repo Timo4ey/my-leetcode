@@ -405,7 +405,8 @@ Try to solve every day!!!
 122. [1325. Delete Leaves With a Given Value](/medium/delete-leaves-with-a-given-value_1325.py)
 123. [260. Single Number III](/medium/single-number-iii_260.py)
 124. [75. Sort Colors](/medium/sort-colors_75.py)
-125. []()
+125. [1823. Find the Winner of the Circular Game](/medium/find-the-winner-of-the-circular-game_1823.py)
+126. []()
 
 ### Hard Tasks
 
