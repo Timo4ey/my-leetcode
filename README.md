@@ -277,7 +277,8 @@ Try to solve every day!!!
 266. [3190. Find Minimum Operations to Make All Elements Divisible by Three](/easy/find-minimum-operations-to-make-all-elements-divisible-by-three_3190.py)
 267. [1805. Number of Different Integers in a String](/easy/number-of-different-integers-in-a-string_1805.py)
 268. [1550. Three Consecutive Odds](/easy/three-consecutive-odds_1550.py)
-269. []()
+269. [1598. Crawler Log Folder](/easy/crawler-log-folder_1598.py)
+270. []()
 
 ### Medium Tasks
 
