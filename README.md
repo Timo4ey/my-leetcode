@@ -278,7 +278,8 @@ Try to solve every day!!!
 267. [1805. Number of Different Integers in a String](/easy/number-of-different-integers-in-a-string_1805.py)
 268. [1550. Three Consecutive Odds](/easy/three-consecutive-odds_1550.py)
 269. [1598. Crawler Log Folder](/easy/crawler-log-folder_1598.py)
-270. []()
+270. [1909. Remove One Element to Make the Array Strictly Increasing](/easy/remove-one-element-to-make-the-array-strictly-increasing_1909.py)
+271. []()
 
 ### Medium Tasks
 
