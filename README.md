@@ -279,7 +279,8 @@ Try to solve every day!!!
 268. [1550. Three Consecutive Odds](/easy/three-consecutive-odds_1550.py)
 269. [1598. Crawler Log Folder](/easy/crawler-log-folder_1598.py)
 270. [1909. Remove One Element to Make the Array Strictly Increasing](/easy/remove-one-element-to-make-the-array-strictly-increasing_1909.py)
-271. []()
+271. [925. Long Pressed Name](/easy/long-pressed-name_925.py)
+272. []()
 
 ### Medium Tasks
 
