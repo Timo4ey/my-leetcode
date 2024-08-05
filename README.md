@@ -280,7 +280,10 @@ Try to solve every day!!!
 269. [1598. Crawler Log Folder](/easy/crawler-log-folder_1598.py)
 270. [1909. Remove One Element to Make the Array Strictly Increasing](/easy/remove-one-element-to-make-the-array-strictly-increasing_1909.py)
 271. [925. Long Pressed Name](/easy/long-pressed-name_925.py)
-272. []()
+272. [3216. Lexicographically Smallest String After a Swap](/easy/lexicographically-smallest-string-after-a-swap_3216.py)
+273. [2678. Number of Senior Citizens](/easy/number-of-senior-citizens_2678.py)
+274. [2053. Kth Distinct String in an Array](/easy/kth-distinct-string-in-an-array_2053.py)
+275. []()
 
 ### Medium Tasks
 
