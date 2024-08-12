@@ -283,7 +283,8 @@ Try to solve every day!!!
 272. [3216. Lexicographically Smallest String After a Swap](/easy/lexicographically-smallest-string-after-a-swap_3216.py)
 273. [2678. Number of Senior Citizens](/easy/number-of-senior-citizens_2678.py)
 274. [2053. Kth Distinct String in an Array](/easy/kth-distinct-string-in-an-array_2053.py)
-275. []()
+275. [2815. Max Pair Sum in an Array](/easy/max-pair-sum-in-an-array_2815.py)
+276. []()
 
 ### Medium Tasks
 
