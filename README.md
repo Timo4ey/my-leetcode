@@ -284,7 +284,8 @@ Try to solve every day!!!
 273. [2678. Number of Senior Citizens](/easy/number-of-senior-citizens_2678.py)
 274. [2053. Kth Distinct String in an Array](/easy/kth-distinct-string-in-an-array_2053.py)
 275. [2815. Max Pair Sum in an Array](/easy/max-pair-sum-in-an-array_2815.py)
-276. []()
+276. [3304. Find the K-th Character in String Game I](/easy/find-the-k-th-character-in-string-game-i_3304.py)
+277. []()
 
 ### Medium Tasks
 
