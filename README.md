@@ -286,6 +286,7 @@ Try to solve every day!!!
 275. [2815. Max Pair Sum in an Array](/easy/max-pair-sum-in-an-array_2815.py)
 276. [3304. Find the K-th Character in String Game I](/easy/find-the-k-th-character-in-string-game-i_3304.py)
 277. [3285. Find Indices of Stable Mountains](/easy/find-indices-of-stable-mountains_3285.py)
+278. [3622. Check Divisibility by Digit Sum and Product](/easy/check-divisibility-by-digit-sum-and-product_3622.py)
 278. []()
 
 ### Medium Tasks
